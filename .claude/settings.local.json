@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find \"C:\\\\Users\\\\maila\\\\OneDrive\\\\Documents\\\\paper\" -type f -exec ls -lh {} ;)",
+      "Bash(find \"C:\\\\Users\\\\maila\\\\OneDrive\\\\Documents\\\\paper\" -type f -printf \"%p|%s\\\\n\")",
+      "Bash(test -d .git)",
+      "Bash(test -f .gitignore)",
+      "Bash(find . -type f -name \"*V1*\" -o -name \"*V2*\" -o -name \"*Revised*\" -o -name \"*Rewrite*\" -o -name \"*\\(1\\)*\")",
+      "Bash(xargs wc -l)",
+      "Bash(find \"/c/Users/maila/OneDrive/Documents/paper/\" -type f -name \"*.md\" -exec wc -l {} ;)",
+      "Bash(find \"/c/Users/maila/OneDrive/Documents/paper/\" -type f -name \"*V1*\" -o -name \"*V2*\" -o -name \"*Version*\" -o -name \"*\\(1\\)*\" -o -name \"*Revised*\")",
+      "Bash(find \"/c/Users/maila/OneDrive/Documents/paper/\" -type f -not -path \"*/.claude/*\" -printf '%s|%p\\\\n')",
+      "Bash(sort -t'|' -k2)",
+      "Bash(pandoc --version)",
+      "Bash(git --version)",
+      "Bash(git lfs version)",
+      "Bash(npm --version)",
+      "Bash(npx --version)",
+      "Bash(pip --version)",
+      "Bash(pip3 --version)",
+      "Bash(ls -1 \"/c/Users/maila/OneDrive/Documents/paper/\"*.docx \"/c/Users/maila/OneDrive/Documents/paper/\"*.pptx \"/c/Users/maila/OneDrive/Documents/paper/\"*.mp3)"
+    ]
+  }
+}

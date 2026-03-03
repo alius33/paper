@@ -1,0 +1,10 @@
+archive/
+.DS_Store
+Thumbs.db
+~$*
+~*.docx
+*.swp
+*.bak
+node_modules/
+__pycache__/
+.claude/plans/
