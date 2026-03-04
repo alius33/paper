@@ -4,7 +4,7 @@ import { getFileTree } from '@/lib/files';
 import { getLog } from '@/lib/git';
 import type { FileNode } from '@/types/files';
 
-interface ChapterInfo {
+interface FileInfo {
   name: string;
   path: string;
   wordCount: number;
@@ -14,9 +14,11 @@ interface ChapterInfo {
 interface ProjectStats {
   totalFiles: number;
   totalWords: number;
-  chapters: ChapterInfo[];
+  chapters: FileInfo[];
   chapterCount: number;
   totalChapterWords: number;
+  researchFiles: FileInfo[];
+  digestFiles: FileInfo[];
   recentCommits: { hash: string; shortHash: string; message: string; date: string; author: string }[];
   filesByCategory: Record<string, number>;
 }
@@ -26,7 +28,9 @@ function collectStats(
   stats: {
     totalFiles: number;
     totalWords: number;
-    chapters: ChapterInfo[];
+    chapters: FileInfo[];
+    researchFiles: FileInfo[];
+    digestFiles: FileInfo[];
     filesByCategory: Record<string, number>;
   }
 ): void {
@@ -37,18 +41,30 @@ function collectStats(
         stats.totalWords += node.wordCount;
       }
 
-      // Track files by category
       const category = node.category || 'other';
       stats.filesByCategory[category] = (stats.filesByCategory[category] || 0) + 1;
 
-      // Collect chapter info
-      if (node.category === 'chapter' && node.name.endsWith('.md')) {
-        stats.chapters.push({
+      if (node.name.endsWith('.md')) {
+        const info: FileInfo = {
           name: node.name.replace(/\.md$/, '').replace(/-/g, ' '),
           path: node.path,
           wordCount: node.wordCount || 0,
           lastModified: node.lastModified || '',
-        });
+        };
+
+        if (node.category === 'chapter') {
+          stats.chapters.push(info);
+        }
+
+        // Research files (excluding digests)
+        if (node.category === 'research' && !node.path.startsWith('research/digests/')) {
+          stats.researchFiles.push(info);
+        }
+
+        // Digest files
+        if (node.path.startsWith('research/digests/')) {
+          stats.digestFiles.push(info);
+        }
       }
     } else if (node.children) {
       collectStats(node.children, stats);
@@ -60,28 +76,25 @@ export async function GET() {
   try {
     const repoPath = getRepoPath();
 
-    // Get file tree and commit log in parallel
     const [tree, commits] = await Promise.all([
       getFileTree(repoPath),
       getLog(repoPath, undefined, 10),
     ]);
 
-    const stats: {
-      totalFiles: number;
-      totalWords: number;
-      chapters: ChapterInfo[];
-      filesByCategory: Record<string, number>;
-    } = {
+    const stats = {
       totalFiles: 0,
       totalWords: 0,
-      chapters: [],
-      filesByCategory: {},
+      chapters: [] as FileInfo[],
+      researchFiles: [] as FileInfo[],
+      digestFiles: [] as FileInfo[],
+      filesByCategory: {} as Record<string, number>,
     };
 
     collectStats(tree, stats);
 
-    // Sort chapters by path for consistent ordering
     stats.chapters.sort((a, b) => a.path.localeCompare(b.path));
+    stats.researchFiles.sort((a, b) => a.path.localeCompare(b.path));
+    stats.digestFiles.sort((a, b) => a.path.localeCompare(b.path));
 
     const totalChapterWords = stats.chapters.reduce((sum, ch) => sum + ch.wordCount, 0);
 
@@ -91,6 +104,8 @@ export async function GET() {
       chapters: stats.chapters,
       chapterCount: stats.chapters.length,
       totalChapterWords,
+      researchFiles: stats.researchFiles,
+      digestFiles: stats.digestFiles,
       recentCommits: commits.map((c) => ({
         hash: c.hash,
         shortHash: c.shortHash,
