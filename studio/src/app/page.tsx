@@ -1,76 +1,107 @@
-import { BookOpen, Feather, ScrollText, FolderOpen } from "lucide-react";
+import { getRepoPath } from "@/lib/repo-config";
+import { getFileTree } from "@/lib/files";
+import { getLog } from "@/lib/git";
+import { DashboardContent } from "@/components/dashboard/dashboard-content";
+import type { FileNode } from "@/types/files";
 
-export default function HomePage() {
-  return (
-    <div className="flex h-screen items-center justify-center bg-background">
-      <div className="max-w-lg px-8 text-center">
-        {/* Title */}
-        <div className="mb-8">
-          <h1 className="font-serif text-4xl font-bold tracking-tight text-primary">
-            Paper House Studio
-          </h1>
-          <div className="mt-2 h-px w-24 mx-auto bg-accent" />
-          <p className="mt-4 font-serif text-lg italic text-muted-foreground">
-            Manuscript management for The House of Paper
-          </p>
-        </div>
-
-        {/* Description */}
-        <p className="text-sm text-muted-foreground leading-relaxed">
-          A writing studio for managing chapters, research, and revisions
-          across a four-book historical fiction series set in the Abbasid
-          Caliphate, 770&ndash;814 CE.
-        </p>
-
-        {/* Feature cards */}
-        <div className="mt-10 grid grid-cols-2 gap-4">
-          <FeatureCard
-            icon={<Feather className="h-5 w-5" />}
-            title="Write"
-            description="Rich text editor with autosave"
-          />
-          <FeatureCard
-            icon={<FolderOpen className="h-5 w-5" />}
-            title="Organize"
-            description="Browse chapters and research"
-          />
-          <FeatureCard
-            icon={<ScrollText className="h-5 w-5" />}
-            title="Research"
-            description="Reference materials at hand"
-          />
-          <FeatureCard
-            icon={<BookOpen className="h-5 w-5" />}
-            title="Revise"
-            description="Version history and diffs"
-          />
-        </div>
-
-        {/* Subtle footer */}
-        <p className="mt-12 text-xs text-sidebar-muted">
-          Select a file from the sidebar to begin.
-        </p>
-      </div>
-    </div>
-  );
+interface ChapterInfo {
+  name: string;
+  path: string;
+  wordCount: number;
+  lastModified: string;
 }
 
-function FeatureCard({
-  icon,
-  title,
-  description,
-}: {
-  icon: React.ReactNode;
-  title: string;
-  description: string;
-}) {
+function collectStats(
+  nodes: FileNode[],
+  stats: {
+    totalFiles: number;
+    totalWords: number;
+    chapters: ChapterInfo[];
+    filesByCategory: Record<string, number>;
+  }
+): void {
+  for (const node of nodes) {
+    if (node.type === "file") {
+      stats.totalFiles++;
+      if (node.wordCount) {
+        stats.totalWords += node.wordCount;
+      }
+      const category = node.category || "other";
+      stats.filesByCategory[category] =
+        (stats.filesByCategory[category] || 0) + 1;
+
+      if (node.category === "chapter" && node.name.endsWith(".md")) {
+        stats.chapters.push({
+          name: node.name.replace(/\.md$/, "").replace(/-/g, " "),
+          path: node.path,
+          wordCount: node.wordCount || 0,
+          lastModified: node.lastModified || "",
+        });
+      }
+    } else if (node.children) {
+      collectStats(node.children, stats);
+    }
+  }
+}
+
+export default async function HomePage() {
+  let totalWords = 0;
+  let totalFiles = 0;
+  let chapterCount = 0;
+  let totalChapterWords = 0;
+  let chapters: ChapterInfo[] = [];
+  let recentCommits: {
+    hash: string;
+    shortHash: string;
+    message: string;
+    date: string;
+    author: string;
+  }[] = [];
+  let filesByCategory: Record<string, number> = {};
+
+  try {
+    const repoPath = getRepoPath();
+    const [tree, commits] = await Promise.all([
+      getFileTree(repoPath),
+      getLog(repoPath, undefined, 10),
+    ]);
+
+    const stats = {
+      totalFiles: 0,
+      totalWords: 0,
+      chapters: [] as ChapterInfo[],
+      filesByCategory: {} as Record<string, number>,
+    };
+
+    collectStats(tree, stats);
+    stats.chapters.sort((a, b) => a.path.localeCompare(b.path));
+
+    totalWords = stats.totalWords;
+    totalFiles = stats.totalFiles;
+    chapters = stats.chapters;
+    chapterCount = chapters.length;
+    totalChapterWords = chapters.reduce((sum, ch) => sum + ch.wordCount, 0);
+    filesByCategory = stats.filesByCategory;
+    recentCommits = commits.map((c) => ({
+      hash: c.hash,
+      shortHash: c.shortHash,
+      message: c.message,
+      date: c.date,
+      author: c.author,
+    }));
+  } catch {
+    // Dashboard will render with zeros if stats fail
+  }
+
   return (
-    <div className="rounded-lg border border-border bg-card p-4 text-left transition-colors hover:border-accent">
-      <div className="flex items-center gap-2 text-primary">
-        {icon}
-        <span className="text-sm font-semibold">{title}</span>
-      </div>
-      <p className="mt-1.5 text-xs text-muted-foreground">{description}</p>
-    </div>
+    <DashboardContent
+      totalWords={totalWords}
+      totalFiles={totalFiles}
+      chapterCount={chapterCount}
+      totalChapterWords={totalChapterWords}
+      chapters={chapters}
+      recentCommits={recentCommits}
+      filesByCategory={filesByCategory}
+    />
   );
 }

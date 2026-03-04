@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Toaster } from "sonner";
+import { StudioShell } from "@/components/layout/studio-shell";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -28,7 +29,7 @@ export default function RootLayout({
         />
       </head>
       <body className="antialiased h-screen overflow-hidden">
-        {children}
+        <StudioShell>{children}</StudioShell>
         <Toaster
           position="bottom-right"
           toastOptions={{
