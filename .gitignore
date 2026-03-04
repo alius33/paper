@@ -8,3 +8,9 @@ Thumbs.db
 node_modules/
 __pycache__/
 .claude/plans/
+
+# Paper House Studio
+studio/.next/
+studio/node_modules/
+studio/.env
+studio/.env.local
