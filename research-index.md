@@ -180,24 +180,24 @@ Digests are markdown summaries of reference books, stored in `research/digests/`
 
 | Digest File | Source File | Key Topics | Status |
 |-------------|------------|------------|--------|
-| `digests/el-hibri--abbasid-caliphate-history.md` | `reference/abbasid-caliphate-history--el-hibri.pdf` | Abbasid political history, historiography | Pending |
-| `digests/le-strange--baghdad-abbasid-caliphate.md` | `reference/baghdad-during-abbasid-caliphate--le-strange.pdf` | City geography, neighbourhoods, canals, gates | Pending |
-| `digests/court-of-caliphs.md` | `reference/court-of-caliphs.pdf` | Court life, ceremonies, power dynamics | Pending |
-| `digests/kennedy--early-abbasid-caliphate.md` | `reference/early-abbasid-caliphate--kennedy.pdf` | Political history, Barmakids, court structure | Pending |
-| `digests/eclipse-of-abbasid-caliphate.md` | `reference/eclipse-of-abbasid-caliphate.pdf` | Late Abbasid decline, civil war period | Pending |
-| `digests/economic-prosperity-abbasid-era.md` | `reference/economic-prosperity-abbasid-era.pdf` | Economic growth, trade, prosperity indicators | Pending |
-| `digests/economic-system-abbasid-dynasty.md` | `reference/economic-system-abbasid-dynasty.pdf` | Economic structures, taxation, commerce | Pending |
-| `digests/philby--harun-al-rashid.md` | `reference/harun-al-rashid--philby.pdf` | Harun's biography, personality, court | Pending |
-| `digests/clot--harun-al-rashid.md` | `reference/harun-al-rashid-thousand-one-nights--clot.pdf` | Harun and cultural context, Thousand and One Nights | Pending |
-| `digests/how-did-islamic-economy-perform.md` | `reference/how-did-islamic-economy-perform.pdf` | Economic performance metrics, comparative analysis | Pending |
-| `digests/bartlett--making-of-europe.md` | `reference/making-of-europe--bartlett.pdf` | European context, comparative civilisation | Pending |
-| `digests/medieval-islamic-economic-thought.md` | `reference/medieval-islamic-economic-thought.pdf` | Economic theory, Islamic jurisprudence on commerce | Pending |
-| `digests/premodern-financial-systems.md` | `reference/premodern-financial-systems.pdf` | Financial instruments, banking, credit systems | Pending |
-| `digests/reinterpreting-islamic-historiography.md` | `reference/reinterpreting-islamic-historiography.pdf` | Historical methodology, source reliability | Pending |
-| `digests/two-queens-of-baghdad.md` | `reference/two-queens-of-baghdad.pdf` | Women at court, Khaizuran, Zubayda, gender and power | Pending |
-| `digests/when-baghdad-ruled-muslim-world.md` | `reference/when-baghdad-ruled-muslim-world.pdf` | Baghdad's golden age, cultural and political overview | Pending |
+| `digests/el-hibri--abbasid-caliphate-history.md` | `reference/abbasid-caliphate-history--el-hibri.pdf` | Abbasid political history, historiography, narrative construction | Done |
+| `digests/le-strange--baghdad-abbasid-caliphate.md` | `reference/baghdad-during-abbasid-caliphate--le-strange.pdf` | City geography, neighbourhoods, canals, gates, bridges | Done |
+| `digests/court-of-caliphs.md` | `reference/court-of-caliphs.pdf` | Court life, ceremonies, palace layout, power dynamics | Done |
+| `digests/kennedy--early-abbasid-caliphate.md` | `reference/early-abbasid-caliphate--kennedy.pdf` | Political history, Barmakids, court structure, civil war | Done |
+| `digests/eclipse-of-abbasid-caliphate.md` | `reference/eclipse-of-abbasid-caliphate.pdf` | Late Abbasid decline, siege of Baghdad, ayyarun | Done |
+| `digests/economic-prosperity-abbasid-era.md` | `reference/economic-prosperity-abbasid-era.pdf` | Economic growth, wages, trade volumes, urbanisation | Done |
+| `digests/economic-system-abbasid-dynasty.md` | `reference/economic-system-abbasid-dynasty.pdf` | Taxation, Bayt al-Mal, diwan system, muhtasib, monetary policy | Done |
+| `digests/philby--harun-al-rashid.md` | `reference/harun-al-rashid--philby.pdf` | Harun's biography, personality, Barmakids, death at Tus | Done |
+| `digests/clot--harun-al-rashid.md` | `reference/harun-al-rashid-thousand-one-nights--clot.pdf` | Harun's night walks, court life, Barmakid purge details | Done |
+| `digests/how-did-islamic-economy-perform.md` | `reference/how-did-islamic-economy-perform.pdf` | Comparative economic performance, financial innovation | Done |
+| `digests/bartlett--making-of-europe.md` | `reference/making-of-europe--bartlett.pdf` | European context, comparative civilisation, trade connections | Done |
+| `digests/medieval-islamic-economic-thought.md` | `reference/medieval-islamic-economic-thought.pdf` | Riba prohibition, hiyal, Abu Yusuf's economics, market theory | Done |
+| `digests/premodern-financial-systems.md` | `reference/premodern-financial-systems.pdf` | Suftaja, letters of credit, banking houses, sarrafs, jahbadhs | Done |
+| `digests/reinterpreting-islamic-historiography.md` | `reference/reinterpreting-islamic-historiography.pdf` | Historical methodology, source reliability, narrative analysis | Done |
+| `digests/two-queens-of-baghdad.md` | `reference/two-queens-of-baghdad.pdf` | Women at court, Khaizuran, Zubayda, household economics | Done |
+| `digests/when-baghdad-ruled-muslim-world.md` | `reference/when-baghdad-ruled-muslim-world.pdf` | Baghdad's golden age, daily life, cultural achievements | Done |
 
-> **Note:** Digests marked "Pending" require the actual book files to be available (via `git lfs pull` or local upload). Once available, say "Digest the [book name]" and Claude will read the book and create the digest file.
+> **Note:** To digest a new book, add the PDF/EPUB to `reference/` and say "Digest the [book name]." Claude will read it and create a digest file here.
 
 ---
 
