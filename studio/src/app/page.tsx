@@ -4,7 +4,7 @@ import { getLog } from "@/lib/git";
 import { DashboardContent } from "@/components/dashboard/dashboard-content";
 import type { FileNode } from "@/types/files";
 
-interface ChapterInfo {
+interface FileInfo {
   name: string;
   path: string;
   wordCount: number;
@@ -16,7 +16,9 @@ function collectStats(
   stats: {
     totalFiles: number;
     totalWords: number;
-    chapters: ChapterInfo[];
+    chapters: FileInfo[];
+    researchFiles: FileInfo[];
+    digestFiles: FileInfo[];
     filesByCategory: Record<string, number>;
   }
 ): void {
@@ -30,13 +32,25 @@ function collectStats(
       stats.filesByCategory[category] =
         (stats.filesByCategory[category] || 0) + 1;
 
-      if (node.category === "chapter" && node.name.endsWith(".md")) {
-        stats.chapters.push({
+      if (node.name.endsWith(".md")) {
+        const info: FileInfo = {
           name: node.name.replace(/\.md$/, "").replace(/-/g, " "),
           path: node.path,
           wordCount: node.wordCount || 0,
           lastModified: node.lastModified || "",
-        });
+        };
+
+        if (node.category === "chapter") {
+          stats.chapters.push(info);
+        }
+
+        if (node.category === "research" && !node.path.startsWith("research/digests/")) {
+          stats.researchFiles.push(info);
+        }
+
+        if (node.path.startsWith("research/digests/")) {
+          stats.digestFiles.push(info);
+        }
       }
     } else if (node.children) {
       collectStats(node.children, stats);
@@ -49,7 +63,9 @@ export default async function HomePage() {
   let totalFiles = 0;
   let chapterCount = 0;
   let totalChapterWords = 0;
-  let chapters: ChapterInfo[] = [];
+  let chapters: FileInfo[] = [];
+  let researchFiles: FileInfo[] = [];
+  let digestFiles: FileInfo[] = [];
   let recentCommits: {
     hash: string;
     shortHash: string;
@@ -69,16 +85,22 @@ export default async function HomePage() {
     const stats = {
       totalFiles: 0,
       totalWords: 0,
-      chapters: [] as ChapterInfo[],
+      chapters: [] as FileInfo[],
+      researchFiles: [] as FileInfo[],
+      digestFiles: [] as FileInfo[],
       filesByCategory: {} as Record<string, number>,
     };
 
     collectStats(tree, stats);
     stats.chapters.sort((a, b) => a.path.localeCompare(b.path));
+    stats.researchFiles.sort((a, b) => a.path.localeCompare(b.path));
+    stats.digestFiles.sort((a, b) => a.path.localeCompare(b.path));
 
     totalWords = stats.totalWords;
     totalFiles = stats.totalFiles;
     chapters = stats.chapters;
+    researchFiles = stats.researchFiles;
+    digestFiles = stats.digestFiles;
     chapterCount = chapters.length;
     totalChapterWords = chapters.reduce((sum, ch) => sum + ch.wordCount, 0);
     filesByCategory = stats.filesByCategory;
@@ -100,6 +122,8 @@ export default async function HomePage() {
       chapterCount={chapterCount}
       totalChapterWords={totalChapterWords}
       chapters={chapters}
+      researchFiles={researchFiles}
+      digestFiles={digestFiles}
       recentCommits={recentCommits}
       filesByCategory={filesByCategory}
     />

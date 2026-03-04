@@ -10,8 +10,9 @@ import { StatsCard } from "./stats-card";
 import { BookOverview } from "./book-overview";
 import { WritingProgress } from "./writing-progress";
 import { RecentActivity } from "./recent-activity";
+import { ResearchBrowser } from "./research-browser";
 
-interface ChapterInfo {
+interface FileInfo {
   name: string;
   path: string;
   wordCount: number;
@@ -31,7 +32,9 @@ interface DashboardContentProps {
   totalFiles: number;
   chapterCount: number;
   totalChapterWords: number;
-  chapters: ChapterInfo[];
+  chapters: FileInfo[];
+  researchFiles: FileInfo[];
+  digestFiles: FileInfo[];
   recentCommits: CommitInfo[];
   filesByCategory: Record<string, number>;
 }
@@ -42,10 +45,12 @@ export function DashboardContent({
   chapterCount,
   totalChapterWords,
   chapters,
+  researchFiles,
+  digestFiles,
   recentCommits,
   filesByCategory,
 }: DashboardContentProps) {
-  const researchFiles = filesByCategory["research"] || 0;
+  const researchCount = (filesByCategory["research"] || 0) + (filesByCategory["plot"] || 0);
 
   return (
     <div className="h-full overflow-y-auto">
@@ -77,7 +82,7 @@ export function DashboardContent({
           />
           <StatsCard
             title="Research Files"
-            value={researchFiles}
+            value={researchCount}
             icon={<FolderOpen className="h-4 w-4" />}
           />
           <StatsCard
@@ -100,6 +105,12 @@ export function DashboardContent({
             />
           </div>
         </div>
+
+        {/* Research Library */}
+        <ResearchBrowser
+          researchFiles={researchFiles}
+          digestFiles={digestFiles}
+        />
 
         {/* Recent Activity */}
         <RecentActivity commits={recentCommits} />
