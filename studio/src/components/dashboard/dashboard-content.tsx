@@ -134,6 +134,10 @@ export function DashboardContent({
               label="View series plot"
             />
             <QuickActionLink
+              href="/research"
+              label="Research library"
+            />
+            <QuickActionLink
               href="/search"
               label="Search files"
             />

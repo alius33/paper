@@ -2,7 +2,7 @@
 
 import { ReactNode, useState, FormEvent } from "react";
 import { useRouter } from "next/navigation";
-import { GitBranch, ArrowDownToLine, ArrowUpFromLine, Search, Sun, Moon, Scroll, PanelLeftClose } from "lucide-react";
+import { GitBranch, ArrowDownToLine, ArrowUpFromLine, Search, Sun, Moon, Scroll, PanelLeftClose, Library, Home } from "lucide-react";
 import { toast } from "sonner";
 import { cn } from "@/lib/utils";
 import { useAppStore, type Theme } from "@/lib/store";
@@ -89,6 +89,28 @@ export function Sidebar({ children }: SidebarProps) {
             title="Collapse sidebar"
           >
             <PanelLeftClose className="h-4 w-4" />
+          </button>
+        </div>
+      </div>
+
+      {/* Navigation */}
+      <div className="flex-shrink-0 px-3 py-2 border-b border-sidebar-border">
+        <div className="flex items-center gap-1">
+          <button
+            onClick={() => router.push("/")}
+            className="flex items-center gap-1.5 rounded-md px-2.5 py-1.5 text-xs font-medium text-sidebar-foreground hover:bg-sidebar-accent transition-colors"
+            title="Dashboard"
+          >
+            <Home className="h-3.5 w-3.5" />
+            Home
+          </button>
+          <button
+            onClick={() => router.push("/research")}
+            className="flex items-center gap-1.5 rounded-md px-2.5 py-1.5 text-xs font-medium text-sidebar-foreground hover:bg-sidebar-accent transition-colors"
+            title="Research Library"
+          >
+            <Library className="h-3.5 w-3.5" />
+            Research
           </button>
         </div>
       </div>
