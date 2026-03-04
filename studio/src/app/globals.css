@@ -2,10 +2,12 @@
 @import "@git-diff-view/react/styles/diff-view.css";
 
 /* ============================================================
-   Paper House Studio — Warm Parchment Theme
+   Paper House Studio — Theme System
    ============================================================ */
 
-:root {
+/* --- Parchment Theme (default) --- */
+:root,
+[data-theme="parchment"] {
   /* Core palette */
   --background: #faf6f0;
   --foreground: #2c1810;
@@ -55,6 +57,92 @@
   --status-bar-border: #d9cebf;
 
   /* Radius */
+  --radius: 0.5rem;
+}
+
+/* --- Standard White Theme --- */
+[data-theme="standard"] {
+  --background: #ffffff;
+  --foreground: #1a1a1a;
+
+  --card: #ffffff;
+  --card-foreground: #1a1a1a;
+  --popover: #ffffff;
+  --popover-foreground: #1a1a1a;
+
+  --primary: #1a1a1a;
+  --primary-foreground: #ffffff;
+
+  --secondary: #f4f4f5;
+  --secondary-foreground: #1a1a1a;
+
+  --muted: #f4f4f5;
+  --muted-foreground: #71717a;
+
+  --accent: #3b82f6;
+  --accent-foreground: #ffffff;
+
+  --destructive: #dc2626;
+  --destructive-foreground: #ffffff;
+
+  --border: #e4e4e7;
+  --input: #e4e4e7;
+  --ring: #1a1a1a;
+
+  --sidebar: #f9fafb;
+  --sidebar-foreground: #1a1a1a;
+  --sidebar-border: #e4e4e7;
+  --sidebar-accent: #f4f4f5;
+  --sidebar-accent-foreground: #1a1a1a;
+  --sidebar-muted: #a1a1aa;
+
+  --status-bar: #f4f4f5;
+  --status-bar-foreground: #71717a;
+  --status-bar-border: #e4e4e7;
+
+  --radius: 0.5rem;
+}
+
+/* --- Dark Theme --- */
+[data-theme="dark"] {
+  --background: #121212;
+  --foreground: #e4e4e7;
+
+  --card: #1c1c1e;
+  --card-foreground: #e4e4e7;
+  --popover: #1c1c1e;
+  --popover-foreground: #e4e4e7;
+
+  --primary: #e4e4e7;
+  --primary-foreground: #121212;
+
+  --secondary: #27272a;
+  --secondary-foreground: #e4e4e7;
+
+  --muted: #27272a;
+  --muted-foreground: #a1a1aa;
+
+  --accent: #d4a96a;
+  --accent-foreground: #121212;
+
+  --destructive: #ef4444;
+  --destructive-foreground: #ffffff;
+
+  --border: #3f3f46;
+  --input: #3f3f46;
+  --ring: #d4a96a;
+
+  --sidebar: #18181b;
+  --sidebar-foreground: #e4e4e7;
+  --sidebar-border: #3f3f46;
+  --sidebar-accent: #27272a;
+  --sidebar-accent-foreground: #e4e4e7;
+  --sidebar-muted: #52525b;
+
+  --status-bar: #18181b;
+  --status-bar-foreground: #a1a1aa;
+  --status-bar-border: #3f3f46;
+
   --radius: 0.5rem;
 }
 
@@ -269,6 +357,14 @@ body {
   line-height: 1;
 }
 
+.status-saved {
+  color: #15803d;
+}
+
+[data-theme="dark"] .status-saved {
+  color: #4ade80;
+}
+
 /* ============================================================
    Panel Separators (react-resizable-panels v4)
    ============================================================ */
@@ -280,4 +376,38 @@ body {
 [data-separator]:hover,
 [data-separator]:active {
   background: var(--accent);
+}
+
+/* ============================================================
+   Diff line colours (theme-aware via CSS variables)
+   ============================================================ */
+
+.diff-line-add {
+  background: #f0fdf4;
+  color: #166534;
+}
+
+.diff-line-remove {
+  background: #fef2f2;
+  color: #991b1b;
+}
+
+.diff-line-hunk {
+  background: #eff6ff;
+  color: #1d4ed8;
+}
+
+[data-theme="dark"] .diff-line-add {
+  background: #052e16;
+  color: #86efac;
+}
+
+[data-theme="dark"] .diff-line-remove {
+  background: #450a0a;
+  color: #fca5a5;
+}
+
+[data-theme="dark"] .diff-line-hunk {
+  background: #172554;
+  color: #93c5fd;
 }
