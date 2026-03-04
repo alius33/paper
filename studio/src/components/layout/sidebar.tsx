@@ -2,10 +2,11 @@
 
 import { ReactNode, useState, FormEvent } from "react";
 import { useRouter } from "next/navigation";
-import { GitBranch, ArrowDownToLine, ArrowUpFromLine, Search, Sun, Moon, Scroll } from "lucide-react";
+import { GitBranch, ArrowDownToLine, ArrowUpFromLine, Search, Sun, Moon, Scroll, PanelLeftClose } from "lucide-react";
 import { toast } from "sonner";
 import { cn } from "@/lib/utils";
 import { useAppStore, type Theme } from "@/lib/store";
+import { usePanelControls } from "./panel-context";
 
 interface SidebarProps {
   children?: ReactNode;
@@ -16,6 +17,7 @@ export function Sidebar({ children }: SidebarProps) {
   const [searchQuery, setSearchQuery] = useState("");
   const [isPulling, setIsPulling] = useState(false);
   const [isPushing, setIsPushing] = useState(false);
+  const { collapseSidebar } = usePanelControls();
 
   const handleSearch = (e: FormEvent) => {
     e.preventDefault();
@@ -74,10 +76,21 @@ export function Sidebar({ children }: SidebarProps) {
     <div className="flex h-full flex-col">
       {/* Header */}
       <div className="flex-shrink-0 border-b border-sidebar-border px-4 py-3">
-        <h1 className="font-serif text-lg font-semibold text-sidebar-foreground tracking-tight">
-          Paper House Studio
-        </h1>
-        <p className="text-xs text-sidebar-muted mt-0.5">Manuscript Manager</p>
+        <div className="flex items-start justify-between">
+          <div>
+            <h1 className="font-serif text-lg font-semibold text-sidebar-foreground tracking-tight">
+              Paper House Studio
+            </h1>
+            <p className="text-xs text-sidebar-muted mt-0.5">Manuscript Manager</p>
+          </div>
+          <button
+            onClick={collapseSidebar}
+            className="rounded-md p-1 text-sidebar-muted hover:text-sidebar-foreground hover:bg-sidebar-accent transition-colors mt-0.5"
+            title="Collapse sidebar"
+          >
+            <PanelLeftClose className="h-4 w-4" />
+          </button>
+        </div>
       </div>
 
       {/* Search */}

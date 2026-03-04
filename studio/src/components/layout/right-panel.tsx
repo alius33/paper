@@ -1,8 +1,9 @@
 "use client";
 
 import { ReactNode, useState } from "react";
-import { ChevronRight } from "lucide-react";
+import { PanelRightClose } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { usePanelControls } from "./panel-context";
 
 type TabId = "research" | "claude" | "history";
 
@@ -21,15 +22,14 @@ interface RightPanelProps {
   researchContent?: ReactNode;
   claudeContent?: ReactNode;
   historyContent?: ReactNode;
-  onCollapse?: () => void;
 }
 
 export function RightPanel({
   researchContent,
   claudeContent,
   historyContent,
-  onCollapse,
 }: RightPanelProps) {
+  const { collapseRightPanel } = usePanelControls();
   const [activeTab, setActiveTab] = useState<TabId>("research");
 
   const renderContent = () => {
@@ -88,15 +88,13 @@ export function RightPanel({
           </div>
 
           {/* Collapse button */}
-          {onCollapse && (
-            <button
-              onClick={onCollapse}
-              className="rounded-md p-1 text-muted-foreground hover:text-foreground hover:bg-muted transition-colors"
-              title="Collapse panel"
-            >
-              <ChevronRight className="h-4 w-4" />
-            </button>
-          )}
+          <button
+            onClick={collapseRightPanel}
+            className="rounded-md p-1 text-muted-foreground hover:text-foreground hover:bg-muted transition-colors"
+            title="Collapse panel"
+          >
+            <PanelRightClose className="h-4 w-4" />
+          </button>
         </div>
       </div>
 
