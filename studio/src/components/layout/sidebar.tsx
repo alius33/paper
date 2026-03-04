@@ -2,9 +2,10 @@
 
 import { ReactNode, useState, FormEvent } from "react";
 import { useRouter } from "next/navigation";
-import { GitBranch, ArrowDownToLine, ArrowUpFromLine, Search } from "lucide-react";
+import { GitBranch, ArrowDownToLine, ArrowUpFromLine, Search, Sun, Moon, Scroll } from "lucide-react";
 import { toast } from "sonner";
 import { cn } from "@/lib/utils";
+import { useAppStore, type Theme } from "@/lib/store";
 
 interface SidebarProps {
   children?: ReactNode;
@@ -98,6 +99,9 @@ export function Sidebar({ children }: SidebarProps) {
         {children}
       </div>
 
+      {/* Theme Selector */}
+      <ThemeSelector />
+
       {/* Git Actions */}
       <div className="flex-shrink-0 border-t border-sidebar-border px-3 py-2">
         <div className="flex items-center gap-1">
@@ -132,6 +136,40 @@ export function Sidebar({ children }: SidebarProps) {
             {isPushing ? "Pushing..." : "Push"}
           </button>
         </div>
+      </div>
+    </div>
+  );
+}
+
+const themes: { value: Theme; label: string; icon: typeof Sun }[] = [
+  { value: "standard", label: "Standard", icon: Sun },
+  { value: "parchment", label: "Parchment", icon: Scroll },
+  { value: "dark", label: "Dark", icon: Moon },
+];
+
+function ThemeSelector() {
+  const theme = useAppStore((s) => s.theme);
+  const setTheme = useAppStore((s) => s.setTheme);
+
+  return (
+    <div className="flex-shrink-0 border-t border-sidebar-border px-3 py-2">
+      <div className="flex items-center gap-1">
+        <span className="text-xs text-sidebar-muted mr-auto">Theme</span>
+        {themes.map(({ value, label, icon: Icon }) => (
+          <button
+            key={value}
+            onClick={() => setTheme(value)}
+            className={cn(
+              "flex items-center gap-1.5 rounded-md px-2.5 py-1.5 text-xs font-medium transition-colors",
+              theme === value
+                ? "bg-sidebar-accent text-sidebar-accent-foreground"
+                : "text-sidebar-foreground hover:bg-sidebar-accent"
+            )}
+            title={label}
+          >
+            <Icon className="h-3.5 w-3.5" />
+          </button>
+        ))}
       </div>
     </div>
   );

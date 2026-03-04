@@ -15,7 +15,7 @@ export function StatusBar() {
     switch (saveStatus) {
       case "saved":
         return (
-          <span className="flex items-center gap-1 text-green-700">
+          <span className="flex items-center gap-1 status-saved">
             <Check className="h-3 w-3" />
             Saved
           </span>

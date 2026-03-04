@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { Loader2 } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { useAppStore } from "@/lib/store";
 
 /**
  * Splits a unified diff string into an array of hunk strings.
@@ -46,6 +47,7 @@ export function DiffViewer({ filePath, fromHash, toHash }: DiffViewerProps) {
   const [error, setError] = useState<string | null>(null);
   const [DiffViewComponent, setDiffViewComponent] = useState<React.ComponentType<any> | null>(null);
   const [useFallback, setUseFallback] = useState(false);
+  const theme = useAppStore((s) => s.theme);
 
   const shortFrom = fromHash.substring(0, 7);
   const shortTo = toHash.substring(0, 7);
@@ -181,6 +183,7 @@ export function DiffViewer({ filePath, fromHash, toHash }: DiffViewerProps) {
             oldContent={oldContent}
             newContent={newContent}
             hunks={hunks}
+            diffTheme={theme === "dark" ? "dark" : "light"}
           />
         ) : (
           <FallbackDiffView diff={diff} />
@@ -197,12 +200,14 @@ function RichDiffView({
   oldContent,
   newContent,
   hunks,
+  diffTheme,
 }: {
   DiffView: React.ComponentType<any>;
   filePath: string;
   oldContent: string;
   newContent: string;
   hunks: string[];
+  diffTheme: "light" | "dark";
 }) {
   const [hasError, setHasError] = useState(false);
 
@@ -230,7 +235,7 @@ function RichDiffView({
         }}
         diffViewMode={4}
         diffViewWrap={true}
-        diffViewTheme="light"
+        diffViewTheme={diffTheme}
         diffViewFontSize={13}
         diffViewHighlight={true}
       />
@@ -250,11 +255,11 @@ function FallbackDiffView({ diff }: { diff: string }) {
       {lines.map((line, i) => {
         let lineClass = "px-4 py-0";
         if (line.startsWith("+") && !line.startsWith("+++")) {
-          lineClass = cn(lineClass, "bg-green-50 text-green-800");
+          lineClass = cn(lineClass, "diff-line-add");
         } else if (line.startsWith("-") && !line.startsWith("---")) {
-          lineClass = cn(lineClass, "bg-red-50 text-red-800");
+          lineClass = cn(lineClass, "diff-line-remove");
         } else if (line.startsWith("@@")) {
-          lineClass = cn(lineClass, "bg-blue-50 text-blue-700 font-semibold");
+          lineClass = cn(lineClass, "diff-line-hunk font-semibold");
         } else {
           lineClass = cn(lineClass, "text-muted-foreground");
         }
