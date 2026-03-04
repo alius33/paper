@@ -538,7 +538,7 @@ When writing, maintain awareness of planted elements that must pay off:
 
 ### When Writing a New Chapter
 
-1. **Read the relevant section of `series_plot.md`** for the chapter's place in the overall arc.
+1. **Read the relevant section of `series_plot.md`** for the chapter's place in the overall arc. **Then check `research-index.md`** for research files and book digests relevant to this chapter's locations, characters, and topics.
 2. **Read the previous chapter's final scene** for continuity of setting, mood, and any unfinished action.
 3. **Check this file (§4)** for every character appearing in the chapter — voice, current emotional state, what they know.
 4. **Check the timeline (§7)** — what year is it? What has happened recently in the world? What is Yusuf's age and current state?
@@ -577,6 +577,39 @@ When writing, maintain awareness of planted elements that must pay off:
 3. **When uncertain, say so.** Use `[RESEARCH NEEDED: brief description]` tags. Never fabricate historical details and present them as fact.
 4. **Consult project knowledge first** — extensive research documents exist in the project files covering: Baghdad's geography, the paper trade, Abbasid politics, caravan logistics, Islamic finance, social structures, and more.
 
+### When Conducting Research for the Project
+
+This workflow applies when the user asks Claude to research a topic for use in future chapters.
+
+1. **Search existing research first.** Read `research-index.md` for an overview of available sources. Grep `research/` and `research/digests/` for keywords related to the topic. If the topic is already covered, point to the existing file(s) and ask whether the user wants deeper investigation.
+2. **Conduct research** using web search, synthesis, and project knowledge. Clearly distinguish between documented historical fact, reasonable extrapolation, and pure invention. Use `[RESEARCH NEEDED]` tags for any claims that could not be verified.
+3. **Write the research file** as narrative prose in the scene-ready style of existing research documents. File it in the appropriate subdirectory:
+   - `research/world-building/` — places, material culture, society, politics, religion
+   - `research/characters/` — character backstories, historical figure profiles
+   - `research/finance/` — financial instruments, deals, economic mechanics
+   - `research/journeys/` — route logistics, itineraries, travel conditions
+   - `research/craft/` — scene-level research, specific locations, walks
+   - `research/plot/` — plot outlines, chapter breakdowns, structure analysis
+4. **Name the file** using descriptive kebab-case: `nestorian-christians-in-baghdad.md`, not `research-topic-1.md`. The filename should be grep-friendly — someone searching for "Nestorian" should find it by filename alone.
+5. **Include a "Works cited" section** at the end with numbered references, following the format used in existing research files.
+6. **Update `research-index.md`** — add the new file to the appropriate topic section and to any relevant Book/Chapter rows.
+
+### When Digesting a Reference Book
+
+This workflow applies when the user adds a book (PDF, EPUB, or other format) to `reference/` and wants it made searchable. The user may say "digest this book" or "I've added N books, digest them."
+
+1. **Read the book.** For PDFs, read using the Read tool (20 pages at a time) — start with the table of contents to identify which chapters are relevant, then read only those sections. For EPUBs, unzip and read the HTML content. For other formats (MOBI, DJVU), attempt conversion or ask the user to provide a PDF/EPUB version.
+2. **Extract material relevant to the project's needs:** Baghdad geography, Abbasid politics, material culture, commerce, paper trade, social structures, military campaigns, daily life, sensory details, and any historical figures in the character bible (§4).
+3. **Write a digest file** at `research/digests/{author-surname}--{short-title}.md` with this structure:
+   - **Header:** title, author, source file path (`reference/filename.pdf`), date digested, one-line relevance summary
+   - **Overview:** 2–3 paragraphs on the book's scope, argument, and value to this project
+   - **Key Extracts:** topic-organized, scene-ready prose with page/location references. Include direct quotes where the language is vivid enough to use in fiction. Each extract should have a **"Scene potential"** annotation — one sentence on how this material could be used in the novel.
+   - **Facts and Dates:** bulleted, grep-friendly list of specific data points (dates, names, measurements, prices) with page references
+   - **Relevance to Chapters:** which chapters or plot beats this book informs, keyed to `series_plot.md` and existing chapters. Use consistent format: `Book 1, Ch 1-3 (Kufa journey)` for grepability.
+   - **[RESEARCH NEEDED] flags:** any claims that conflict with other sources or existing research files
+4. **Target 2,000–5,000 words** per digest regardless of book length. Apply the iceberg rule: extract what matters to this project, not everything. A 300-page book rarely has more than 100 pages of material relevant to this specific novel.
+5. **Update `research-index.md`** — add the digest to the Book Digests table and to any relevant topic and chapter rows.
+
 ### When Expanding World-Building
 
 1. Always ground additions in the established historical setting.
@@ -610,15 +643,18 @@ When writing, maintain awareness of planted elements that must pay off:
 │   ├── book-3/
 │   └── book-4/
 │
-├── research/                          # All research docs (converted from .docx to .md)
+├── research/                          # All research docs (markdown)
 │   ├── world-building/                # Baghdad, society, politics, material culture
 │   ├── characters/                    # Character studies, ancestry, backstories
 │   ├── plot/                          # Plot outlines, breakdowns, endings
 │   ├── finance/                       # Books 2-3 financial plots, deals, gambles
 │   ├── journeys/                      # Journey planning, day-by-day itineraries
-│   └── craft/                         # Scene-level research, walk descriptions
+│   ├── craft/                         # Scene-level research, walk descriptions
+│   └── digests/                       # Book digests — markdown summaries of reference books
 │
-├── reference/                         # Academic PDFs (Git LFS tracked)
+├── research-index.md                  # Master index of all research sources and topics
+│
+├── reference/                         # Source books: PDFs, EPUBs, etc. (Git LFS tracked)
 │
 ├── media/                             # Non-text assets (Git LFS tracked)
 │
