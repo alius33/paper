@@ -24,7 +24,7 @@ Yusuf purchased a large, sturdy warehouse in the heart of Baghdad's commercial d
 
 ### **Part I: The Blueprint of Three Pillars (791-805 CE)**
 
-The first years of The House of Paper were a crucible. Yusuf had the capital to build a foundation, but not the reserves to weather a storm. Every decision was critical, every dinar spent a calculated risk. The memory of the ruined indigo merchant was not a philosophical concept; it was a daily spectre, a reminder of how quickly an enterprise could be undone. Yusuf knew he needed more than just a successful business. He needed a fortress.
+The first years of The House of Paper were a crucible. Yusuf had the capital to build a foundation, but not the reserves to weather a storm. Every decision was critical, every dinar spent a calculated risk. The memory of Dastan the Sogdian — standing still in the Merv auction yard while his life's work was sold off lot by lot — was not a philosophical concept; it was a daily spectre, a reminder of how quickly proximity to power could destroy even the most competent man. Yusuf knew he needed more than just a successful business. He needed a fortress.
 
 **The Constantinople Gamble:**
 

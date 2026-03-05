@@ -240,7 +240,7 @@ Ink, old parchment, the faintly sweet grassy scent of papyrus, the clean chemica
 - Defining trait is *perception* — he reads people the way his father reads tile grain, structurally, looking for the flaw that will eventually crack.
 - This perception makes genuine human connection difficult. He sees everyone as a system to be understood.
 - Fatal flaw: by the time he realises some people deserved to be loved rather than analysed, he has already betrayed them.
-- Driven by the memory of the indigo merchant — the horror of powerlessness. Everything he builds is a fortress against that vulnerability.
+- Driven by the memory of the Sogdian merchant in Merv — a competent man destroyed by proximity to power. Everything he builds is a fortress against that vulnerability.
 - Capable of genuine warmth (with Musa, with his children) but has learned to override his feelings when survival demands it.
 
 **Character arc across the series:**
@@ -384,14 +384,14 @@ Ink, old parchment, the faintly sweet grassy scent of papyrus, the clean chemica
 
 ### Overall Structure
 
-**Book 1: The House of Paper (770–791 CE)**
-Four parts: The Gate (childhood) → The Workshop (apprenticeship) → The Road (journeys) → The Choice (founding the House).
+**Book 1: The House of Paper (770–791 CE, story begins 787 CE)**
+Three parts: The Road (trade journeys, starting with Kufa) → The Wide World (Rayy, Damascus, Mosul, Merv) → The Choice (founding the House).
 
-The series plot (`series_plot.md`) outlines 15 chapters across these four parts. However, the actual chapter-by-chapter writing is expanding the plot beats into more granular chapters than the outline specifies. The outline's "Chapter 10: The Road of Contention to Kufa," for example, has been expanded across multiple written chapters (Chapters 1–3 in the current drafts).
+The novel opens in media res with Yusuf already on his first overland trade journey at age 17. Childhood, apprenticeship, Layla's death, and the Wasit river journey are all backstory, revealed organically through memory and conversation. The series plot (`series_plot.md`) outlines 13 chapters across three parts, of which the first five are drafted.
 
 ### Current Chapter Status — Book 1
 
-> **IMPORTANT:** The existing drafted chapters cover the apprenticeship/journey section of Book 1. They are numbered sequentially as written, not aligned with the series plot outline numbering. The final chapter numbering will be determined when Book 1 is complete.
+> **NOTE:** Chapters 1–5 form the opening of the book. They cover the Kufa journey and its immediate aftermath. Chapters 6–13 cover the remaining journeys and the founding of the House.
 
 | Draft # | File | Content | Approx Words | Status |
 |---------|------|---------|-------------|--------|
@@ -406,10 +406,11 @@ The series plot (`series_plot.md`) outlines 15 chapters across these four parts.
 Refer to `series_plot.md` for the full chapter-by-chapter outline. Below is a compressed summary of the major beats:
 
 **Book 1 — The House of Paper:**
-1. Childhood at the Khorasan Gate. The indigo merchant incident (age 8) — foundational trauma and motivation.
-2. Apprenticeship at Abu Said's paper mill (age 9–17). Learning craft, patience, and people. Layla's death (age 12). Omar's wedding visit (age 14). The Barmakid commission sabotage (age 14). Meeting Musa.
-3. Trade journeys: Wasit (river), Kufa (overland), Zagros/Rayy (mountains), Damascus, Mosul, Merv. Each journey teaches a specific skill and reveals a facet of the empire.
-4. The silk gamble in Merv. The inheritance of the family trust. The founding of the House of Paper. The break with Abu Said.
+*Story begins 787 CE, age 17. Childhood and apprenticeship are backstory, revealed organically.*
+1. The Kufa journey (overland) — Yusuf's first trade journey. The failed sale. Commercial education on the road. Return to workshop. Baghdad selling missions. (Chapters 1–5, drafted.)
+2. Musa's return. Trade journeys: Zagros/Rayy (mountains, with Musa), Damascus, Mosul. Each journey teaches a specific skill and reveals a facet of the empire.
+3. Merv — the Sogdian merchant Dastan destroyed by proximity to power (foundational motif). The silk gamble. The break with Abu Said.
+4. The inheritance of the family trust. The founding of the House of Paper.
 
 **Book 2 — The House of Silver:**
 1. The watermark innovation. The Constantinople venture (near-failure). Marriage to Zahra. Destruction of rival Hamid.
@@ -430,7 +431,7 @@ Refer to `series_plot.md` for the full chapter-by-chapter outline. Below is a co
 
 ### Recurring Motifs and Foreshadowing
 
-- **The indigo merchant** — appears first as a real incident (age 8), then recurs as a memory/ghost at every moral crisis, each time meaning something different: motivation → justification → accusation → ghost to be made peace with.
+- **The Sogdian in Merv (Dastan)** — appears first when Yusuf witnesses him destroyed at the governor's asset auction (age 19, Ch 10). Recurs at every moral crisis, each time meaning something different: motivation (I must never be that vulnerable) → justification (I built my fortress) → accusation (in the Barmakid Gamble, Yusuf becomes the system that destroyed Dastan) → reconciliation (Yusuf honours all commitments, refusing to let power destroy those who trusted him).
 - **The pouch of desert sand** — Layla's gift. Carried unopened for decades. Opened for the first time at the crisis of Book 3.
 - **"Paper is real"** — Ali's argument against abstract finance. Echoes throughout as Yusuf's empire becomes increasingly abstract.
 - **The Khorasan Gate tiles** — Ali's masterpiece. Visible from the family rooftop. Survive the siege in Book 4. The endurance of physical craft vs. the fragility of financial systems.
@@ -478,14 +479,13 @@ Refer to `series_plot.md` for the full chapter-by-chapter outline. Below is a co
 | 770 | 0 | Born in Baghdad, near the Khorasan Gate |
 | 773 | 3 | Markets moved from Round City to Karkh |
 | 774 | 4 | Omar (half-brother) leaves for the army |
-| 778 | 8 | **The indigo merchant incident** |
 | 779 | 9 | Apprenticeship begins at Abu Said's workshop |
 | 782 | 12 | **Layla's death** |
 | 784 | 14 | Omar visits for his wedding. Barmakid commission sabotage. |
 | 786 | 16 | Harun al-Rashid becomes Caliph |
-| 787 | 17 | Journey to Wasit (river). Journey to Kufa (overland). |
-| 788 | 18 | Journey to Rayy (Zagros crossing). Journey to Damascus. |
-| 789 | 19 | Journey to Mosul. Journey to Merv. **The silk gamble.** |
+| 787 | 17 | *[STORY BEGINS]* Journey to Wasit (river, backstory). Journey to Kufa (overland, Chapters 1–5). Musa reconnection. |
+| 788 | 18 | Journey to Rayy (Zagros crossing, with Musa). Journey to Damascus. |
+| 789 | 19 | Journey to Mosul. Journey to Merv. **The Sogdian (Dastan). The silk gamble.** |
 | 790 | 20 | Return to Baghdad. Reckoning with Abu Said. The family trust revealed. |
 | 791 | 21 | **The House of Paper founded.** Omar al-Dimashqi and Ishaq join. |
 | 793 | 23 | Watermark innovation. Constantinople venture. |
@@ -523,7 +523,7 @@ When writing, maintain awareness of planted elements that must pay off:
 
 | Thread | Planted | Must Resolve By |
 |--------|---------|----------------|
-| The indigo merchant image | Ch 3 (age 8) | Final book — Yusuf makes peace with the ghost |
+| The Sogdian's ghost (Dastan) | Ch 10 — Merv auction (age 19) | Series-long — motivation → justification → accusation → reconciliation |
 | The desert sand pouch | Layla's death (782) | Book 3 — opened for first time |
 | Abu Said's parting warning | End of apprenticeship | Series-long — the tension between endurance and profit |
 | Omar's comment about moving money without coin | Omar's wedding (784) | Book 2 — the suftaja system |
