@@ -199,6 +199,8 @@ The House of Paper endures. It is smaller. It is humbler. It is built on somethi
 
 13. **Connect the House of Wisdom patronage** (Book 3, Ch 4) to both commercial opportunity and political danger rather than leaving it as a thematic aside.
 
+14. **Reconcile competing plot documents.** The project contains multiple overlapping outlines that have not been consolidated: `series_plot.md` (canonical, Books 1-3), `happy-ending.md` (full arc, happy ending, uses "Idris" naming), `sad-ending.md` (full arc, tragic ending), `plot-part-3-house-of-gold.md` and `plot-part-3-revised-expanded.md` (alternative Book 3 treatments). Once the Book 4 outline is agreed, all of these should be reconciled into `series_plot.md` as the single canonical source, with the alternatives archived or deleted.
+
 ---
 
 *End of critical analysis.*
