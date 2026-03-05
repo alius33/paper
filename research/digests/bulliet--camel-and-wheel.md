@@ -1,7 +1,7 @@
 # Digest: The Camel and the Wheel
 
 **Author:** Richard W. Bulliet
-**Source:** `reference/The Camel and the Wheel (Morningside Books) -- Richard W Bulliet [...] -- Anna's Archive.pdf`
+**Source:** `reference/camel-and-wheel--bulliet.pdf`
 **Date digested:** 4 March 2026
 **Relevance:** Camel transport technology, why wheeled vehicles disappeared from the Middle East, saddle types, caravan economics, pack-camel logistics, urban design consequences -- essential background for all caravan and trade scenes.
 

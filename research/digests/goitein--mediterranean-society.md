@@ -1,7 +1,7 @@
 # Digest: A Mediterranean Society: The Jewish Communities of the Arab World as Portrayed in the Documents of the Cairo Geniza, Volume I: Economic Foundations
 
 **Author:** S. D. Goitein
-**Source:** `reference/A Mediterranean Society_ The Jewish Communities of the Arab -- Shelomo Dov Goitein; Paula Sanders; Gustave E_ von Grunebaum -- 1 edition, June 7, 2000 -- 9780520004849 -- c2da934614fcfdc919998b5cef60daa9 -- Anna's Archive.pdf`
+**Source:** `reference/mediterranean-society--goitein.pdf`
 **Digested:** 2026-03-05
 **Relevance:** The single most important source for reconstructing the daily mechanics of medieval Islamic commercial life -- partnerships, banking, letters of credit (suftaja), the role of the money-changer (sarraf/jahbadh), cross-confessional trust networks, bookkeeping, and the texture of merchant correspondence. Essential for grounding Yusuf's financial operations (Books 2-3) and Ishaq bar Yohannan's world as a non-Muslim operating within Islamic commercial structures.
 

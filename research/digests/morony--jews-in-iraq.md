@@ -1,7 +1,7 @@
 # Digest: Jews in Iraq after the Muslim Conquest
 
 **Author:** Michael G. Morony
-**Source:** `reference/Jews in Iraq after the Muslim Conquest -- Morony, Michael G_ -- Analecta Gorgiana [...] -- Gorgias Press, LLC -- 9781463216054 [...] -- Anna's Archive.pdf`
+**Source:** `reference/jews-in-iraq--morony.pdf`
 **Digested:** 2026-03-04
 **Relevance:** The definitive scholarly treatment of the Jewish community in Iraq from the Sasanian through early Abbasid periods -- covers communal organisation, the exilarch and gaonate, legal autonomy, economic roles, dhimmi precedents, and interfaith social boundaries. Essential for understanding the religious minorities alongside whom Yusuf builds his commercial empire, and for grounding the character of Ishaq bar Yohannan (Nestorian Christian) through comparison with parallel minority institutions.
 

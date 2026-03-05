@@ -1,7 +1,7 @@
 # Digest: Arabic Manuscripts: A Vademecum for Readers
 
 **Author:** Adam Gacek
-**Source:** `reference/Arabic Manuscripts_ a Vademecum for Readers (Handbook of -- by Adam Gacek -- Handbuch der Orientalistik = Handbook of Oriental studies, -- Brill; -- 9789004170360 -- 696ab7b5fe84d5ffcb5984ab80201fd4 -- Anna's Archive.pdf`
+**Source:** `reference/arabic-manuscripts--gacek.pdf`
 **Digested:** 2026-03-04
 **Relevance:** Encyclopedic reference on every physical aspect of Arabic manuscript production -- paper, ink, pens, binding, scribal practices -- providing scene-ready technical vocabulary and material detail for the paper workshop, the Suq al-Warraqin, and Yusuf's watermark innovation.
 

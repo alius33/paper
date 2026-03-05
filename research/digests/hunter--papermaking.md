@@ -1,7 +1,7 @@
 # Digest: Papermaking: The History and Technique of an Ancient Craft
 
 **Author:** Dard Hunter
-**Source:** `reference/Papermaking_ the history and technique of an ancient craft -- Dard Hunter -- 2d_ ed_, rev_ and enl_, New York, Unknown, 1947 -- New York, A_A_ Knopf -- 1150996712 -- a75d59d903dd3d5249c13d5482f54ab8 -- Anna's Archive.pdf`
+**Source:** `reference/papermaking--hunter.pdf`
 **Digested:** 2026-03-04
 **Relevance:** The definitive English-language history of hand papermaking worldwide, providing the technical craft detail -- raw materials, beating, mould construction, dipping, couching, pressing, sizing, drying, finishing -- that underpins Abu Said's workshop scenes across Book 1.
 

@@ -1,7 +1,7 @@
 # Digest: Medieval Arab Cookery: Essays and Translations
 
 **Author:** Maxime Rodinson, A.J. Arberry, Charles Perry (eds.); foreword by Claudia Roden
-**Source:** `reference/Medieval Arab Cookery_ Papers by Maxime Rodinson and Charles -- Arthur John Arberry; Charles Perry; Maxime Rodinson -- Devon, England, England, 2001 -- 9780907325918 [...].pdf`
+**Source:** `reference/medieval-arab-cookery--rodinson.pdf`
 **Digested:** 2026-03-05
 **Relevance:** Provides specific dishes, ingredients, cooking methods, street food, court feasting customs, and the social meaning of meals in Abbasid Baghdad -- the primary sensory palette for food scenes across all four books.
 

@@ -1,7 +1,7 @@
 # Digest: The Imperial Harem: Women and Sovereignty in the Ottoman Empire
 
 **Author:** Leslie P. Peirce
-**Source:** `reference/The Imperial Harem Women and Sovereignty in the Ottoman -- Peirce, Leslie P -- 2008 -- Anna's Archive.pdf`
+**Source:** `reference/imperial-harem--peirce.pdf`
 **Digested:** 2026-03-05
 **Relevance:** Structural analysis of how women exercised political power through household management, patronage, intelligence networks, and the mother-son bond in Islamic dynastic politics -- applicable by analogy to Abbasid court women (al-Khayzuran, Zubaida) and to Zahra's fictional arc.
 

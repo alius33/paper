@@ -1,7 +1,7 @@
 # Digest: Islamic Architecture: Form, Function, and Meaning
 
 **Author:** Robert Hillenbrand
-**Source:** `reference/Islamic architecture _ form, function, and meaning -- Hillenbrand, Robert -- Rev Ed edition, April 30, 2000 -- The American University in Cairo Press -- 9789774245435.pdf`
+**Source:** `reference/islamic-architecture--hillenbrand.pdf`
 **Digested:** 2026-03-05
 **Relevance:** The standard typological reference for Islamic architectural forms -- mosques, palaces, caravansarais -- providing physical descriptions, functional analysis, and historical context essential for grounding the novel's built environments.
 

@@ -1,7 +1,7 @@
 # Digest: Postal Systems in the Pre-Modern Islamic World
 
 **Author:** Adam J. Silverstein
-**Source:** `reference/Postal Systems in the Pre-Modern Islamic World (Cambridge -- Adam J_ Silverstein -- Cambridge studies in Islamic civilization, 1_ publ, -- Cambridge -- 9780511289057 -- Anna's Archive.pdf`
+**Source:** `reference/postal-systems--silverstein.pdf`
 **Digested:** 2026-03-05
 **Relevance:** The definitive study of the *barid* (postal/intelligence service) -- the caliphal surveillance and communications network that is critical infrastructure throughout the novel, used by Yusuf for commercial intelligence and by the state for espionage.
 

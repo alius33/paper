@@ -4,7 +4,7 @@
 **Author:** Xinru Liu
 **Series:** The New Oxford World History
 **Publisher:** Oxford University Press, 2010
-**Source file:** `reference/The Silk Road in World History (The New Oxford World -- Xinru Liu [...] -- Anna's Archive.pdf`
+**Source file:** `reference/silk-road-world-history--liu.pdf`
 **Date digested:** 2026-03-04
 **Relevance:** Sogdian merchant culture, silk and textile trade across the Abbasid Caliphate, material culture of luxury goods on the Silk Road, the *tiraz* system, and the transformation of Eurasian commerce under Islamic rule.
 

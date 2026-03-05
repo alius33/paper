@@ -1,7 +1,7 @@
 # Digest: Paper before Print: The History and Impact of Paper in the Islamic World
 
 **Author:** Jonathan M. Bloom
-**Source:** `reference/Paper before print _ the history and impact of paper in the -- Jonathan Bloom; Yale University Press -- ACLS Humanities E-Book, New Haven, 2001 -- 9780300089554 -- c1cacbf57e99f8ca6051357392474285 -- Anna's Archive.pdf`
+**Source:** `reference/paper-before-print--bloom.pdf`
 **Digested:** 2026-03-04
 **Relevance:** The single most important scholarly treatment of paper's transformative role in the Islamic world -- covers papermaking technology, the Baghdad paper mills, the Suq al-Warraqin, scribal culture, the book trade, and paper-based financial instruments, all directly relevant to the novel's central themes.
 

@@ -1,7 +1,7 @@
 # Digest: The Adventures of Ibn Battuta: A Muslim Traveler of the 14th Century
 
 **Author:** Ross E. Dunn
-**Source:** `reference/The Adventures of Ibn Battuta_ A Muslim Traveler of the -- Ross E_ Dunn -- 2012 -- University of California Press -- [...].pdf`
+**Source:** `reference/adventures-ibn-battuta--dunn.pdf`
 **Date digested:** 2026-03-04
 **Relevance:** Comparative evidence for Islamic travel infrastructure, caravan organisation, hospitality networks, the physical experience of overland travel, pilgrimage logistics, and the social world of educated Muslim travellers. Ibn Battuta traveled 500 years after Yusuf's era (1325-1354 CE vs. 770-814 CE), so the value is analogical rather than direct -- continuities in travel culture, road infrastructure, and the Dar al-Islam's hospitality networks that persisted across centuries.
 

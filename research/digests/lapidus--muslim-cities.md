@@ -1,7 +1,7 @@
 # Digest: Muslim Cities in the Later Middle Ages
 
 **Author:** Ira Marvin Lapidus
-**Source:** `reference/Muslim cities in the later Middle Ages _ student ed -- Ira M_ Lapidus -- Harvard Middle Eastern studies, 11, Cambridge, 1967 -- Harvard University -- 9780511097027 -- 0b3a0f51087d6306c2cb4fd5bbbdf831 -- Anna's Archive.pdf`
+**Source:** `reference/muslim-cities--lapidus.pdf`
 **Digested:** 2026-03-05
 **Relevance:** The definitive study of social organisation, market structures, neighbourhood politics, and urban violence in medieval Islamic cities -- essential for depicting Baghdad's quarters, suqs, and the *ayyarun* during the civil war.
 

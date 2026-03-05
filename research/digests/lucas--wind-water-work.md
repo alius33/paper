@@ -1,7 +1,7 @@
 # Digest: Wind, Water, Work: Ancient and Medieval Milling Technology
 
 **Author:** Adam Lucas
-**Source:** `reference/Wind, Water, Work_ Ancient And Medieval Milling Technology -- by Adam Lucas [...] -- Brill Academic -- 9789004146495 [...].pdf`
+**Source:** `reference/wind-water-work--lucas.pdf`
 **Digested:** 2026-03-05
 **Relevance:** Technical mechanics of water-powered mills, including trip-hammer paper mills, in the early Islamic world -- directly informs Abu Said's workshop and all papermaking scenes.
 

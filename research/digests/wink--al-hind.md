@@ -1,7 +1,7 @@
 # Digest: Al-Hind: The Making of the Indo-Islamic World, Volume 1 -- Early Medieval India and the Expansion of Islam, 7th-11th Centuries
 
 **Author:** Andre Wink
-**Source:** `reference/Al-Hind_ The Making of the Indo-Islamic World, Volume 1_ -- by Andre Wink -- Al-Hind_ The Making of the Indo-Islamic World (1), 2002 -- Brill -- 9780391041257 -- f852343e0f1471e95769d00f1a99cac7 -- Anna's Archive.pdf`
+**Source:** `reference/al-hind--wink.pdf`
 **Digested:** 2026-03-05
 **Relevance:** Comprehensive scholarly study of trade between the Islamic world and India (7th-11th centuries), covering the Persian Gulf commercial system, overland and maritime trade routes, the goods flowing into Baghdad from the east, Muslim and Jewish trading diasporas in the Indian Ocean, and the political geography of Khorasan as a gateway between the caliphate and the Indian subcontinent. Directly informs the economic geography underlying Yusuf's commercial empire.
 

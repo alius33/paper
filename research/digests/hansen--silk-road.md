@@ -1,7 +1,7 @@
 # Digest: The Silk Road: A New History
 
 **Author:** Valerie Hansen
-**Source:** `reference/The Silk Road _ A New History -- Valerie Hansen, Valerie Hansen -- Oxford University Press USA, Oxford, 2012 -- IRL Press at Oxford University Press -- 9780190218423 -- 18c71f7445b67ae2029dac1cf1593aeb -- Anna's Archive.pdf`
+**Source:** `reference/silk-road--hansen.pdf`
 **Digested:** 2026-03-04
 **Relevance:** A document-based reappraisal of the Silk Road that challenges the image of high-volume luxury trade. Strongest material for this project concerns the Sogdians as the dominant merchant community of Central Asia, the spread of paper westward from China into the Islamic world, the scale and nature of caravan trade (far smaller than popularly imagined), and the archaeology of Samarkand and Panjikent in the centuries before the Islamic conquest. Directly relevant to Abu Said's Sogdian origins, Yusuf's journey to Merv, and the novel's treatment of paper as a commodity that transformed civilisations.
 

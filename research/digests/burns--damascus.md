@@ -1,7 +1,7 @@
 # Digest: Damascus: A History (Cities of the Ancient World)
 
 **Author:** Ross Burns
-**Source:** `reference/Damascus_ A History (Cities of the Ancient World) -- Ross Burns -- Hardcover, 2019 -- Routledge, Taylor et Francis Group -- 9781138483323 -- [...] -- Anna's Archive.pdf`
+**Source:** `reference/damascus--burns.pdf`
 **Digested:** 2026-03-05
 **Relevance:** The only comprehensive English-language history of Damascus, providing physical description, architecture, market layout, and the city's political atmosphere under early Abbasid rule -- essential for Yusuf's Journey 4 (~788 CE).
 

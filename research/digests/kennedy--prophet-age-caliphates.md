@@ -1,7 +1,7 @@
 # Digest: The Prophet and the Age of the Caliphates
 
 **Author:** Hugh Kennedy
-**Source:** `reference/The Prophet and the Age of the Caliphates_ The Islamic Near -- Hugh Kennedy; -- A history of the Near East, 4th edition, London, 2022 -- Routledge -- 9780367366896 -- Anna's Archive.pdf`
+**Source:** `reference/prophet-age-caliphates--kennedy.pdf`
 **Digested:** 2026-03-04
 **Relevance:** The standard political history of the Abbasid caliphate, covering the revolution, court factions, Barmakid ascendancy, Harun al-Rashid's reign, and the catastrophic civil war of 809-813 CE -- the entire political backbone of the novel's four books.
 

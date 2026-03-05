@@ -1,7 +1,7 @@
 # Digest: The Armies of the Caliphs: Military and Society in the Early Islamic State
 
 **Author:** Hugh Kennedy
-**Source:** `reference/The Armies of the Caliphs_ Military and Society in the Early -- Hugh Kennedy, (Hugh N_) -- First Edition, 2023 -- Routledge -- 9780203458532 -- Anna's Archive.epub`
+**Source:** `reference/armies-of-caliphs--kennedy.epub`
 **Digested:** 2026-03-04
 **Relevance:** The definitive study of early Islamic military organisation, pay, equipment, and warfare -- essential for Omar's 25-year career and the siege of Baghdad in Book 4.
 

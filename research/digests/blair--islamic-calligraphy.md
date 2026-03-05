@@ -1,7 +1,7 @@
 # Digest: Islamic Calligraphy
 
 **Author:** Sheila S. Blair
-**Source:** `reference/Islamic Calligraphy -- Blair, Sheila S_ -- Edinburgh University Press, [N_p_], 2008 -- Edinburgh University Press -- 9780748612123`
+**Source:** `reference/islamic-calligraphy--blair.pdf`
 **Digested:** 2026-03-04
 **Relevance:** Comprehensive scholarly treatment of Arabic script, writing materials, and the transformation of calligraphic practice under the Abbasids -- providing scene-ready detail on reed pens, inks, paper preparation, and the revolution in script that accompanied the shift from parchment to paper in Yusuf's lifetime.
 

@@ -1,7 +1,7 @@
 # Digest: Sogdian Traders: A History
 
 **Author:** Etienne de la Vaissiere (trans. James Ward)
-**Source:** `reference/Sogdian Traders_ A History (Handbook of Oriental Studies) -- Etienne de la Vaissiere [...] -- Anna's Archive.pdf`
+**Source:** `reference/sogdian-traders--vaissiere.pdf`
 **Digested:** 2026-03-04
 **Relevance:** The definitive scholarly history of Sogdian merchant networks from antiquity through the Islamic period. Covers the social structures of Sogdian commercial society, their caravan practices, trade goods, monetary systems, legal frameworks, the Sogdian ethic of hospitality, and -- most critically -- the fate of Sogdian merchants under Islamic rule in the 8th-9th centuries. Directly informs Abu Said al-Samarqandi's character, the Sogdian paper-making tradition, and the broader world of Central Asian merchants in Abbasid Baghdad.
 

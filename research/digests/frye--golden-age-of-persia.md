@@ -1,7 +1,7 @@
 # Digest: The Golden Age of Persia: The Arabs in the East
 
 **Author:** Richard Nelson Frye
-**Source:** `reference/The Golden Age of Persia_ The Arabs in the East (History of -- Richard Nelson Frye -- [...] -- Anna's Archive.pdf`
+**Source:** `reference/golden-age-of-persia--frye.pdf`
 **Digested:** 2026-03-04
 **Relevance:** The definitive scholarly account of how Iranians shaped Islamic civilisation under the Abbasid caliphate -- covers the Khorasaniyya elite, Persian-Arab cultural fusion, the Shu'ubiyya literary movement, the Barmakids' Persian identity, the bureaucratic dominance of Iranian scribes, and the religious landscape of Khorasan. Directly relevant to Yusuf's family identity as Khorasani Persians in Baghdad.
 

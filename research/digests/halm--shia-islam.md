@@ -1,7 +1,7 @@
 # Digest: Shi'a Islam: From Religion to Revolution
 
 **Author:** Heinz Halm (trans. Allison Brown)
-**Source:** `reference/Shi'a Islam_ From Religion to Revolution [...] -- Heinz Halm [...].pdf`
+**Source:** `reference/shia-islam--halm.pdf`
 **Date digested:** 2026-03-04
 **Relevance:** Origins of Shi'ism, Karbala, Kufa as a Shi'a city, the Penitents movement, Shi'a under the Abbasids, taqiyya, the deportation of the seventh imam by Harun al-Rashid, Shi'a settlement in Baghdad's al-Karkh district.
 

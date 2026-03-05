@@ -1,7 +1,7 @@
 # Digest: The Arabic Book
 
 **Author:** Johannes Pedersen (trans. Geoffrey French; ed. Robert Hillenbrand)
-**Source:** `reference/The Arabic Book -- Johannes Pedersen; Geoffrey French -- Modern Classics in Near Eastern Studies; 688, Course Book, -- Princeton University Press -- 9780691065649 -- 103bc0a1697974517c310164726fb488 -- Anna's Archive.pdf`
+**Source:** `reference/the-arabic-book--pedersen.pdf`
 **Digested:** 2026-03-04
 **Relevance:** The single most comprehensive study of book production, the book trade, scribal culture, and writing materials in medieval Islam. Directly informs Yusuf's apprenticeship at the paper workshop, his selling in the Suq al-Warraqin (Ch. 5), the economics of the warraq's profession, and the cultural status of paper in Abbasid Baghdad.
 
