@@ -162,6 +162,7 @@
 | `research/plot/sad-ending.md` | Alternative tragic ending exploration (not used) | Books 1-4 |
 | `research/plot/plot-promises.md` | Thematic promises to reader and their narrative payoff | Books 1-4 |
 | `research/plot/notes.md` | Miscellaneous plot development notes | Books 1-4 |
+| `research/plot/critical-analysis.md` | Critical analysis of series plot structure: book-by-book assessment, character arc analysis, thematic continuity, proposed Book 4 outline, priority recommendations | Books 1-4 |
 
 ### Marketing and Project
 
