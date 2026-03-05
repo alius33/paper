@@ -100,7 +100,7 @@
 | `research/characters/ancestry-of-yusuf.md` | Genealogy spanning five generations; revolutionary heritage, Persian influence | Book 1, foundational |
 | `research/characters/family-tree-of-yusuf.md` | Genealogical chart with dates, spouses, children, key events per ancestor | Book 1 reference |
 | `research/characters/lives-of-yusufs-ancestors.md` | Narrative accounts of five ancestors demonstrating inherited wisdom | Book 1 |
-| `research/characters/childhood-by-khorasan-gate.md` | Yusuf's early years (ages 0-13): arriving caravans, commerce, corruption, indigo merchant | Book 1 childhood |
+| `research/characters/childhood-by-khorasan-gate.md` | Yusuf's early years (ages 0-13): arriving caravans, commerce, corruption (now backstory) | Book 1 backstory |
 | `research/characters/ali-workshop.md` | Ali's tile workshop establishment; relationships with sons Omar, Bakr, Yusuf | Book 1, ages 0-13 |
 | `research/characters/ali-decided-on-paper.md` | Ali's reasoning for choosing papermaking as Yusuf's trade | Book 1, age 9-13 |
 | `research/characters/omar-his-career.md` | Omar's 25-year military career: enlistment, campaigns, Byzantine wars | Book 1 (parallel arc) |
