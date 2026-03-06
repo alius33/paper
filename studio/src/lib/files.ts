@@ -51,42 +51,46 @@ export async function getFileTree(repoPath: string): Promise<FileNode[]> {
       const entryRelPath = relativePath ? `${relativePath}/${entry.name}` : entry.name;
       const entryAbsPath = path.join(dirPath, entry.name);
 
-      if (entry.isDirectory()) {
-        if (EXCLUDED_DIRS.includes(entry.name)) {
-          continue;
-        }
-
-        const children = await readDir(entryAbsPath, entryRelPath);
-        nodes.push({
-          name: entry.name,
-          path: entryRelPath,
-          type: 'directory',
-          children,
-          category: categorizeFile(entryRelPath),
-        });
-      } else {
-        const stat = await fs.stat(entryAbsPath);
-        const ext = path.extname(entry.name).toLowerCase();
-        const node: FileNode = {
-          name: entry.name,
-          path: entryRelPath,
-          type: 'file',
-          lastModified: stat.mtime.toISOString(),
-          size: stat.size,
-          category: categorizeFile(entryRelPath),
-        };
-
-        // Add word count for markdown files
-        if (EDITABLE_EXTENSIONS.includes(ext)) {
-          try {
-            const content = await fs.readFile(entryAbsPath, 'utf-8');
-            node.wordCount = countWords(content);
-          } catch {
-            // If we can't read the file, skip word count
+      try {
+        if (entry.isDirectory()) {
+          if (EXCLUDED_DIRS.includes(entry.name)) {
+            continue;
           }
-        }
 
-        nodes.push(node);
+          const children = await readDir(entryAbsPath, entryRelPath);
+          nodes.push({
+            name: entry.name,
+            path: entryRelPath,
+            type: 'directory',
+            children,
+            category: categorizeFile(entryRelPath),
+          });
+        } else {
+          const stat = await fs.stat(entryAbsPath);
+          const ext = path.extname(entry.name).toLowerCase();
+          const node: FileNode = {
+            name: entry.name,
+            path: entryRelPath,
+            type: 'file',
+            lastModified: stat.mtime.toISOString(),
+            size: stat.size,
+            category: categorizeFile(entryRelPath),
+          };
+
+          // Add word count for markdown files
+          if (EDITABLE_EXTENSIONS.includes(ext)) {
+            try {
+              const content = await fs.readFile(entryAbsPath, 'utf-8');
+              node.wordCount = countWords(content);
+            } catch {
+              // If we can't read the file, skip word count
+            }
+          }
+
+          nodes.push(node);
+        }
+      } catch {
+        // Skip entries that can't be accessed (e.g. cloud-only files, permission issues)
       }
     }
 

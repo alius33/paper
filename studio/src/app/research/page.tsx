@@ -3,6 +3,8 @@ import { getFileTree } from "@/lib/files";
 import { ResearchPageClient } from "./research-page-client";
 import type { FileNode } from "@/types/files";
 
+export const dynamic = "force-dynamic";
+
 interface FileInfo {
   name: string;
   path: string;
@@ -17,24 +19,25 @@ function collectResearchFiles(
 ): void {
   for (const node of nodes) {
     if (node.type === "file" && node.name.endsWith(".md")) {
-      const info: FileInfo = {
-        name: node.name.replace(/\.md$/, "").replace(/-/g, " "),
-        path: node.path,
-        wordCount: node.wordCount || 0,
-        lastModified: node.lastModified || "",
-      };
+      const isInResearchDir = node.path.startsWith("research/");
 
-      if (
-        node.category === "research" &&
-        !node.path.startsWith("research/digests/")
-      ) {
-        researchFiles.push(info);
-      }
+      if (isInResearchDir) {
+        const info: FileInfo = {
+          name: node.name.replace(/\.md$/, "").replace(/-/g, " "),
+          path: node.path,
+          wordCount: node.wordCount || 0,
+          lastModified: node.lastModified || "",
+        };
 
-      if (node.path.startsWith("research/digests/")) {
-        digestFiles.push(info);
+        if (node.path.startsWith("research/digests/")) {
+          digestFiles.push(info);
+        } else {
+          researchFiles.push(info);
+        }
       }
-    } else if (node.children) {
+    }
+
+    if (node.children) {
       collectResearchFiles(node.children, researchFiles, digestFiles);
     }
   }
@@ -50,8 +53,8 @@ export default async function ResearchPage() {
     collectResearchFiles(tree, researchFiles, digestFiles);
     researchFiles.sort((a, b) => a.path.localeCompare(b.path));
     digestFiles.sort((a, b) => a.path.localeCompare(b.path));
-  } catch {
-    // Page will render with empty arrays
+  } catch (err) {
+    console.error("[ResearchPage] Failed to load file tree:", err);
   }
 
   return (
