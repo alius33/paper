@@ -2,7 +2,7 @@
 
 import { ReactNode, useState, FormEvent } from "react";
 import { useRouter } from "next/navigation";
-import { GitBranch, ArrowDownToLine, ArrowUpFromLine, Search, Sun, Moon, Scroll, PanelLeftClose, Library, Home } from "lucide-react";
+import { GitBranch, ArrowDownToLine, ArrowUpFromLine, Search, Sun, Moon, Scroll, PanelLeftClose, Library, Home, X } from "lucide-react";
 import { toast } from "sonner";
 import { cn } from "@/lib/utils";
 import { useAppStore, type Theme } from "@/lib/store";
@@ -17,13 +17,19 @@ export function Sidebar({ children }: SidebarProps) {
   const [searchQuery, setSearchQuery] = useState("");
   const [isPulling, setIsPulling] = useState(false);
   const [isPushing, setIsPushing] = useState(false);
-  const { collapseSidebar } = usePanelControls();
+  const { collapseSidebar, isMobile } = usePanelControls();
 
   const handleSearch = (e: FormEvent) => {
     e.preventDefault();
     if (searchQuery.trim()) {
       router.push(`/search?q=${encodeURIComponent(searchQuery.trim())}`);
+      if (isMobile) collapseSidebar();
     }
+  };
+
+  const handleNav = (path: string) => {
+    router.push(path);
+    if (isMobile) collapseSidebar();
   };
 
   const handlePull = async () => {
@@ -85,10 +91,17 @@ export function Sidebar({ children }: SidebarProps) {
           </div>
           <button
             onClick={collapseSidebar}
-            className="rounded-md p-1 text-sidebar-muted hover:text-sidebar-foreground hover:bg-sidebar-accent transition-colors mt-0.5"
-            title="Collapse sidebar"
+            className={cn(
+              "rounded-md text-sidebar-muted hover:text-sidebar-foreground hover:bg-sidebar-accent transition-colors mt-0.5",
+              isMobile ? "p-2" : "p-1"
+            )}
+            title={isMobile ? "Close sidebar" : "Collapse sidebar"}
           >
-            <PanelLeftClose className="h-4 w-4" />
+            {isMobile ? (
+              <X className="h-5 w-5" />
+            ) : (
+              <PanelLeftClose className="h-4 w-4" />
+            )}
           </button>
         </div>
       </div>
@@ -97,19 +110,25 @@ export function Sidebar({ children }: SidebarProps) {
       <div className="flex-shrink-0 px-3 py-2 border-b border-sidebar-border">
         <div className="flex items-center gap-1">
           <button
-            onClick={() => router.push("/")}
-            className="flex items-center gap-1.5 rounded-md px-2.5 py-1.5 text-xs font-medium text-sidebar-foreground hover:bg-sidebar-accent transition-colors"
+            onClick={() => handleNav("/")}
+            className={cn(
+              "flex items-center gap-1.5 rounded-md text-xs font-medium text-sidebar-foreground hover:bg-sidebar-accent transition-colors",
+              isMobile ? "px-3 py-2.5 min-h-[44px]" : "px-2.5 py-1.5"
+            )}
             title="Dashboard"
           >
-            <Home className="h-3.5 w-3.5" />
+            <Home className={isMobile ? "h-4 w-4" : "h-3.5 w-3.5"} />
             Home
           </button>
           <button
-            onClick={() => router.push("/research")}
-            className="flex items-center gap-1.5 rounded-md px-2.5 py-1.5 text-xs font-medium text-sidebar-foreground hover:bg-sidebar-accent transition-colors"
+            onClick={() => handleNav("/research")}
+            className={cn(
+              "flex items-center gap-1.5 rounded-md text-xs font-medium text-sidebar-foreground hover:bg-sidebar-accent transition-colors",
+              isMobile ? "px-3 py-2.5 min-h-[44px]" : "px-2.5 py-1.5"
+            )}
             title="Research Library"
           >
-            <Library className="h-3.5 w-3.5" />
+            <Library className={isMobile ? "h-4 w-4" : "h-3.5 w-3.5"} />
             Research
           </button>
         </div>
@@ -124,7 +143,10 @@ export function Sidebar({ children }: SidebarProps) {
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
             placeholder="Search files..."
-            className="w-full rounded-md border border-sidebar-border bg-sidebar py-1.5 pl-8 pr-3 text-sm text-sidebar-foreground placeholder:text-sidebar-muted focus:border-accent focus:outline-none focus:ring-1 focus:ring-accent"
+            className={cn(
+              "w-full rounded-md border border-sidebar-border bg-sidebar pl-8 pr-3 text-sm text-sidebar-foreground placeholder:text-sidebar-muted focus:border-accent focus:outline-none focus:ring-1 focus:ring-accent",
+              isMobile ? "py-2.5 text-base" : "py-1.5"
+            )}
           />
         </form>
       </div>
@@ -148,9 +170,10 @@ export function Sidebar({ children }: SidebarProps) {
             onClick={handlePull}
             disabled={isPulling}
             className={cn(
-              "flex items-center gap-1.5 rounded-md px-2.5 py-1.5 text-xs font-medium transition-colors",
+              "flex items-center gap-1.5 rounded-md text-xs font-medium transition-colors",
               "text-sidebar-foreground hover:bg-sidebar-accent",
-              "disabled:opacity-50 disabled:cursor-not-allowed"
+              "disabled:opacity-50 disabled:cursor-not-allowed",
+              isMobile ? "px-3 py-2.5 min-h-[44px]" : "px-2.5 py-1.5"
             )}
             title="Pull from remote"
           >
@@ -161,9 +184,10 @@ export function Sidebar({ children }: SidebarProps) {
             onClick={handlePush}
             disabled={isPushing}
             className={cn(
-              "flex items-center gap-1.5 rounded-md px-2.5 py-1.5 text-xs font-medium transition-colors",
+              "flex items-center gap-1.5 rounded-md text-xs font-medium transition-colors",
               "text-sidebar-foreground hover:bg-sidebar-accent",
-              "disabled:opacity-50 disabled:cursor-not-allowed"
+              "disabled:opacity-50 disabled:cursor-not-allowed",
+              isMobile ? "px-3 py-2.5 min-h-[44px]" : "px-2.5 py-1.5"
             )}
             title="Push to remote"
           >
@@ -185,6 +209,7 @@ const themes: { value: Theme; label: string; icon: typeof Sun }[] = [
 function ThemeSelector() {
   const theme = useAppStore((s) => s.theme);
   const setTheme = useAppStore((s) => s.setTheme);
+  const { isMobile } = usePanelControls();
 
   return (
     <div className="flex-shrink-0 border-t border-sidebar-border px-3 py-2">
@@ -195,14 +220,15 @@ function ThemeSelector() {
             key={value}
             onClick={() => setTheme(value)}
             className={cn(
-              "flex items-center gap-1.5 rounded-md px-2.5 py-1.5 text-xs font-medium transition-colors",
+              "flex items-center gap-1.5 rounded-md text-xs font-medium transition-colors",
               theme === value
                 ? "bg-sidebar-accent text-sidebar-accent-foreground"
-                : "text-sidebar-foreground hover:bg-sidebar-accent"
+                : "text-sidebar-foreground hover:bg-sidebar-accent",
+              isMobile ? "px-3 py-2.5 min-h-[44px]" : "px-2.5 py-1.5"
             )}
             title={label}
           >
-            <Icon className="h-3.5 w-3.5" />
+            <Icon className={isMobile ? "h-4 w-4" : "h-3.5 w-3.5"} />
           </button>
         ))}
       </div>

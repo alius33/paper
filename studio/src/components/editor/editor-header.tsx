@@ -61,7 +61,7 @@ export function EditorHeader({ filePath }: EditorHeaderProps) {
   const { chapterNumber, title } = parseChapterInfo(filePath);
 
   return (
-    <div className="border-b border-border bg-card px-6 py-3">
+    <div className="border-b border-border bg-card px-4 py-3 md:px-6">
       <h1 className="font-serif text-xl font-semibold text-primary">
         {chapterNumber ? (
           <>Chapter {chapterNumber}: {title}</>

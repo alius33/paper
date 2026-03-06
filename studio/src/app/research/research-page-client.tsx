@@ -377,14 +377,14 @@ export function ResearchPageClient({
   return (
     <div className="flex h-full flex-col bg-background">
       {/* Header */}
-      <div className="flex-shrink-0 border-b border-border px-6 py-4">
+      <div className="flex-shrink-0 border-b border-border px-4 py-4 md:px-6">
         <div className="flex items-center gap-3">
           <button
             onClick={() => router.push("/")}
-            className="rounded-md p-1 text-muted-foreground hover:text-foreground hover:bg-muted transition-colors"
+            className="rounded-md p-2 md:p-1 text-muted-foreground hover:text-foreground hover:bg-muted transition-colors"
             title="Back to dashboard"
           >
-            <ArrowLeft className="h-4 w-4" />
+            <ArrowLeft className="h-5 w-5 md:h-4 md:w-4" />
           </button>
           <div>
             <h1 className="font-serif text-xl font-semibold text-primary tracking-tight">
@@ -402,13 +402,13 @@ export function ResearchPageClient({
         </div>
 
         {/* Tabs */}
-        <div className="flex items-center gap-1 mt-4">
+        <div className="flex items-center gap-1 mt-4 overflow-x-auto flex-nowrap -mx-1 px-1">
           {TABS.map(({ key, label, icon: Icon }) => (
             <button
               key={key}
               onClick={() => setActiveTab(key)}
               className={cn(
-                "flex items-center gap-1.5 px-3 py-1.5 text-xs font-medium rounded-md transition-colors",
+                "flex items-center gap-1.5 px-3 py-2 md:py-1.5 text-xs font-medium rounded-md transition-colors whitespace-nowrap min-h-[44px] md:min-h-0",
                 activeTab === key
                   ? "bg-secondary text-foreground border border-border"
                   : "text-muted-foreground hover:text-foreground hover:bg-secondary/30"
@@ -428,7 +428,7 @@ export function ResearchPageClient({
 
       {/* Search bar for topics and digests */}
       {(activeTab === "topics" || activeTab === "digests") && (
-        <div className="flex-shrink-0 px-6 py-3 border-b border-border">
+        <div className="flex-shrink-0 px-4 py-3 border-b border-border md:px-6">
           <div className="relative max-w-md">
             <Search className="absolute left-2.5 top-1/2 -translate-y-1/2 h-3.5 w-3.5 text-muted-foreground" />
             <input
@@ -448,7 +448,7 @@ export function ResearchPageClient({
 
       {/* Content */}
       <div className="flex-1 overflow-y-auto">
-        <div className="max-w-3xl mx-auto px-6 py-6 space-y-4">
+        <div className="max-w-3xl mx-auto px-4 py-4 space-y-4 md:px-6 md:py-6">
           {/* By Topic tab */}
           {activeTab === "topics" && (
             <>

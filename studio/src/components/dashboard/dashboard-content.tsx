@@ -54,7 +54,7 @@ export function DashboardContent({
 
   return (
     <div className="h-full overflow-y-auto">
-      <div className="max-w-4xl mx-auto px-6 py-8 space-y-8">
+      <div className="max-w-4xl mx-auto px-4 py-6 space-y-6 md:px-6 md:py-8 md:space-y-8">
         {/* Header */}
         <div>
           <h1 className="font-serif text-3xl font-bold tracking-tight text-primary">
@@ -158,7 +158,7 @@ function QuickActionLink({
   return (
     <a
       href={href}
-      className="inline-flex items-center gap-1.5 rounded-md border border-border bg-background px-3 py-1.5 text-xs font-medium text-foreground hover:border-accent hover:bg-secondary/30 transition-colors"
+      className="inline-flex items-center gap-1.5 rounded-md border border-border bg-background px-3 py-2.5 text-xs font-medium text-foreground hover:border-accent hover:bg-secondary/30 transition-colors min-h-[44px] md:py-1.5 md:min-h-0"
     >
       {label}
     </a>

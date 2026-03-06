@@ -125,7 +125,7 @@ export default function SearchPageContent() {
 
   return (
     <div className="flex h-full flex-col bg-background">
-      <div className="flex-shrink-0 border-b border-border px-6 py-4">
+      <div className="flex-shrink-0 border-b border-border px-4 py-4 md:px-6">
         <form onSubmit={handleSubmit} className="space-y-3">
           <div className="relative">
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
@@ -139,14 +139,14 @@ export default function SearchPageContent() {
             />
           </div>
 
-          <div className="flex items-center gap-1">
+          <div className="flex items-center gap-1 overflow-x-auto flex-nowrap">
             {(Object.keys(SCOPE_LABELS) as Scope[]).map((s) => (
               <button
                 key={s}
                 type="button"
                 onClick={() => setScope(s)}
                 className={cn(
-                  "rounded-md px-3 py-1 text-xs font-medium transition-colors",
+                  "rounded-md px-3 py-2 md:py-1 text-xs font-medium transition-colors whitespace-nowrap min-h-[44px] md:min-h-0",
                   scope === s
                     ? "bg-primary text-primary-foreground"
                     : "text-muted-foreground hover:text-foreground hover:bg-muted"
@@ -192,7 +192,7 @@ export default function SearchPageContent() {
         )}
 
         {!isSearching && results.length > 0 && (
-          <div className="px-6 py-4">
+          <div className="px-4 py-4 md:px-6">
             <p className="text-xs text-muted-foreground mb-4">
               {results.length} result{results.length !== 1 ? "s" : ""} found
             </p>
