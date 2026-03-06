@@ -43,18 +43,23 @@ export function StatusBar() {
   const wordCountDisplay = () => {
     if (wordCount === 0 && !currentFile) return null;
     if (selectionWordCount > 0) {
-      return `${wordCount.toLocaleString()} words (${selectionWordCount.toLocaleString()} selected)`;
+      return `${wordCount.toLocaleString()} words (${selectionWordCount.toLocaleString()} sel)`;
     }
     return `${wordCount.toLocaleString()} words`;
   };
 
   return (
-    <div className="status-bar flex items-center justify-between px-4 py-1.5 select-none">
-      {/* Left: File path */}
-      <div className="flex items-center gap-2 min-w-0 flex-shrink">
+    <div className="status-bar flex items-center justify-between px-3 py-1.5 select-none md:px-4">
+      {/* Left: File path — hidden on mobile */}
+      <div className="hidden md:flex items-center gap-2 min-w-0 flex-shrink">
         <span className={cn("truncate text-xs", !currentFile && "italic")}>
           {currentFile || "No file open"}
         </span>
+      </div>
+
+      {/* Mobile left: save status */}
+      <div className="flex md:hidden items-center">
+        <span className="text-xs">{saveStatusDisplay()}</span>
       </div>
 
       {/* Center: Word count */}
@@ -62,13 +67,21 @@ export function StatusBar() {
         {wordCountDisplay()}
       </div>
 
-      {/* Right: Git branch + save status */}
-      <div className="flex items-center gap-3 flex-shrink-0">
+      {/* Right: Git branch + save status (desktop) */}
+      <div className="hidden md:flex items-center gap-3 flex-shrink-0">
         <span className="flex items-center gap-1 text-xs">
           <GitBranch className="h-3 w-3" />
           {gitBranch}
         </span>
         <span className="text-xs">{saveStatusDisplay()}</span>
+      </div>
+
+      {/* Mobile right: abbreviated git branch */}
+      <div className="flex md:hidden items-center flex-shrink-0">
+        <span className="flex items-center gap-1 text-xs">
+          <GitBranch className="h-3 w-3" />
+          <span className="max-w-[80px] truncate">{gitBranch}</span>
+        </span>
       </div>
     </div>
   );

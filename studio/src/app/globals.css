@@ -411,3 +411,47 @@ body {
   background: #172554;
   color: #93c5fd;
 }
+
+/* ============================================================
+   Mobile Responsive Styles
+   ============================================================ */
+
+@media (max-width: 767px) {
+  /* Tiptap editor: fill available width, comfortable padding */
+  .tiptap {
+    max-width: 100%;
+    padding: 1.25rem 1rem;
+    font-size: 1.0625rem;
+  }
+
+  .tiptap h1 {
+    font-size: 1.5rem;
+    margin-top: 1.5rem;
+  }
+
+  .tiptap h2 {
+    font-size: 1.25rem;
+    margin-top: 1.25rem;
+  }
+
+  .tiptap hr {
+    margin: 1.5rem auto;
+  }
+
+  /* Wider scrollbar thumb for touch */
+  *::-webkit-scrollbar {
+    width: 4px;
+    height: 4px;
+  }
+
+  /* Prevent text size adjustments on iOS/Samsung */
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+  }
+
+  /* Ensure inputs don't zoom on Samsung/iOS */
+  input, textarea, select {
+    font-size: 16px !important;
+  }
+}

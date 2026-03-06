@@ -1,7 +1,7 @@
 "use client";
 
 import { ReactNode, useState } from "react";
-import { PanelRightClose } from "lucide-react";
+import { PanelRightClose, X } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { usePanelControls } from "./panel-context";
 
@@ -29,7 +29,7 @@ export function RightPanel({
   claudeContent,
   historyContent,
 }: RightPanelProps) {
-  const { collapseRightPanel } = usePanelControls();
+  const { collapseRightPanel, isMobile } = usePanelControls();
   const [activeTab, setActiveTab] = useState<TabId>("research");
 
   const renderContent = () => {
@@ -76,10 +76,13 @@ export function RightPanel({
                 key={tab.id}
                 onClick={() => setActiveTab(tab.id)}
                 className={cn(
-                  "px-3 py-1.5 text-xs font-medium rounded-t-md transition-colors",
+                  "font-medium rounded-t-md transition-colors",
                   activeTab === tab.id
                     ? "bg-background text-foreground border border-b-0 border-border"
-                    : "text-muted-foreground hover:text-foreground hover:bg-muted/50"
+                    : "text-muted-foreground hover:text-foreground hover:bg-muted/50",
+                  isMobile
+                    ? "px-4 py-2.5 text-sm min-h-[44px]"
+                    : "px-3 py-1.5 text-xs"
                 )}
               >
                 {tab.label}
@@ -87,13 +90,20 @@ export function RightPanel({
             ))}
           </div>
 
-          {/* Collapse button */}
+          {/* Collapse / Close button */}
           <button
             onClick={collapseRightPanel}
-            className="rounded-md p-1 text-muted-foreground hover:text-foreground hover:bg-muted transition-colors"
-            title="Collapse panel"
+            className={cn(
+              "rounded-md text-muted-foreground hover:text-foreground hover:bg-muted transition-colors",
+              isMobile ? "p-2" : "p-1"
+            )}
+            title={isMobile ? "Close panel" : "Collapse panel"}
           >
-            <PanelRightClose className="h-4 w-4" />
+            {isMobile ? (
+              <X className="h-5 w-5" />
+            ) : (
+              <PanelRightClose className="h-4 w-4" />
+            )}
           </button>
         </div>
       </div>

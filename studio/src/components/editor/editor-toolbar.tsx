@@ -39,7 +39,8 @@ function ToolbarButton({
       disabled={disabled}
       title={title}
       className={cn(
-        'flex h-8 w-8 items-center justify-center rounded-md transition-colors',
+        'flex items-center justify-center rounded-md transition-colors',
+        'h-10 w-10 md:h-8 md:w-8',
         'text-muted-foreground hover:bg-secondary hover:text-foreground',
         'disabled:pointer-events-none disabled:opacity-40',
         active && 'bg-secondary text-foreground',
@@ -67,7 +68,7 @@ export function EditorToolbar({ editor }: EditorToolbarProps) {
   const disabled = !editor;
 
   return (
-    <div className="flex items-center gap-0.5 border-b border-border bg-card px-3 py-1.5">
+    <div className="flex items-center gap-0.5 border-b border-border bg-card px-3 py-1.5 overflow-x-auto">
       <ToolbarButton
         onClick={() => editor?.chain().focus().toggleBold().run()}
         disabled={disabled}
