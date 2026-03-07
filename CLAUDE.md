@@ -540,7 +540,7 @@ When writing, maintain awareness of planted elements that must pay off:
 
 ### When Writing a New Chapter
 
-1. **Read the relevant section of `series_plot.md`** for the chapter's place in the overall arc. **Then check `research-index.md`** for research files and book digests relevant to this chapter's locations, characters, and topics.
+1. **MANDATORY:** Read the chapter brief at `chapters/book-1/briefs/ch{NN}-brief.md`. This is your primary context — it contains character states, continuity notes, voice reminders, and sensory palette for this specific chapter. If additional research depth is needed, consult `context-manifest.md` for this chapter's research file list. Then read the relevant section of `series_plot.md` for the chapter's place in the overall arc.
 2. **Read the previous chapter's final scene** for continuity of setting, mood, and any unfinished action.
 3. **Check this file (§4)** for every character appearing in the chapter — voice, current emotional state, what they know.
 4. **Check the timeline (§7)** — what year is it? What has happened recently in the world? What is Yusuf's age and current state?
@@ -550,7 +550,7 @@ When writing, maintain awareness of planted elements that must pay off:
 
 ### When Editing or Revising a Chapter
 
-1. **Read the chapter fully** before making any changes.
+1. **MANDATORY:** Read the chapter brief at `chapters/book-1/briefs/ch{NN}-brief.md` AND the existing chapter draft. The brief contains continuity details, enhancement priorities, and voice reminders specific to this chapter. For deeper research, consult `context-manifest.md`.
 2. **Assess across these dimensions** (present findings before editing):
    - Prose quality and voice consistency (does it match §2?)
    - Pacing (are action/reflection scenes using the right rhythms?)
@@ -593,8 +593,9 @@ This workflow applies when the user asks Claude to research a topic for use in f
    - `research/craft/` — scene-level research, specific locations, walks
    - `research/plot/` — plot outlines, chapter breakdowns, structure analysis
 4. **Name the file** using descriptive kebab-case: `nestorian-christians-in-baghdad.md`, not `research-topic-1.md`. The filename should be grep-friendly — someone searching for "Nestorian" should find it by filename alone.
-5. **Include a "Works cited" section** at the end with numbered references, following the format used in existing research files.
-6. **Update `research-index.md`** — add the new file to the appropriate topic section and to any relevant Book/Chapter rows.
+5. **Update context files:** After updating `research-index.md`, also update `context-manifest.md` to add the new file under relevant chapters. If the research changes continuity or character state, update the affected chapter briefs in `chapters/book-1/briefs/`.
+6. **Include a "Works cited" section** at the end with numbered references, following the format used in existing research files.
+7. **Update `research-index.md`** — add the new file to the appropriate topic section and to any relevant Book/Chapter rows.
 
 ### When Digesting a Reference Book
 
@@ -611,6 +612,17 @@ This workflow applies when the user adds a book (PDF, EPUB, or other format) to 
    - **[RESEARCH NEEDED] flags:** any claims that conflict with other sources or existing research files
 4. **Target 2,000–5,000 words** per digest regardless of book length. Apply the iceberg rule: extract what matters to this project, not everything. A 300-page book rarely has more than 100 pages of material relevant to this specific novel.
 5. **Update `research-index.md`** — add the digest to the Book Digests table and to any relevant topic and chapter rows.
+
+### When Creating or Updating a Chapter Brief
+
+After writing or significantly revising a chapter:
+
+1. Create or update the brief at `chapters/book-1/briefs/ch{NN}-brief.md`.
+2. Follow the format established in existing briefs: When/Where, Characters Present, What This Chapter Must Accomplish, Continuity, Voice Reminders, Deep Research links.
+3. Update character states, continuity notes, and planted threads based on what was actually written.
+4. Check the briefs of adjacent chapters (N-1 and N+1) — if continuity details changed, update those briefs too.
+5. Flag any `[RESEARCH NEEDED]` items discovered during writing.
+6. Update `context-manifest.md` if new research files were consulted or created.
 
 ### When Expanding World-Building
 
