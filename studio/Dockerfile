@@ -2,7 +2,7 @@ FROM node:22-alpine AS builder
 RUN apk add --no-cache git
 WORKDIR /app
 COPY studio/package.json studio/package-lock.json ./
-RUN npm install --ignore-platform
+RUN npm ci --force
 COPY studio/ .
 RUN npm run build
 
