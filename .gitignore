@@ -14,3 +14,6 @@ studio/.next/
 studio/node_modules/
 studio/.env
 studio/.env.local
+
+# Converted reference book texts (copyrighted material)
+reference/belgariad/

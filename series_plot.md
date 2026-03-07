@@ -14,7 +14,7 @@
 
 | Book | Title | Years | Ages | Central Question |
 |------|-------|-------|------|-----------------|
-| 1 | **The House of Paper** | 770—791 | 0—21 | Will Yusuf choose the safe inheritance his father offers, or bet everything on a world his father cannot imagine? |
+| 1 | **The House of Paper** | 770—794 | 0—24 | Will Yusuf choose the safe inheritance his father offers, or bet everything on a world his father cannot imagine? |
 | 2 | **The House of Silver** | 791—803 | 21—33 | Can a man build an empire on trust in a world where trust is the first casualty of power? |
 | 3 | **The House of Gold** | 803—809 | 33—39 | What does it cost to become indispensable to the most dangerous man alive? |
 | 4 | **The House of Wisdom** | 809—814 | 39—44 | Can the next generation prove worthy — and can the old man let go? |
@@ -56,7 +56,7 @@
 ---
 
 # BOOK ONE: THE HOUSE OF PAPER
-## (770—791 CE | Ages 0—21)
+## (770—794 CE | Ages 0—24)
 ## Story begins 787 CE, age 17
 
 **Logline:** A paper-maker's apprentice — already skilled in craft but hungry to understand the business of paper — sets out on his first trade journey and discovers a world far more complex, dangerous, and full of possibility than anything his workshop could teach him. By the time he returns, he has glimpsed the blueprint of an empire. But building it will cost him his master's trust, his father's understanding, and the last of his innocence.
@@ -84,9 +84,9 @@ The following events are part of Yusuf's history before the novel opens. They ar
 
 ---
 
-## PART ONE: THE ROAD (787 CE)
+## PART ONE: THE ROAD (787 CE) — Chapters 1–8
 
-*Chapters 1—5 are drafted. They cover the Kufa journey and its immediate aftermath.*
+*The Kufa journey and its aftermath. First time outside Baghdad. Failure as education.*
 
 ### Chapter 1: The Journey to Kufa
 
@@ -140,147 +140,263 @@ Return to Abu Said's workshop. Abu Said's assessment of the Kufa trip — the fa
 
 Yusuf's first solo selling mission in Baghdad's paper market. The donkey. Learning to sell in a known market — a different challenge from selling in a hostile one. Gradual confidence. The chapter shows Yusuf beginning to understand the business of paper, not just the craft.
 
+### Chapter 6: The Apprentice's Ledger
+
+**Year: Late 787 CE. Yusuf is 17.**
+
+Workshop deepening. Yusuf learns *siyaq* accounting from Abu Said. Omar al-Dimashqi teaches paper finishing — burnishing, sizing, grades. Yusuf notices the workshop undercharges for its best product and raises this with Abu Said, who listens but doesn't act. First seed of commercial instinct clashing with the craftsman's world.
+
+### Chapter 7: The Tilemaker's Son
+
+**Year: Late 787 CE. Yusuf is 17.**
+
+Home chapter. Yusuf visits Ali at the tile workshop. Ali explains glaze chemistry; they eat together. Ali asks about Kufa; offers his perspective on honest failure. Backstory surfaces: Layla's death, the pouch of sand, Khorasani roots. A letter from Omar (brother) — stationed near Mosul. Yusuf on the rooftop at sunset, looking east through the Khorasan Gate.
+
+### Chapter 8: The Paper and the Knife
+
+**Year: Early 788 CE. Yusuf is 17–18.**
+
+Yusuf delivers paper to a difficult government scribe. Navigates bureaucracy — waiting rooms, gatekeepers. Succeeds by finding the man behind the man. Meanwhile, Abu Said receives a Sogdian visitor from Samarkand — fragments of conversation about a trade route to Rayy. Seeds the next journey.
+
 ---
 
-## PART TWO: THE WIDE WORLD (788—789 CE)
+## PART TWO: THE MOUNTAIN AND THE MARKET (788 CE) — Chapters 9–18
 
-### Chapter 6: The Oud Player's Return
+*Musa returns. The Zagros/Rayy journey. Physical danger, the Sogdian blueprint, Musa opens the emotional register.*
 
-**Year: 787—788 CE. Yusuf is 17—18.**
+### Chapter 9: The Oud Player's Return
 
-**The Proposition:** After the Kufa journey and the selling missions in Baghdad, Abu Said sees that Yusuf's restlessness has crystallised into something purposeful. Yusuf proposes a counter-offer to staying in the workshop as a journeyman: he will represent the business on trade journeys, expanding the customer base in distant cities. Abu Said agrees to a major venture — a caravan to Rayy carrying luxury paper for the provincial administration.
+**Year: Early 788 CE. Yusuf is 18.**
 
-**Musa's Return:** During the preparation period, Yusuf reconnects with Musa ibn Tariq, a childhood friend from the Khorasan Gate neighbourhood. Musa was apprenticed to his father's leatherworking trade but has fallen in love with the oud. He practises obsessively, sneaking away to hear great musicians perform. When they meet again, Musa is eighteen — technically still an apprentice, practically a musician. He is everything Yusuf is not: spontaneous, emotional, alive to beauty for its own sake. Their friendship re-ignites immediately.
+Musa reconnection. He's fallen in love with the oud, sneaking away from leatherwork. Musa takes Yusuf to hear Ibrahim al-Mosuli perform. Music ambushes Yusuf with emotion. "Not everything can be weighed on a scale." Yusuf watches Ibrahim navigate patronage — files the observation.
 
-**The Key Scene:** Musa takes Yusuf to hear Ibrahim al-Mosuli, the most celebrated musician in the Abbasid world, perform at a private gathering. The music is extraordinary — Yusuf, who has spent years in a world of precision and calculation, is ambushed by emotion. For a single evening, he is not a paper-maker or a future merchant; he is simply a young man, overwhelmed by beauty. Musa watches him and grins: "You see? Not everything in the world can be weighed on a scale."
+Ibrahim al-Mosuli is the first major historical figure Yusuf encounters directly. He does not speak to him — he is an apprentice, invisible at a gathering of the elite. But he watches Ibrahim's relationship with his patrons: the way the musician flatters without grovelling, navigates courtly patronage with instinct for the unspoken. It is a masterclass in the management of powerful people.
 
-Ibrahim al-Mosuli is the first major historical figure Yusuf encounters directly. He does not speak to him — he is an apprentice, invisible at a gathering of the elite. But he watches Ibrahim's relationship with his patrons: the way the musician flatters without grovelling, navigates courtly patronage with instinct for the unspoken. It is a masterclass in the management of powerful people. Yusuf files the observation away.
+### Chapter 10: The Proposition
 
-**Musa Joins the Journey:** Musa agrees to join the Rayy caravan for a small fee, serving as entertainment for the travellers and eager for the adventure. This is the beginning of their adult friendship — two boys from the Khorasan Gate, setting out to discover what the world holds.
+**Year: Spring 788 CE. Yusuf is 18.**
 
-### Chapter 7: The Mountain Passage
+Abu Said proposes the Rayy venture — luxury paper for the provincial administration. Preparation: selecting stock, packing for mountains, hiring into a caravan. Omar al-Dimashqi helps and reveals his own ambition — a new, finer paper grade. Yusuf invites Musa to join as entertainment. This is the beginning of their adult friendship — two boys from the Khorasan Gate, setting out to discover what the world holds.
 
-**Year: 788 CE. Yusuf is 18.**
+### Chapter 11: The Land of Canals
 
-**The Great Test:** The caravan to Rayy is Abu Said's most ambitious venture for Yusuf — luxury paper for the provincial administration, a journey across the Zagros Mountains. Yusuf serves as Abu Said's representative, responsible for the cargo and its sale. Musa comes along.
+**Year: Spring 788 CE. Yusuf is 18.**
 
-**Musa's Role:** Musa is not just comic relief. He is the social glue of the caravan. His music calms nerves during tense passages, entertains at caravanserais, and opens doors that Yusuf's paper cannot. People tell things to a musician they would never tell a merchant. Yusuf begins to see Musa not just as a friend but as an intelligence asset, and this realisation both pleases and shames him.
+First days eastward. Departure through the Khorasan Gate. The Great Khorasan Road. A *barid* rider thunders past — the postal system as the empire's nervous system. Yusuf begins to see Musa as an intelligence asset (people tell a musician things they'd never tell a merchant), and the recognition shames him.
 
-**The Mountain Crisis:** The Zagros crossing is brutal. A late snowstorm blocks the main pass. The caravan master wants to turn back; Yusuf argues for pressing on, knowing that a delay will mean missing the market in Rayy. The argument is fierce and public. Yusuf wins — not through authority, which he doesn't have, but by offering to personally pay for additional supplies from a Kurdish village and by volunteering to help clear the path himself. It works, but barely. Two pack animals are lost, along with a portion of the cargo. The financial loss is real and comes directly out of Yusuf's commission.
+### Chapter 12: The World Turns Upward
 
-**The Kurdish Village:** The Kurdish villagers who sell them supplies are wary but not hostile. Yusuf's willingness to negotiate respectfully and pay fairly — rather than simply demanding — earns a grudging welcome. An old Kurdish elder tells him: "You speak Arabic like a city man and bargain like a Kurd. What are you?" Yusuf answers honestly: "I'm not sure yet." The elder laughs. "Good. A man who knows what he is has stopped growing."
+**Year: Spring 788 CE. Yusuf is 18.**
 
-**Rayy and Its Lessons:** Rayy is a revelation. It is a Silk Road crossroads, a city where Persians, Turks, Arabs, and Central Asians all trade. The provincial administration is sophisticated and hungry for paper. Yusuf makes the sale successfully, but the real education comes from the Sogdian merchants he meets — men from Samarkand and Bukhara who have been running continental trade networks for centuries. He watches how they use *suftajas* to move money without moving coin, how they diversify risk across multiple caravans, and how they maintain networks of trusted contacts spanning thousands of miles. He sees, for the first time, the blueprint of what he wants to build.
+The Zagros foothills. Camels traded for mules. The ascent — thin air, wild herbs, narrow ledges. A mule slips, nearly losing a bale of paper. Yusuf saves the cargo but injures his hand. Umar splints it, says nothing about bravery. Kurdish scouts on the ridges. Physical danger as teacher.
 
-**Musa's Moment:** In a caravanserai outside Rayy, Musa meets a travelling Persian musician who teaches him a new technique on the oud — a style of playing that fuses Arab and Persian musical traditions. Musa is transformed by the encounter. It is a mirror of Yusuf's own experience with the Sogdian merchants: both young men are discovering that the world beyond Baghdad contains knowledge that could change their lives. But where Yusuf processes this discovery as strategy, Musa processes it as art.
+### Chapter 13: The Chieftain's Tent
 
-### Chapter 8: The Road to Damascus
+**Year: Spring 788 CE. Yusuf is 18.**
 
-**Year: 788 CE. Yusuf is 18.**
+The *badraqa* negotiation. Mint tea, the dance of offers. The chieftain wants Damascus steel, not silver. Trust sealed by a handshake, backed by the blade. A late snowstorm blocks the pass. Yusuf argues for pressing on, pays for supplies from a Kurdish village. Two pack animals lost. Courage and cost are inseparable.
 
-The Damascus journey — westward for the first time. A different world from the eastern routes: the Syrian desert, the ancient cities, the proximity to the Byzantine frontier. Yusuf begins to understand the empire's geography as a system of trade routes, each with its own economics, risks, and opportunities. Damascus teaches him about the western markets and the Mediterranean trade that feeds them.
+### Chapter 14: The Crossroads of Rayy
 
-[This chapter to be expanded when written. Key beats: the desert crossing, Damascus as an ancient commercial city, the contrast between eastern and western trade networks, a specific commercial lesson or setback that complements the Kufa failure.]
+**Year: Late Spring 788 CE. Yusuf is 18.**
 
-### Chapter 9: The Northern Route
+Rayy — Silk Road crossroads. Successful paper sale to the provincial administration. The real education: Sogdian merchants and their *suftaja* networks. He sees the blueprint of what he wants to build. Also encounters Nestorian Christian merchants — the empire's commercial infrastructure depends on people of every faith.
 
-**Year: 789 CE. Yusuf is 19.**
+### Chapter 15: The Musician's Garden
 
-The Mosul journey — the northern trade route toward the Byzantine frontier and the mountains of Kurdistan. Mosul is a military and commercial hub controlling access to Anatolia and the Caucasus. Yusuf encounters the empire's military frontier directly and understands the relationship between commerce and military power — the army needs supplies, and the men who supply it are both essential and vulnerable.
+**Year: Late Spring 788 CE. Yusuf is 18.**
 
-[This chapter to be expanded when written. Key beats: the militarised north, the relationship between army supply and commercial trade, the view toward Byzantium, a connection to Omar's military world.]
+Quieter chapter. Musa meets a Persian musician in a caravanserai garden, learns a new oud technique. It mirrors Yusuf's Sogdian revelation — both discovering transformative knowledge, but Musa processes it as art, Yusuf as strategy. Late-night conversation about what they want from life. Friendship, youth, and diverging paths.
 
-### Chapter 10: The Sogdian's Ghost
+### Chapter 16: The Descent
 
-**Year: 789 CE. Yusuf is 19.**
+**Year: Summer 788 CE. Yusuf is 18.**
 
-**The Detour to Merv:** Yusuf makes a fateful decision: instead of returning directly to Baghdad, he diverts to Merv — the great oasis city of Khorasan, the place his father was born, the cradle of the Abbasid revolution. He tells himself this is a business decision (there are markets to explore), but the truth is more personal. He wants to see where he comes from.
+Return through the Zagros. Yusuf is more confident but the mountains humble him — a flash flood costs him emergency supplies. Arrives in Baghdad thinner, harder, carrying the Sogdian blueprint. Omar al-Dimashqi notices the change: "You left as a paper-maker. You came back as something else."
 
-**Merv:** The city is everything Baghdad is not — ancient, horizontal, green where Baghdad is dusty. Yusuf finds a distant cousin, an old potter who weeps when he hears the family name. The old man takes Yusuf to see the small house where Ali was born and the kiln his grandfather built. Standing in the courtyard, surrounded by the ghosts of a life his father left behind, Yusuf feels something he rarely allows himself: tenderness. He understands, for the first time, what his father sacrificed to move to Baghdad and why the old man clings so fiercely to his craft — it is the last connection to this place.
+### Chapter 17: The Master's Question
 
-**The Auction and the Sogdian:** A powerful provincial governor has been executed for treason, and his assets are being auctioned to fill the state coffers. The auction is a spectacle of imperial power — everything the governor touched is being liquidated.
+**Year: Summer 788 CE. Yusuf is 18.**
 
-But Yusuf's attention is caught by a man standing at the edge of the crowd. He is a Sogdian merchant — not old, perhaps fifty, with the weathered hands of a man who has handled goods for decades. Yusuf learns his story from the other merchants in murmured fragments: the man's name is Dastan. He built his trade network over thirty years. Honest, meticulous, respected across the Silk Road from Samarkand to Damascus. His connections were the kind that took a lifetime to build — the trust of a hundred partners in a dozen cities, earned through decades of fair dealing.
+Abu Said debriefs the Rayy journey. The sales succeeded, but Abu Said is more interested in what Yusuf learned than what he earned. Yusuf describes the *suftaja* system. Abu Said: "My teacher in Samarkand was a Sogdian. They build everything on trust, and trust can be weaponised." Meanwhile, Omar al-Dimashqi has succeeded with his new paper grade. Abu Said examines it and smiles.
 
-His fatal error was simple. He was the governor's primary commercial partner. Their joint ventures were the engine of Merv's trade. When the governor fell, the state didn't just seize the governor's assets — it seized everything held in joint ventures. Dastan's warehouses, his caravan contracts, his stock of Chinese silk, his entire commercial life — all confiscated, because the legal structures that bound his business to the governor's made no distinction between the governor's property and his own.
+### Chapter 18: The Letter from Omar
 
-Dastan did nothing wrong. He broke no law, betrayed no trust, made no miscalculation except this: he built his fortune in proximity to power, and when that power fell, he fell with it.
+**Year: Late 788 CE. Yusuf is 18.**
 
-Yusuf watches Dastan standing in the auction yard as his own goods are sold off lot by lot. The man does not beg. He does not protest. He stands perfectly still, watching, with the expression of a man who understands exactly what is happening and cannot do a single thing to stop it. It is the stillness that haunts Yusuf — not desperation but comprehension. Dastan *understands* the system that is destroying him, and that understanding changes nothing.
+Transition chapter. A letter from half-brother Omar, stationed at a frontier garrison: "If someone could move money without moving coin, the army would worship him." Yusuf visits Ali, who is cautiously proud but uneasy. Ali gives Yusuf a cobalt tile fragment from the Khorasan Gate: "So you remember where you come from." Ali tells Yusuf about grandfather Suleiman — not the full trust story, but enough to plant the seed.
 
-**The Lesson:** That night, lying awake in a *khan* in Merv, Yusuf cannot stop thinking about the Sogdian. The man had everything Yusuf admires — skill, patience, a network built on trust over decades. And it meant nothing, because the architecture of power made no allowance for a merchant's virtue. The written contracts, the honoured agreements, the decades of fair dealing — all of it swept away by a single political execution that had nothing to do with Dastan himself.
+---
 
-Yusuf draws two conclusions, and the tension between them will define his life:
+## PART THREE: THE DESERT, THE NORTH, AND THE GHOST (788–790 CE) — Chapters 19–32
 
-First: *I must never be that vulnerable. I must build something that cannot be destroyed by the fall of a single patron.* This is the seed of his diversified network, his obsession with legal separation between entities, his refusal to depend on any one source of power.
+*Damascus expands Yusuf's world westward. Mosul reveals the military-commercial nexus. Merv is the climax — homecoming, Dastan, the silk gamble.*
 
-Second — and he is barely conscious of this one: *The silk in that warehouse is worth a fortune, and it is being sold for a fraction of its value.* The same system that destroyed Dastan is now offering Yusuf the opportunity of his life.
+### Chapter 19: The Western Road
 
-**The Silk Gamble:** Among the auction lots: a warehouse of raw silk cocoons from China, worth a fortune but requiring a buyer with both capital and nerve. The local merchants bid on small lots, cautious. Yusuf sees the opportunity and is terrified by it.
+**Year: Late 788 CE. Yusuf is 18.**
 
-He has no capital of his own. Abu Said's *suftaja* is meant for purchasing rare books and paper-making supplies. To buy the silk, he would need to use his master's credit for a purpose his master never authorised. It would be, in effect, a betrayal of trust — using borrowed authority for personal gain. If it works, he will return to Baghdad with a fortune. If it fails, he will have ruined his reputation, betrayed his master, and destroyed his career before it begins.
+Departure for Damascus. Westward — new terrain, steppe, thinning scrub. Abu Said's challenge: sell paper to the Damascus military administration, which still uses papyrus. Converting a papyrus market is harder than supplying existing demand. Musa joins again, his playing now markedly better.
 
-He thinks of Dastan, standing still in the auction yard. He thinks of his mother's fox-and-lion story. He thinks of the Sogdian traders in Rayy and their philosophy of calculated risk.
+### Chapter 20: The Singing Sands
 
-He buys the silk.
+**Year: Late 788 CE. Yusuf is 18.**
 
-He is nineteen years old, and he has just committed the act that will make him rich and cost him his master's respect — buying opportunity from the wreckage of another man's life, using trust he was not given permission to spend. The Sogdian's ghost will follow him for the rest of his life. Every time Yusuf builds closer to power, every time he profits from a patron's trust, Dastan will be standing at the edge of his vision — still, comprehending, unable to stop what is coming.
+The desert crossing. Set-piece of endurance. The sandstorm — two days of suffocating wind. Water discipline. Singing sands at night, jinn stories. Musa plays old Bedouin songs that unlock memories of Layla. Yusuf's Bedouin heritage woven into the present through the desert landscape.
 
-### Chapter 11: The Return
+### Chapter 21: The City of Jasmine
+
+**Year: Early 789 CE. Yusuf is 18–19.**
+
+Damascus — water, jasmine, labyrinthine souks. The Umayyad Mosque and its golden mosaics — a city built by the dynasty the Abbasids overthrew. The military administration pitch. Papyrus suppliers have deep relationships; Yusuf is an outsider from the rival capital.
+
+### Chapter 22: The Scribe of Damascus
+
+**Year: Early 789 CE. Yusuf is 19.**
+
+Commercial setback. A local papyrus supplier sabotages Yusuf's pitch. Unlike Kufa (simple failure), here he is actively undermined. Yusuf wants to retaliate, but Umar counsels patience. Instead, Yusuf finds an alternative market: private scholars and translators. Lower margins, but the side door. His instinct toward retaliation is noted — a seed for Book 2.
+
+### Chapter 23: A Cup of Date Wine
+
+**Year: Early 789 CE. Yusuf is 19.**
+
+Evening scene. Yusuf, Musa, and Damascus merchants share a meal. A merchant tells stories of the Umayyad court — its luxury, its poets, its fall. "The Umayyads thought Damascus would be the centre of the world forever. Then a man in Khorasan raised a black flag, and in ten years it was over." Empires feel permanent from inside, fragile from outside. Musa plays, teases Yusuf about being too serious. Warmth and youth.
+
+### Chapter 24: The Northern Artery
+
+**Year: Spring 789 CE. Yusuf is 19.**
+
+Journey to Mosul — the Jazira between the upper Tigris and Euphrates. Honey-coloured alabaster walls. The great bridge of boats. A different human landscape: Syriac speakers, Kurdish traders, ancient Christian communities. Yusuf hears languages he doesn't speak and begins to understand the empire's diversity as both strength and fault line.
+
+### Chapter 25: The Monk's Question
+
+**Year: Spring 789 CE. Yusuf is 19.**
+
+Mosul — the Nestorian merchant Isho, whose network extends into Byzantine Anatolia. "Your paper is excellent, but the Greeks trust my word, not your master's." Visit to the Monastery of Saint Matthew, carved into a mountainside. In the scriptorium, a monk asks: "Will your paper hold the word of God for five hundred years?" The question cuts to the heart of paper vs. permanence. Yusuf encounters Omar (brother) at the garrison — a brief, charged reunion. Omar's world of soldiers and fortifications is alien to Yusuf, but the brothers share a meal and Omar speaks plainly about the cost of imperial service.
+
+### Chapter 26: The Return and the Restlessness
+
+**Year: Summer 789 CE. Yusuf is 19.**
+
+Return from Mosul and a Baghdad interlude. The workshop is running smoothly — almost too smoothly. Abu Said notices Yusuf's restlessness and raises the Merv opportunity: a large paper order from the governor's court. Yusuf proposes the journey. Abu Said is hesitant — Khorasan is always restive — but agrees. The *suftaja* he gives Yusuf represents Abu Said's trust, and its limits. Ali learns of the Merv plan and is deeply moved. He gives Yusuf a list of family names.
+
+### Chapter 27: The Family's Kiln
+
+**Year: Autumn 789 CE. Yusuf is 19.**
+
+Arrival in Merv. An oasis sprawl, green against the desert. The Silk Road visible in every face. A distant cousin, an old potter, weeps at the family name. The house where Ali was born. The kiln grandfather Suleiman built. Yusuf places Ali's tile fragment on the kiln wall — then takes it back. Tenderness, a rare emotion. He understands what Ali sacrificed and why he clings to his craft.
+
+### Chapter 28: The Chess Player
+
+**Year: Autumn 789 CE. Yusuf is 19.**
+
+The paper sale at the governor's court. Bahram, the chief scribe, negotiates over chess in a rose-scented garden. Poetry, philosophy, the Persian literary tradition. Only after the game does Bahram discuss prices. Commerce as culture. The sale succeeds. Bahram mentions, almost casually, that a governor has been executed and his assets are being auctioned.
+
+### Chapter 29: The Sogdian's Ghost
+
+**Year: Autumn 789 CE. Yusuf is 19.**
+
+The moral crux of Book 1 and the series' foundational scene. The auction. Dastan — fifty, weathered hands, standing at the edge of the crowd. Thirty years of honest trade destroyed because his joint ventures with the executed governor were seized. Dastan stands perfectly still, comprehending the system destroying him.
+
+Yusuf watches Dastan as his goods are sold off lot by lot. The man does not beg. He does not protest. He stands perfectly still, with the expression of a man who understands exactly what is happening and cannot do a single thing to stop it. It is the stillness that haunts Yusuf — not desperation but comprehension. Dastan *understands* the system that is destroying him, and that understanding changes nothing.
+
+That night, Yusuf draws two conclusions: he must never be that vulnerable, and the silk in that warehouse is worth a fortune.
+
+### Chapter 30: The Silk Gamble
+
+**Year: Autumn 789 CE. Yusuf is 19.**
+
+Yusuf uses Abu Said's *suftaja* to buy the silk. A betrayal of trust — borrowed authority for personal gain. He thinks of Dastan, the fox-and-lion story, the Sogdian traders. He buys. Musa watches: "When did you decide?" "Before I walked in." "That's what frightens me." Yusuf arranges transport for two caravans — Abu Said's legitimate one and his secret silk caravan.
+
+He is nineteen years old, and he has just committed the act that will make him rich and cost him his master's respect — buying opportunity from the wreckage of another man's life, using trust he was not given permission to spend. The Sogdian's ghost will follow him for the rest of his life.
+
+### Chapter 31: The Long Road Home
+
+**Year: Winter 789–790 CE. Yusuf is 19–20.**
+
+The return as crucible. Two caravans. Guards hired on promises. Mountain passes, bribes, bandits. A guide falls ill; Yusuf navigates by stars. Musa: "When did you stop being afraid?" Yusuf: "I didn't stop. I just stopped letting it decide for me." Musa: "That's either the bravest thing I've ever heard or the most dangerous." Arrival in Baghdad. Staggered silk sales. Profit: ~4,000 gold dinars.
+
+### Chapter 32: The Reckoning
 
 **Year: 790 CE. Yusuf is 20.**
 
-**The Journey Back:** The return journey is Yusuf's crucible. He is now responsible for two caravans: Abu Said's legitimate one, laden with books and supplies, and his own secret one carrying a fortune in silk. He hires guards with money he doesn't have, promising payment on delivery. He navigates mountain passes, bribes toll collectors, and barely sleeps. When a guide falls ill, Yusuf must navigate by stars and memory. When bandits probe the caravan's defences, he organises a show of force that deters them — a skill he did not know he possessed.
-
-**Musa's Observation:** Musa, who has been watching his friend transform on this journey, says something that cuts to the bone: "When did you stop being afraid?" Yusuf answers: "I didn't stop. I just stopped letting it decide for me." Musa is quiet for a long time. Then: "That's either the bravest thing I've ever heard or the most dangerous."
-
-**The Arrival:** Yusuf arrives in Baghdad exhausted, thinner, and carrying a fortune. He sells the silk through careful, staggered transactions to avoid depressing the market. The profit is staggering — roughly 4,000 gold dinars, more than his father has earned in a lifetime.
-
-**The Reckoning with Abu Said:** Yusuf goes to his master and confesses what he did. He lays the full amount of Abu Said's original *suftaja* on the table, plus a generous share of the silk profits as compensation. Abu Said is silent for a very long time. Then he says: "You used my name and my credit to gamble on silk. If you had failed, you would have destroyed not just yourself but me." Yusuf opens his mouth to defend himself. Abu Said raises a hand. "I know. You succeeded. And that is almost worse, because now you believe you were right." He pauses. "You have the makings of a great man, Yusuf. But great men who believe they are always right are the most dangerous creatures alive. Your apprenticeship is over. You are a journeyman. Take your gold and leave my workshop. Build whatever you are going to build. But remember: I taught you to make paper that endures. You have just shown me that you are willing to burn everything for a single profit. Reconcile those two things, or you will destroy yourself."
+Yusuf confesses to Abu Said. Lays the *suftaja* amount plus a share of profits on the table. Abu Said's devastating speech: "I taught you to make paper that endures. You have just shown me that you are willing to burn everything for a single profit. Reconcile those two things, or you will destroy yourself." Apprenticeship ends. Yusuf must leave the workshop. Abu Said is not angry but grieved.
 
 It is the most important speech anyone will ever give Yusuf, and he will spend the rest of the series trying to obey it.
 
 ---
 
-## PART THREE: THE CHOICE (790—791 CE)
+## PART FOUR: THE CHOICE (790–791 CE) — Chapters 33–37
 
-### Chapter 12: The Inheritance
+*The family trust. The central argument. The founding of the House.*
+
+### Chapter 33: The Inheritance
 
 **Year: 790 CE. Yusuf is 20.**
 
-**The Family Secret:** A few weeks after his return, Ali summons Yusuf to his private study. Yusuf's father is old now — nearly seventy, though still vigorous in his workshop. He is accompanied by a family advisor. Ali reveals a secret: Yusuf's grandfather, Suleiman — the bureaucrat and administrator who rode with the Abbasid revolutionary army — did not spend his rewards from the revolution on land or luxury. He created a family trust, a "river of wealth," invested carefully in small commercial ventures across the caliphate. The trust's value has grown modestly under Ali's stewardship to roughly 6,000 gold dinars.
+Weeks later. Ali summons Yusuf. The family secret: grandfather Suleiman's trust, invested in small commercial ventures, grown to ~6,000 dinars. "The rule is simple: the guardian must leave the river fuller than he found it." Ali names Yusuf as next guardian. The implicit condition: conservative, responsible use. Ali envisions a paper shop. Yusuf sees something much bigger.
 
-"I have been its guardian," Ali says, "but I have been a cautious one. I am a craftsman, not a merchant. The rule is simple: the guardian must leave the river fuller than he found it." He places a ledger on the table. "I have named you as the next guardian."
+### Chapter 34: Paper Is Real
 
-**The Tension:** Ali's offer comes with an implicit condition — that Yusuf will use the trust responsibly, conservatively, in the family tradition. He envisions Yusuf opening a paper-trading business, perhaps with a small shop, building wealth slowly and safely over decades. This is the safe path, the honourable path, the path that Ali himself has walked.
+**Year: 790–791 CE. Yusuf is 20–21.**
 
-But Yusuf, who now has 4,000 dinars of his own from the silk gamble plus the 6,000-dinar trust, sees something much bigger. With 10,000 dinars, he has enough capital to found not a shop but an enterprise — a trading house that deals in paper, in credit, in the movement of wealth itself. He sees the system he glimpsed in Rayy, the Sogdian networks, the *suftaja* system, and he wants to build the Abbasid version of it.
+The central argument of the series. Yusuf reveals his ambition — not a shop but a trading house. Ali is alarmed. "Paper is real. You can touch it. What you describe is writing on air." Yusuf argues the world is changing. Ali: "I have built things that will stand for a hundred years." Neither man is wrong. An uneasy settlement: Yusuf takes the trust, combines it with silk profits, and will pursue his vision while honouring the rule.
 
-**The Conversation with Omar al-Dimashqi:** Yusuf offers his workshop friend a partnership. Omar is tempted but cautious. "You want to build something bigger than a paper shop," Omar says. "I can see it in your eyes. I want to make paper, Yusuf. Great paper. I don't want to be a financier." They negotiate a compromise: Omar will run the production side, making the finest paper in Baghdad, while Yusuf handles the commercial side. It is the first of many partnerships Yusuf will structure, and it is the only one built entirely on genuine affection.
-
-### Chapter 13: The Choice
+### Chapter 35: The Partnership
 
 **Year: 791 CE. Yusuf is 21.**
 
-**The Confrontation with Ali:** When Yusuf reveals the scope of his ambition to his father, Ali is alarmed. He does not understand finance — he understands craft. The idea of making money from moving money, rather than from making things, strikes him as fundamentally dishonest. "Paper is real," he says, running his hand over a sheet. "You can touch it, hold it, see the quality. What you are describing — these *suftajas*, these letters of credit — it is writing on air. It is a promise. And promises are broken every day in this city."
+Yusuf offers Omar al-Dimashqi a partnership. "I want to make paper, Yusuf. Great paper. I don't want to be a financier." The compromise: Omar runs production, Yusuf handles commerce. The only partnership built on pure affection. Yusuf seeks out Ishaq bar Yohannan, a Nestorian scribe — sardonic, brilliant, legally precise. The three pieces assemble.
 
-Yusuf argues that the world is changing — that the empire runs on paper instruments, that the future belongs to those who control the flow of capital rather than the production of goods. Ali shakes his head. "I have built things that will stand for a hundred years. The Khorasan Gate will be there when we are both dust. Can you say the same about a piece of paper with numbers on it?"
+### Chapter 36: The House of Paper
 
-It is the central argument of the series, articulated in its purest form. Neither man is wrong.
+**Year: 791 CE. Yusuf is 21.**
 
-**The Compromise:** They reach an uneasy settlement. Yusuf will take control of the family trust and combine it with his own capital. He will honour the rule — leave the river fuller than he found it — but he will pursue his vision, not his father's. Ali gives his blessing with a heavy heart. "You are my son," he says, "and I trust you. But I have seen what this city does to men who reach too high. Make sure your foundation is deep."
+The founding. Premises leased in Karkh. Named The House of Paper — not the House of Ali (the choice wounds his father). Omar sets up production. Ishaq organises legal structure. On the first evening, the three founders sit in the empty shop. "What are we building?" "Something that will outlast all of us." Musa visits, plays a tune.
 
-**The Founding:** Yusuf leases a modest premises in the Karkh commercial district and opens for business. He names it **The House of Paper** — a declaration that his enterprise will be built on the commodity that connects craft to commerce to power. Ali, who might have expected the House of Ali, says nothing, though the choice wounds him. The name is a statement: this is not an inherited workshop but something new.
+### Chapter 37: The Gate at Dawn
 
-Omar al-Dimashqi sets up the production wing. Yusuf hires Ishaq bar Yohannan, a brilliant young Nestorian scribe he met through the workshop's book-trade connections, to handle the legal and accounting work. The three of them — the merchant, the craftsman, and the scribe — sit in the empty shop on its first evening, surrounded by the smell of fresh paper and new possibilities.
+**Year: 791 CE. Yusuf is 21.**
 
-"What are we building?" Omar asks.
+Final chapter before Constantinople. Yusuf on his rooftop at dawn. The turquoise gleam of Ali's tiles on the Khorasan Gate, catching first light. The gate faces east — toward Merv, the Silk Road, everything beyond. The pouch of desert sand in his pocket, unopened since Layla died. Below, Omar is already making paper — thump, thump, thump. Ishaq arrives, ledger under his arm. The *adhan* sounds. Yusuf has built a gate of his own. Now he needs a road.
 
-Yusuf looks at the blank wall, imagining a map of the world. "Something that will outlast all of us."
+---
 
-**The Final Image:** The novel ends with Yusuf standing on the rooftop of his new shop at dawn. He can see, in the distance, the turquoise gleam of his father's tiles on the Khorasan Gate, catching the first light. The gate faces east — toward Merv, toward the Silk Road, toward everything that lies beyond. Yusuf faces the same direction. But where his father built a gate, Yusuf intends to build a road.
+## PART FIVE: THE BYZANTINE EDUCATION (793–794 CE) — Chapters 38–42
 
-In his pocket, he carries the pouch of desert sand his mother gave him. He has not opened it since she died.
+*Constantinople — Yusuf's most ambitious venture. The empire's rival. Near-ruin teaches him the three pillars: Capital, Information, Influence.*
+
+### Chapter 38: The Edge of the World
+
+**Year: 793 CE. Yusuf is 23.**
+
+Two years after founding. The House is running but not growing — Baghdad's paper market is competitive, controlled by older families. Yusuf needs an edge. He decides on Constantinople. Hires Yonan al-Nasrani, a cynical Nestorian guide who speaks Greek, Syriac, Arabic, and Persian. The journey northwest through the Jazira, across the militarised frontier, into Anatolia. Fortified border towns, the wary coexistence of Muslim and Christian communities.
+
+### Chapter 39: The City of Icons
+
+**Year: 793 CE. Yusuf is 23.**
+
+Constantinople — older, more monumental, more alien than anything Yusuf has known. The Hagia Sophia. Icons, incense, stone power. His paper sells brilliantly to Byzantine scribes. But Leo *asekretis*, a bureaucratic gatekeeper, sees Yusuf as a spy and levies arbitrary taxes, bleeding his capital. The Dastan pattern in miniature — a competent man being destroyed by a system. Except this time, Yusuf refuses to stand still.
+
+### Chapter 40: Brother Michael
+
+**Year: 793–794 CE. Yusuf is 23–24.**
+
+Two weeks of near-ruin. Yusuf lies awake in the Mitaton, feeling Dastan's cold stillness. Yonan guides him to Brother Michael at the Stoudios Monastery, whose work preserving classical knowledge needs better paper. Yusuf approaches as a fellow craftsman. Michael is moved: "This is the medium God intended for His word." Michael bypasses Leo through ecclesiastical connections. The crisis resolved — but Yusuf has learned that capital alone is not enough. He needs information and influence.
+
+### Chapter 41: The Banker of Chios
+
+**Year: 794 CE. Yusuf is 24.**
+
+Pivotal encounter with Demetrios of Chios, a Byzantine banker. Through intelligence about a pirate threat (gathered by Yonan), Yusuf turns a predatory loan into a fair partnership. He learns Byzantine banking mechanics — letters of credit, currency arbitrage, information asymmetry. The complete intellectual blueprint for what the House of Paper will become. He leaves Constantinople with profit, a permanent contact in Brother Michael, and the three pillars: Capital. Information. Influence.
+
+### Chapter 42: The Road That Has No End
+
+**Year: 794 CE. Yusuf is 24.**
+
+The return and the final image. Yusuf crosses back into the caliphate — the frontier in reverse. He carries Constantinople's lessons and a new understanding of the world's scale. Arriving in Baghdad, he stands again on the rooftop. The Khorasan Gate faces east, but now he has been west. The world is larger than his father imagined, and the road he is building has no end he can see. The House of Paper is no longer a shop. It is the beginning of an empire.
+
+In his pocket, the pouch of sand. Still unopened.
 
 **End of Book One.**
 

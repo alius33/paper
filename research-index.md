@@ -164,6 +164,21 @@
 | `research/plot/notes.md` | Miscellaneous plot development notes | Books 1-4 |
 | `research/plot/critical-analysis.md` | Critical analysis of series plot structure: book-by-book assessment, character arc analysis, thematic continuity, proposed Book 4 outline, priority recommendations | Books 1-4 |
 
+### Narrative Craft and Technique
+
+| File | Summary | Relevant To |
+|------|---------|-------------|
+| `research/craft/belgariad-companion-worldbuilding.md` | Travelling companion group as world-building engine; Eddings's cultural-ambassador technique; application to Yusuf's caravan companions | Book 1 journeys |
+| `research/craft/belgariad-journey-pacing.md` | Pacing of journey scenes: move/pause rhythm, camp-scene exposition, information density control, organic vs. forced triggers | Book 1 journeys |
+| `research/craft/belgariad-naive-pov-analysis.md` | Naive POV as world-building device; Garion's ignorance as reader's ignorance; adaptation for Yusuf's sharper perceptiveness | Book 1 |
+| `research/craft/belgariad-prologues-openings.md` | Prologue and opening techniques in the Belgariad | Book 1 |
+| `research/craft/belgariad-analysis-book1-part1.md` | Detailed craft analysis of Belgariad Book 1 (Part 1) | Book 1 |
+| `research/craft/belgariad-analysis-book1-part2.md` | Detailed craft analysis of Belgariad Book 1 (Part 2) | Book 1 |
+| `research/craft/belgariad-analysis-book2-part1.md` | Detailed craft analysis of Belgariad Book 2 (Part 1) | Book 1 |
+| `research/craft/belgariad-analysis-book2-part2.md` | Detailed craft analysis of Belgariad Book 2 (Part 2) | Book 1 |
+| `research/craft/belgariad-analysis-book3.md` | Detailed craft analysis of Belgariad Book 3 | Book 1 |
+| `research/craft/series-journey-worldbuilding-strategy.md` | Series-level journey world-building strategy: how the geographic arc (expansion, consolidation, contraction, renewal) maps onto evolving world-building techniques across all four books; companion-group evolution; the transition from student to shaper | Books 1-4 |
+
 ### Marketing and Project
 
 | File | Summary | Relevant To |
