@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 14 — The Crossroads of Rayy
 
 **When/Where:** Rayy (near modern Tehran), on the southern slopes of the Alborz Mountains. Late spring 788 CE. Yusuf is 18.

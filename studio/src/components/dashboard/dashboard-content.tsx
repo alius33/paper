@@ -236,7 +236,7 @@ export function DashboardContent({
                   View project bible
                 </a>
                 <a
-                  href="/viewer/series_plot.md"
+                  href="/viewer/series-overview.md"
                   className="block text-sm text-muted-foreground hover:text-foreground hover:bg-secondary rounded-md px-2 py-1.5 transition-colors"
                 >
                   View series plot

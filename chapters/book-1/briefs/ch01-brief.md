@@ -1,3 +1,5 @@
+**Status:** Drafted | Ledger entry exists
+
 ## BRIEF: Chapter 1 — The Journey to Kufa
 
 **When/Where:** Caravan camp outside Baghdad's Kufa Gate, then the imperial road south. Early spring 787 CE. Yusuf is 17.

@@ -173,4 +173,4 @@ The following topics need dedicated research before chapter drafting begins:
 
 ---
 
-*This plan should be read alongside `series_plot.md` (Chapters 19-32), the journey research files (`j4-desert-damascus-year6.md`, `j5-northern-artery-mosul-year7.md`, `j6-journey-home-merv-year7.md`), and the relevant digests (`burns--damascus.md`, `vaissiere--sogdian-traders.md`, `frye--golden-age-of-persia.md`, `hansen--silk-road.md`).*
+*This plan should be read alongside `series-overview.md` and `book-1-plot.md` (Chapters 19-32), the journey research files (`j4-desert-damascus-year6.md`, `j5-northern-artery-mosul-year7.md`, `j6-journey-home-merv-year7.md`), and the relevant digests (`burns--damascus.md`, `vaissiere--sogdian-traders.md`, `frye--golden-age-of-persia.md`, `hansen--silk-road.md`).*

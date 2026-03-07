@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 7 — The Tilemaker's Son
 
 **When/Where:** Ali ibn Suleiman's tile workshop and home, near the Khorasan Gate, Baghdad. Late autumn/early winter 787 CE. Yusuf is 17.

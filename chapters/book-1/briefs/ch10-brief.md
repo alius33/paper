@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 10 — The Proposition
 
 **When/Where:** Baghdad. Abu Said's workshop, the Karkh district, and the caravansaries outside the Khorasan Gate. Spring 788 CE. Yusuf is 18.

@@ -1,6 +1,6 @@
 # MASTER PLAN: Journey-Based World-Building for The House of Paper
 
-**Synthesised from:** 23 Belgariad analysis documents, cross-referenced with CLAUDE.md, series_plot.md, and sensory palette guides
+**Synthesised from:** 23 Belgariad analysis documents, cross-referenced with CLAUDE.md, series-overview.md, book-1-plot.md, and sensory palette guides
 **Purpose:** A single practical writing guide for journey chapters across all four books
 **Companion document:** `journey-worldbuilding-techniques-catalog.md` (the 24-technique reference -- consult it for detailed how-to; this document tells you *when, where, and why*)
 

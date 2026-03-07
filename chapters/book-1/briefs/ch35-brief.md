@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 35 — The Partnership
 
 **When/Where:** Baghdad — Abu Said's old workshop (for Omar al-Dimashqi), then various locations in the city as Yusuf recruits Ishaq. Spring-summer 791 CE. Yusuf is 21.

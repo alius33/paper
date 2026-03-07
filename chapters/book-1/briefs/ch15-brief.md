@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 15 — The Musician's Garden
 
 **When/Where:** Rayy. A caravansary garden. Late spring 788 CE. Yusuf is 18.

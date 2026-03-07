@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 28 — The Chess Player
 
 **When/Where:** The governor's court at Merv, a rose-scented garden. Autumn 789 CE. Yusuf is 19.

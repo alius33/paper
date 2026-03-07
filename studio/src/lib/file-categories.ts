@@ -14,7 +14,7 @@ export function categorizeFile(filePath: string): FileCategory {
     return 'project-guide';
   }
 
-  if (normalized === 'series_plot.md' || normalized.startsWith('research/plot/')) {
+  if (normalized === 'series-overview.md' || normalized.startsWith('research/plot/')) {
     return 'plot';
   }
 

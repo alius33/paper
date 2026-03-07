@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 6 — The Apprentice's Ledger
 
 **When/Where:** Abu Said's workshop, al-Karkh district, Baghdad. Late autumn 787 CE. Yusuf is 17.

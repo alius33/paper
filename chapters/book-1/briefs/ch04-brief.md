@@ -1,3 +1,5 @@
+**Status:** Drafted | Ledger entry exists
+
 ## BRIEF: Chapter 4 — The Poisoned Vat
 
 **When/Where:** Abu Said's paper workshop, Baghdad. Late spring/early summer 787 CE, spanning several weeks. Yusuf is 17.

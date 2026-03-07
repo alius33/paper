@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 17 — The Master's Question
 
 **When/Where:** Baghdad. Abu Said's workshop. Summer 788 CE. Yusuf is 18.

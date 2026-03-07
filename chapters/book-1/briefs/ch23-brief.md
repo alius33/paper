@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 23 — A Cup of Date Wine
 
 **When/Where:** Damascus, an evening gathering. Early 789 CE, the final night before departure. Yusuf is 19.

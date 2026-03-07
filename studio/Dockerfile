@@ -24,7 +24,11 @@ RUN chmod +x start.sh
 COPY chapters/ /repo/chapters/
 COPY research/ /repo/research/
 COPY CLAUDE.md /repo/CLAUDE.md
-COPY series_plot.md /repo/series_plot.md
+COPY series-overview.md /repo/series-overview.md
+COPY book-1-plot.md /repo/book-1-plot.md
+COPY book-2-plot.md /repo/book-2-plot.md
+COPY book-3-plot.md /repo/book-3-plot.md
+COPY book-4-plot.md /repo/book-4-plot.md
 COPY research-index.md /repo/research-index.md
 
 # Initialize a git repo so simple-git operations don't crash

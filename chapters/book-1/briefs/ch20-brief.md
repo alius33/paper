@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 20 — The Singing Sands
 
 **When/Where:** The Syrian steppe, deep desert between Baghdad and Damascus. Late 788 CE, late autumn. Yusuf is 18.

@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 11 — The Land of Canals
 
 **When/Where:** The Great Khorasan Road east of Baghdad. Mesopotamian plain, irrigated farmland. Night travel to avoid heat. Spring 788 CE. Yusuf is 18.

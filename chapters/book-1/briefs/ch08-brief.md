@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 8 — The Paper and the Knife
 
 **When/Where:** Government scribal offices (east bank of the Tigris) and Abu Said's workshop, Baghdad. Early 788 CE. Yusuf is 17, turning 18.

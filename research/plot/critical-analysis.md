@@ -1,6 +1,6 @@
 # Critical Analysis: The House of Paper Series Plot Structure
 
-*Prepared March 2026. Based on: `series_plot.md`, `happy-ending.md`, `sad-ending.md`, `book-1-plot.md`, all drafted chapters (Ch 1-5), character studies, and the full research corpus.*
+*Prepared March 2026. Based on: `series-overview.md`, `book-1-plot.md`, `book-2-plot.md`, `book-3-plot.md`, `book-4-plot.md`, `happy-ending.md`, `sad-ending.md`, all drafted chapters (Ch 1-5), character studies, and the full research corpus.*
 
 ---
 
@@ -44,7 +44,7 @@ The **six sequential journeys** (Wasit, Kufa, Zagros/Rayy, Damascus, Mosul, Merv
 
 3. **Interleave journey chapters with Baghdad scenes.** Rather than six consecutive departures-and-returns, alternate: journey, then a chapter back at the workshop showing how Yusuf has changed. This prevents the road from feeling disconnected from the workshop world.
 
-**[NOTE: This analysis predates the Book 1 restructure. The childhood and apprenticeship sections have been removed as narrative chapters. Book 1 now opens in media res with the Kufa journey (age 17). Childhood, apprenticeship, and the Wasit journey are backstory revealed organically. The indigo merchant incident has been replaced by the Sogdian merchant Dastan in Merv — see series_plot.md Ch 10.]**
+**[NOTE: This analysis predates the Book 1 restructure. The childhood and apprenticeship sections have been removed as narrative chapters. Book 1 now opens in media res with the Kufa journey (age 17). Childhood, apprenticeship, and the Wasit journey are backstory revealed organically. The indigo merchant incident has been replaced by the Sogdian merchant Dastan in Merv — see book-1-plot.md Ch 10.]**
 
 ### Book 2: The House of Silver (791-803)
 
@@ -70,7 +70,7 @@ The **six sequential journeys** (Wasit, Kufa, Zagros/Rayy, Damascus, Mosul, Merv
 
 ### Book 4: The House of Wisdom (809-814) — Gap Analysis
 
-Book 4 is the series' most critical gap. The `series_plot.md` covers it in approximately half a page, ending with Khalid's unanswered question and Yusuf opening the sand pouch. Two alternative documents exist — `happy-ending.md` (where Khalid brilliantly solves every crisis and inherits a thriving empire) and `sad-ending.md` (where the House collapses like the Medici Bank) — but neither has been integrated into the series bible, and both have significant problems.
+Book 4 is the series' most critical gap. The `book-4-plot.md` covers it in approximately half a page, ending with Khalid's unanswered question and Yusuf opening the sand pouch. Two alternative documents exist — `happy-ending.md` (where Khalid brilliantly solves every crisis and inherits a thriving empire) and `sad-ending.md` (where the House collapses like the Medici Bank) — but neither has been integrated into the series bible, and both have significant problems.
 
 The `happy-ending.md` makes Book 4 too easy. Khalid travels to Merv, restructures the Turkic debt into military service, earns al-Ma'mun's gratitude, and finances the winning side of the civil war. Every move succeeds. This is the "too competent" problem transferred to the next generation — and it robs the ending of the sacrifice that CLAUDE.md promises ("a happy ending earned through sacrifice, not a fairy tale").
 
@@ -169,7 +169,7 @@ The House of Paper endures. It is smaller. It is humbler. It is built on somethi
 
 ### Critical (address before continuing to write)
 
-1. **Develop the Book 4 outline** to chapter level. The proposed structure above (or a revised version) should be integrated into `series_plot.md` before Book 1 is completed, because the ending determines what must be seeded in earlier books.
+1. **Develop the Book 4 outline** to chapter level. The proposed structure above (or a revised version) should be integrated into `book-4-plot.md` before Book 1 is completed, because the ending determines what must be seeded in earlier books.
 
 2. **Increase Musa's presence in Books 2-3.** He needs at least 2-3 scenes in Book 2 (including one near the Barmakid Gamble) and 2 scenes in Book 3. His presence should be felt as contrast, not commentary.
 
@@ -199,7 +199,7 @@ The House of Paper endures. It is smaller. It is humbler. It is built on somethi
 
 13. **Connect the House of Wisdom patronage** (Book 3, Ch 4) to both commercial opportunity and political danger rather than leaving it as a thematic aside.
 
-14. **Reconcile competing plot documents.** The project contains multiple overlapping outlines that have not been consolidated: `series_plot.md` (canonical, Books 1-3), `happy-ending.md` (full arc, happy ending, uses "Idris" naming), `sad-ending.md` (full arc, tragic ending), `plot-part-3-house-of-gold.md` and `plot-part-3-revised-expanded.md` (alternative Book 3 treatments). Once the Book 4 outline is agreed, all of these should be reconciled into `series_plot.md` as the single canonical source, with the alternatives archived or deleted.
+14. **Reconcile competing plot documents.** The project contains multiple overlapping outlines that have not been consolidated: `series-overview.md` and `book-1-plot.md` through `book-4-plot.md` (canonical), `happy-ending.md` (full arc, happy ending, uses "Idris" naming), `sad-ending.md` (full arc, tragic ending), `plot-part-3-house-of-gold.md` and `plot-part-3-revised-expanded.md` (alternative Book 3 treatments). Once the Book 4 outline is agreed, all of these should be reconciled into the canonical plot files as the single source, with the alternatives archived or deleted.
 
 ---
 

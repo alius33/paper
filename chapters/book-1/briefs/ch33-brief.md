@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 33 — The Inheritance
 
 **When/Where:** Ali's home near the Khorasan Gate, Baghdad. Late spring or early summer 790 CE. Yusuf is 20.

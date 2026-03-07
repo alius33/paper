@@ -14,50 +14,51 @@
 - Journey: `research/journeys/j2-journey-to-kufa.md`, `research/journeys/j2-road-of-contention-kufa-year5.md`
 - Craft: `research/craft/kufa-journey-worldbuilding-map.md`, `research/craft/journey-to-kufa-research.md`
 - Pacing: `research/craft/belgariad-journey-pacing.md`
-- Digest: `research/digests/bulliet--camel-and-wheel.md`, `research/digests/silverstein--postal-systems.md`
+- Digest: `research/digests/bulliet--camel-and-wheel.md`, `research/digests/silverstein--postal-systems.md`, `research/digests/dunn--adventures-ibn-battuta.md`
 
 ### Ch 2 — The Caliph's Road
 - Brief: `chapters/book-1/briefs/ch02-brief.md`
 - Journey: `research/journeys/j2-journey-to-kufa.md`, `research/journeys/j2-road-of-contention-kufa-year5.md`
 - Craft: `research/craft/kufa-journey-worldbuilding-map.md`, `research/craft/journey-to-kufa-research.md`
-- Digest: `research/digests/bulliet--camel-and-wheel.md`, `research/digests/silverstein--postal-systems.md`
+- Digest: `research/digests/bulliet--camel-and-wheel.md`, `research/digests/silverstein--postal-systems.md`, `research/digests/dunn--adventures-ibn-battuta.md`
 
 ### Ch 3 — The Wounded Heart
 - Brief: `chapters/book-1/briefs/ch03-brief.md`
 - Journey: `research/journeys/j2-journey-to-kufa.md`
 - Craft: `research/craft/kufa-journey-worldbuilding-map.md`, `research/craft/journey-to-kufa-research.md`
 - World: `research/world-building/political-world-of-yusufs-youth.md`
-- Digest: `research/digests/halm--shia-islam.md`
+- Digest: `research/digests/halm--shia-islam.md`, `research/digests/kennedy--prophet-age-caliphates.md`
 
 ### Ch 4 — The Poisoned Vat
 - Brief: `chapters/book-1/briefs/ch04-brief.md`
 - World: `research/world-building/paper-mill-apprenticeship.md`, `research/world-building/baghdads-paper-trade.md`
 - Character: `research/characters/abu-said-master-of-karkh.md`
-- Digest: `research/digests/bloom--paper-before-print.md`, `research/digests/hunter--papermaking.md`
+- Digest: `research/digests/bloom--paper-before-print.md`, `research/digests/hunter--papermaking.md`, `research/digests/blair--islamic-calligraphy.md`, `research/digests/gacek--arabic-manuscripts.md`, `research/digests/lucas--wind-water-work.md`
 
 ### Ch 5 — The Suq al-Warraqin
 - Brief: `chapters/book-1/briefs/ch05-brief.md`
 - World: `research/world-building/baghdads-paper-trade.md`, `research/world-building/a-tour-of-baghdad.md`
 - Character: `research/characters/abu-said-master-of-karkh.md`
-- Digest: `research/digests/pedersen--the-arabic-book.md`, `research/digests/bloom--paper-before-print.md`
+- Digest: `research/digests/pedersen--the-arabic-book.md`, `research/digests/bloom--paper-before-print.md`, `research/digests/blair--islamic-calligraphy.md`, `research/digests/gacek--arabic-manuscripts.md`, `research/digests/le-strange--baghdad-abbasid-caliphate.md`
 
 ### Ch 6 — The Apprentice's Ledger
 - Brief: `chapters/book-1/briefs/ch06-brief.md`
 - World: `research/world-building/paper-mill-apprenticeship.md`, `research/world-building/baghdads-paper-trade.md`
 - Character: `research/characters/abu-said-master-of-karkh.md`
 - Craft: `research/craft/kufa-journey-worldbuilding-map.md`
-- Digest: `research/digests/bloom--paper-before-print.md`, `research/digests/silverstein--postal-systems.md`
+- Digest: `research/digests/bloom--paper-before-print.md`, `research/digests/silverstein--postal-systems.md`, `research/digests/blair--islamic-calligraphy.md`, `research/digests/gacek--arabic-manuscripts.md`, `research/digests/lucas--wind-water-work.md`
 
 ### Ch 7 — The Tilemaker's Son
 - Brief: `chapters/book-1/briefs/ch07-brief.md`
 - Character: `research/characters/ali-workshop.md`, `research/characters/ali-decided-on-paper.md`, `research/characters/backstory-of-yusuf.md`, `research/characters/omar-life-and-career.md`
 - World: `research/world-building/round-city-neighborhood.md`, `research/world-building/a-tour-of-baghdad.md`
+- Digest: `research/digests/kennedy--prophet-age-caliphates.md`, `research/digests/le-strange--baghdad-abbasid-caliphate.md`
 
 ### Ch 8 — The Paper and the Knife
 - Brief: `chapters/book-1/briefs/ch08-brief.md`
 - World: `research/world-building/baghdads-paper-trade.md`, `research/world-building/society-in-yusufs-baghdad.md`
 - Character: `research/characters/abu-said-master-of-karkh.md`
-- Digest: `research/digests/silverstein--postal-systems.md`, `research/digests/kennedy--early-abbasid-caliphate.md`
+- Digest: `research/digests/silverstein--postal-systems.md`, `research/digests/kennedy--early-abbasid-caliphate.md`, `research/digests/kennedy--prophet-age-caliphates.md`, `research/digests/le-strange--baghdad-abbasid-caliphate.md`
 
 ---
 
@@ -66,24 +67,24 @@
 ### Ch 9 — The Oud Player's Return
 - Brief: `chapters/book-1/briefs/ch09-brief.md`
 - World: `research/world-building/a-tour-of-baghdad.md`, `research/world-building/round-city-neighborhood.md`, `research/world-building/society-in-yusufs-baghdad.md`
-- Digest: `research/digests/rodinson--medieval-arab-cookery.md`, `research/digests/frye--golden-age-of-persia.md`
+- Digest: `research/digests/rodinson--medieval-arab-cookery.md`, `research/digests/frye--golden-age-of-persia.md`, `research/digests/le-strange--baghdad-abbasid-caliphate.md`
 
 ### Ch 10 — The Proposition
 - Brief: `chapters/book-1/briefs/ch10-brief.md`
 - Journey: `research/journeys/j3-paper-road-to-rayy.md`, `research/journeys/j3-baghdad-zagros-research.md`
 - World: `research/world-building/baghdads-paper-trade.md`
-- Digest: `research/digests/bulliet--camel-and-wheel.md`, `research/digests/hunter--papermaking.md`
+- Digest: `research/digests/bulliet--camel-and-wheel.md`, `research/digests/hunter--papermaking.md`, `research/digests/dunn--adventures-ibn-battuta.md`
 
 ### Ch 11 — The Land of Canals
 - Brief: `chapters/book-1/briefs/ch11-brief.md`
 - Journey: `research/journeys/j3-paper-road-to-rayy.md`, `research/journeys/j3-baghdad-zagros-research.md`
 - World: `research/world-building/baghdad-land-grant.md`
-- Digest: `research/digests/silverstein--postal-systems.md`, `research/digests/bulliet--camel-and-wheel.md`
+- Digest: `research/digests/silverstein--postal-systems.md`, `research/digests/bulliet--camel-and-wheel.md`, `research/digests/dunn--adventures-ibn-battuta.md`
 
 ### Ch 12 — The World Turns Upward
 - Brief: `chapters/book-1/briefs/ch12-brief.md`
 - Journey: `research/journeys/j3-paper-road-to-rayy.md`, `research/journeys/j3-mountain-passage-zagros-year6.md`, `research/journeys/j3-baghdad-zagros-research.md`
-- Digest: `research/digests/bulliet--camel-and-wheel.md`, `research/digests/hillenbrand--islamic-architecture.md`
+- Digest: `research/digests/bulliet--camel-and-wheel.md`, `research/digests/hillenbrand--islamic-architecture.md`, `research/digests/dunn--adventures-ibn-battuta.md`
 
 ### Ch 13 — The Chieftain's Tent
 - Brief: `chapters/book-1/briefs/ch13-brief.md`
@@ -126,39 +127,44 @@
 
 ### Ch 19 — The Western Road
 - Brief: `chapters/book-1/briefs/ch19-brief.md`
+- Journey: `research/journeys/j4-desert-damascus-year6.md`
 - Craft: `research/craft/long-journeys-worldbuilding-plan.md`
 - Plot: `research/plot/chapter-outline-road-of-ghosts.md`
-- Digest: `research/digests/burns--damascus.md`, `research/digests/bulliet--camel-and-wheel.md`, `research/digests/silverstein--postal-systems.md`
+- Digest: `research/digests/burns--damascus.md`, `research/digests/bulliet--camel-and-wheel.md`, `research/digests/silverstein--postal-systems.md`, `research/digests/dunn--adventures-ibn-battuta.md`
 
 ### Ch 20 — The Singing Sands
 - Brief: `chapters/book-1/briefs/ch20-brief.md`
+- Journey: `research/journeys/j4-desert-damascus-year6.md`
 - Plot: `research/plot/chapter-outline-road-of-ghosts.md`
 - Craft: `research/craft/long-journeys-worldbuilding-plan.md`
-- Digest: `research/digests/bulliet--camel-and-wheel.md`, `research/digests/vaissiere--sogdian-traders.md`
+- Digest: `research/digests/bulliet--camel-and-wheel.md`, `research/digests/vaissiere--sogdian-traders.md`, `research/digests/dunn--adventures-ibn-battuta.md`
 
 ### Ch 21 — The City of Jasmine
 - Brief: `chapters/book-1/briefs/ch21-brief.md`
+- Journey: `research/journeys/j4-desert-damascus-year6.md`
 - Craft: `research/craft/long-journeys-worldbuilding-plan.md`
 - World: `research/world-building/abbasid-revolution.md`
-- Digest: `research/digests/burns--damascus.md`, `research/digests/hillenbrand--islamic-architecture.md`, `research/digests/kennedy--early-abbasid-caliphate.md`
+- Digest: `research/digests/burns--damascus.md`, `research/digests/hillenbrand--islamic-architecture.md`, `research/digests/kennedy--early-abbasid-caliphate.md`, `research/digests/kennedy--prophet-age-caliphates.md`
 
 ### Ch 22 — The Scribe of Damascus
 - Brief: `chapters/book-1/briefs/ch22-brief.md`
+- Journey: `research/journeys/j4-desert-damascus-year6.md`
 - Craft: `research/craft/long-journeys-worldbuilding-plan.md`
 - World: `research/world-building/baghdads-paper-trade.md`
-- Digest: `research/digests/burns--damascus.md`, `research/digests/bloom--paper-before-print.md`
+- Digest: `research/digests/burns--damascus.md`, `research/digests/bloom--paper-before-print.md`, `research/digests/blair--islamic-calligraphy.md`, `research/digests/gacek--arabic-manuscripts.md`
 
 ### Ch 23 — A Cup of Date Wine
 - Brief: `chapters/book-1/briefs/ch23-brief.md`
+- Journey: `research/journeys/j4-desert-damascus-year6.md`
 - Craft: `research/craft/long-journeys-worldbuilding-plan.md`
 - World: `research/world-building/abbasid-revolution.md`, `research/world-building/political-world-of-yusufs-youth.md`
-- Digest: `research/digests/burns--damascus.md`
+- Digest: `research/digests/burns--damascus.md`, `research/digests/kennedy--prophet-age-caliphates.md`
 
 ### Ch 24 — The Northern Artery
 - Brief: `chapters/book-1/briefs/ch24-brief.md`
 - Journey: `research/journeys/j5-northern-artery-mosul-year7.md`
 - Craft: `research/craft/long-journeys-worldbuilding-plan.md`
-- Digest: `research/digests/kennedy--armies-of-caliphs.md`, `research/digests/kennedy--early-abbasid-caliphate.md`
+- Digest: `research/digests/kennedy--armies-of-caliphs.md`, `research/digests/kennedy--early-abbasid-caliphate.md`, `research/digests/dunn--adventures-ibn-battuta.md`
 
 ### Ch 25 — The Monk's Question
 - Brief: `chapters/book-1/briefs/ch25-brief.md`
@@ -171,13 +177,13 @@
 - Brief: `chapters/book-1/briefs/ch26-brief.md`
 - Craft: `research/craft/long-journeys-worldbuilding-plan.md`
 - World: `research/world-building/baghdads-paper-trade.md`, `research/world-building/paper-mill-apprenticeship.md`
-- Digest: `research/digests/frye--golden-age-of-persia.md`
+- Digest: `research/digests/frye--golden-age-of-persia.md`, `research/digests/lucas--wind-water-work.md`
 
 ### Ch 27 — The Family's Kiln
 - Brief: `chapters/book-1/briefs/ch27-brief.md`
 - Journey: `research/journeys/j6-journey-home-merv-year7.md`
 - Craft: `research/craft/long-journeys-worldbuilding-plan.md`
-- Digest: `research/digests/vaissiere--sogdian-traders.md`, `research/digests/frye--golden-age-of-persia.md`, `research/digests/hansen--silk-road.md`
+- Digest: `research/digests/vaissiere--sogdian-traders.md`, `research/digests/frye--golden-age-of-persia.md`, `research/digests/hansen--silk-road.md`, `research/digests/dunn--adventures-ibn-battuta.md`
 
 ### Ch 28 — The Chess Player
 - Brief: `chapters/book-1/briefs/ch28-brief.md`
@@ -189,7 +195,7 @@
 - Brief: `chapters/book-1/briefs/ch29-brief.md`
 - Craft: `research/craft/long-journeys-worldbuilding-plan.md`
 - World: `research/world-building/political-world-of-yusufs-youth.md`
-- Digest: `research/digests/vaissiere--sogdian-traders.md`, `research/digests/frye--golden-age-of-persia.md`
+- Digest: `research/digests/vaissiere--sogdian-traders.md`, `research/digests/frye--golden-age-of-persia.md`, `research/digests/kennedy--prophet-age-caliphates.md`
 
 ### Ch 30 — The Silk Gamble
 - Brief: `chapters/book-1/briefs/ch30-brief.md`
@@ -205,7 +211,7 @@
 - Brief: `chapters/book-1/briefs/ch32-brief.md`
 - Craft: `research/craft/long-journeys-worldbuilding-plan.md`
 - World: `research/world-building/paper-mill-apprenticeship.md`
-- Digest: `research/digests/vaissiere--sogdian-traders.md`
+- Digest: `research/digests/vaissiere--sogdian-traders.md`, `research/digests/lucas--wind-water-work.md`
 
 ---
 
@@ -216,6 +222,7 @@
 - Finance: `research/finance/partnership-finance-empire.md`
 - Character: `research/characters/ali-workshop.md`, `research/characters/ancestry-of-yusuf.md`, `research/characters/family-tree-of-yusuf.md`, `research/characters/lives-of-yusufs-ancestors.md`
 - World: `research/world-building/a-tour-of-baghdad.md`
+- Digest: `research/digests/premodern-financial-systems.md`, `research/digests/le-strange--baghdad-abbasid-caliphate.md`
 
 ### Ch 34 — Paper Is Real
 - Brief: `chapters/book-1/briefs/ch34-brief.md`
@@ -223,24 +230,26 @@
 - Character: `research/characters/ali-workshop.md`, `research/characters/ali-decided-on-paper.md`
 - World: `research/world-building/baghdads-paper-trade.md`
 - Plot: `research/plot/plot-promises.md`
+- Digest: `research/digests/premodern-financial-systems.md`, `research/digests/blair--islamic-calligraphy.md`, `research/digests/gacek--arabic-manuscripts.md`
 
 ### Ch 35 — The Partnership
 - Brief: `chapters/book-1/briefs/ch35-brief.md`
 - Finance: `research/finance/partnership-finance-empire.md`
 - Character: `research/characters/abu-said-master-of-karkh.md`
 - World: `research/world-building/the-people-of-yusufs-baghdad.md`, `research/world-building/baghdads-paper-trade.md`
-- Digest: `research/digests/morony--jews-in-iraq.md`
+- Digest: `research/digests/morony--jews-in-iraq.md`, `research/digests/premodern-financial-systems.md`
 
 ### Ch 36 — The House of Paper
 - Brief: `chapters/book-1/briefs/ch36-brief.md`
 - Finance: `research/finance/partnership-finance-empire.md`
 - World: `research/world-building/baghdads-paper-trade.md`, `research/world-building/a-tour-of-baghdad.md`
-- Digest: `research/digests/pedersen--the-arabic-book.md`, `research/digests/hunter--papermaking.md`
+- Digest: `research/digests/pedersen--the-arabic-book.md`, `research/digests/hunter--papermaking.md`, `research/digests/premodern-financial-systems.md`, `research/digests/blair--islamic-calligraphy.md`, `research/digests/gacek--arabic-manuscripts.md`, `research/digests/le-strange--baghdad-abbasid-caliphate.md`
 
 ### Ch 37 — The Gate at Dawn
 - Brief: `chapters/book-1/briefs/ch37-brief.md`
 - Character: `research/characters/ali-workshop.md`
 - World: `research/world-building/a-tour-of-baghdad.md`, `research/world-building/round-city-neighborhood.md`, `research/world-building/baghdads-paper-trade.md`
+- Digest: `research/digests/le-strange--baghdad-abbasid-caliphate.md`
 
 ---
 
@@ -271,7 +280,7 @@
 - Craft: `research/craft/constantinople-worldbuilding-plan.md`
 - Finance: `research/finance/constantinople-gambit.md`, `research/finance/partnership-finance-empire.md`
 - Journey: `research/journeys/abbasid-caravan-constantinople.md`
-- Digest: `research/digests/goitein--mediterranean-society.md`
+- Digest: `research/digests/goitein--mediterranean-society.md`, `research/digests/premodern-financial-systems.md`
 
 ### Ch 42 — The Road That Has No End
 - Brief: `chapters/book-1/briefs/ch42-brief.md`
@@ -285,13 +294,18 @@
 
 Files relevant to every chapter regardless of location or plot beat.
 
-- Plot: `series_plot.md`
+- Plot: `series-overview.md`, `book-1-plot.md`
+- Plot: `research/plot/book-1-plot.md`
+- Plot: `research/plot/critical-analysis.md`
+- Plot: `research/plot/plot-promises.md`
 - Project: `CLAUDE.md`
 - Craft: `research/craft/MASTER-PLAN-journey-worldbuilding.md`
 - Craft: `research/craft/journey-worldbuilding-techniques-catalog.md`
+- Craft: `research/craft/series-journey-worldbuilding-strategy.md`
+- Craft: `research/craft/walk-research.md`
+- Journey: `research/journeys/journey-timeline.md`
 - World: `research/world-building/a-tour-of-baghdad.md`
 - World: `research/world-building/paper-mill-apprenticeship.md`
 - Digest: `research/digests/bulliet--camel-and-wheel.md`
+- Digest: `research/digests/le-strange--baghdad-abbasid-caliphate.md`
 - Character: `research/characters/backstory-of-yusuf.md`
-- Plot: `research/plot/critical-analysis.md`
-- Plot: `research/plot/plot-promises.md`

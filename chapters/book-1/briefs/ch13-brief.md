@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 13 — The Chieftain's Tent
 
 **When/Where:** Deep in the Zagros passes. Kurdish territory. Spring 788 CE. Yusuf is 18.

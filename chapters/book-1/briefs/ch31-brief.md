@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 31 — The Long Road Home
 
 **When/Where:** The return journey from Merv to Baghdad, across the Iranian plateau. Winter 789-790 CE. Yusuf is 19-20.

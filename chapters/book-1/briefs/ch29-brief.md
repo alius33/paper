@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 29 — The Sogdian's Ghost
 
 **When/Where:** The auction yard at Merv. Autumn 789 CE. Yusuf is 19.
@@ -34,7 +36,7 @@
 ### Deep Research
 - `research/digests/vaissiere--sogdian-traders.md` — Sogdian merchant class (pp. 160-164), Sogdian appearance and dress, the fate of Sogdians under Islamic rule, Sogdian financiers at Merv (pp. 273-276)
 - `research/craft/long-journeys-worldbuilding-plan.md` — Section C.3 (the foundational moral encounter: Dastan)
-- `series_plot.md` — Chapter 29 entry and the series-level recurring image description
+- `book-1-plot.md` — Chapter 29 entry and the series-level recurring image description
 - `research/world-building/political-world-of-yusufs-youth.md` — state seizure of assets, the arbitrary power of governors
 - `research/craft/MASTER-PLAN-journey-worldbuilding.md` — the "Great Fair" set piece (Merv auction as convergence point)
 - `research/digests/frye--golden-age-of-persia.md` — Merv under Abbasid administration, provincial governance

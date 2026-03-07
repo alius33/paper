@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 40 — Brother Michael
 
 **When/Where:** Constantinople — the Mitaton, then the Stoudios Monastery. Winter 793-794 CE. Yusuf is 23-24.

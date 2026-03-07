@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 39 — The City of Icons
 
 **When/Where:** Constantinople — arrival through the Theodosian Walls, the Mese, the Mitaton, and the Hagia Sophia. Summer-autumn 793 CE. Yusuf is 23.

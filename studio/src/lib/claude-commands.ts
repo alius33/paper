@@ -23,9 +23,9 @@ export function getCommandTemplates(): CommandTemplate[] {
       template:
         'Read the file at {{filePath}} and continue writing the next scene. ' +
         'Match the established voice, maintain continuity with the previous scene, ' +
-        'and follow the plot outline in series_plot.md. {{instruction}}',
+        'and follow the plot outline in series-overview.md. {{instruction}}',
       variables: ['filePath', 'instruction'],
-      defaultContextFiles: ['CLAUDE.md', 'series_plot.md'],
+      defaultContextFiles: ['CLAUDE.md', 'series-overview.md'],
     },
     {
       id: 'research',
@@ -44,11 +44,11 @@ export function getCommandTemplates(): CommandTemplate[] {
       description: 'Check continuity across all chapters',
       template:
         'Read all existing chapters in chapters/book-1/ and perform a continuity check. ' +
-        'Cross-reference against the timeline in CLAUDE.md section 7 and the plot outline in series_plot.md. ' +
+        'Cross-reference against the timeline in CLAUDE.md section 7 and the plot outline in series-overview.md. ' +
         'Report issues by severity: Critical (timeline contradictions, character knowledge errors), ' +
         'Moderate (description inconsistencies, tone shifts), Minor (terminology, spelling). {{instruction}}',
       variables: ['instruction'],
-      defaultContextFiles: ['CLAUDE.md', 'series_plot.md'],
+      defaultContextFiles: ['CLAUDE.md', 'series-overview.md'],
     },
     {
       id: 'edit-scene',

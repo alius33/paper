@@ -1,3 +1,5 @@
+**Status:** Drafted | Ledger entry exists
+
 ## BRIEF: Chapter 3 — The Wounded Heart
 
 **When/Where:** Kufa, the old capital. Three days in the city. Spring 787 CE. Yusuf is 17.

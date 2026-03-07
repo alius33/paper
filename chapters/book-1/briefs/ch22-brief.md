@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 22 — The Scribe of Damascus
 
 **When/Where:** Damascus, the commercial quarters and scholarly neighbourhoods. Early 789 CE. Yusuf is 19.

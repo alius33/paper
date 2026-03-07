@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 25 — The Monk's Question
 
 **When/Where:** Mosul and the Monastery of Saint Matthew (carved into a mountainside northeast of Mosul). Spring 789 CE. Yusuf is 19.

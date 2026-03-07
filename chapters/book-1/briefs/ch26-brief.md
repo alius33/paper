@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 26 — The Return and the Restlessness
 
 **When/Where:** Baghdad, summer 789 CE. Yusuf is 19.

@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 32 — The Reckoning
 
 **When/Where:** Baghdad, Abu Said's workshop. 790 CE. Yusuf is 20.
@@ -29,7 +31,7 @@
 - Abu Said's voice: spare, authoritative, grieved. No raised voice. No accusation. The speech is not a verdict — it is a warning from a man who has lost faith but not affection.
 
 ### Deep Research
-- `series_plot.md` — Chapter 32 entry (Abu Said's full speech)
+- `book-1-plot.md` — Chapter 32 entry (Abu Said's full speech)
 - `research/craft/long-journeys-worldbuilding-plan.md` — Section C.4 (the break with Abu Said)
 - `research/digests/vaissiere--sogdian-traders.md` — Sogdian commercial ethic, the tradition Abu Said carries (pp. 190-194 on hospitality and obligation)
 - `research/world-building/paper-mill-apprenticeship.md` — the master-apprentice relationship at its breaking point

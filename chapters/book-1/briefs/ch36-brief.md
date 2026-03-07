@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 36 — The House of Paper
 
 **When/Where:** Karkh district, Baghdad. Summer 791 CE. Yusuf is 21.

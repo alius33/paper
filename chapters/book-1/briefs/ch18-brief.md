@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 18 — The Letter from Omar
 
 **When/Where:** Baghdad. Ali's tile workshop, the family home near the Khorasan Gate. Late 788 CE. Yusuf is 18.

@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 38 — The Edge of the World
 
 **When/Where:** The journey from Baghdad to the Byzantine frontier, culminating at the Cilician Gates. Spring-summer 793 CE. Yusuf is 23.

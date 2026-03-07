@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 37 — The Gate at Dawn
 
 **When/Where:** Yusuf's rooftop near the Khorasan Gate, then the House of Paper premises, Baghdad. Late 791 CE. Yusuf is 21.

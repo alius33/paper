@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 21 — The City of Jasmine
 
 **When/Where:** Damascus. Early 789 CE, late winter/early spring. Yusuf is 18-19.

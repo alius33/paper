@@ -28,7 +28,7 @@
 **Intended Audience:** Adult readers of literary historical fiction who want immersive settings, morally complex protagonists, and propulsive plotting.
 
 **Current Progress:**
-- Complete series plot bible exists covering all four books
+- Complete series plot bible exists covering all four books (`series-overview.md` + per-book plot files)
 - Book 1 is in active chapter writing
 - Five chapters drafted (see §5 for status)
 - Extensive research, world-building, and character documentation complete
@@ -387,7 +387,7 @@ Ink, old parchment, the faintly sweet grassy scent of papyrus, the clean chemica
 **Book 1: The House of Paper (770–794 CE, story begins 787 CE)**
 Five parts, 42 chapters: The Road (Kufa journey, Chs 1–8) → The Mountain and the Market (Zagros/Rayy, Chs 9–18) → The Desert, the North, and the Ghost (Damascus, Mosul, Merv, Chs 19–32) → The Choice (founding the House, Chs 33–37) → The Byzantine Education (Constantinople, Chs 38–42).
 
-The novel opens in media res with Yusuf already on his first overland trade journey at age 17. Childhood, apprenticeship, Layla's death, and the Wasit river journey are all backstory, revealed organically through memory and conversation. The series plot (`series_plot.md`) outlines 42 chapters across five parts, of which the first five are drafted. Constantinople has been moved from Book 2 into Book 1.
+The novel opens in media res with Yusuf already on his first overland trade journey at age 17. Childhood, apprenticeship, Layla's death, and the Wasit river journey are all backstory, revealed organically through memory and conversation. The series overview (`series-overview.md`) and Book 1 plot (`book-1-plot.md`) outline 42 chapters across five parts, of which the first five are drafted. Constantinople has been moved from Book 2 into Book 1.
 
 ### Current Chapter Status — Book 1
 
@@ -403,7 +403,7 @@ The novel opens in media res with Yusuf already on his first overland trade jour
 
 ### Series Plot Outline — Key Beats Per Book
 
-Refer to `series_plot.md` for the full chapter-by-chapter outline. Below is a compressed summary of the major beats:
+Refer to `series-overview.md` for the series arc and `book-1-plot.md` for the chapter-by-chapter Book 1 outline. Below is a compressed summary of the major beats:
 
 **Book 1 — The House of Paper (42 chapters, 5 parts):**
 *Story begins 787 CE, age 17. Childhood and apprenticeship are backstory, revealed organically.*
@@ -482,7 +482,7 @@ Refer to `series_plot.md` for the full chapter-by-chapter outline. Below is a co
 | 774 | 4 | Omar (half-brother) leaves for the army |
 | 779 | 9 | Apprenticeship begins at Abu Said's workshop |
 | 782 | 12 | **Layla's death** |
-| 784 | 14 | Omar visits for his wedding. Barmakid commission sabotage. |
+| 784 | 14 | Omar visits for his wedding. Barmakid-commissioned tile project (details TBD — not to be confused with Jabir's sizing vat sabotage, which occurs in Ch 4, ~788 CE). |
 | 786 | 16 | Harun al-Rashid becomes Caliph |
 | 787 | 17 | *[STORY BEGINS]* Journey to Wasit (river, backstory). Journey to Kufa (overland, Chs 1–5). Workshop deepening, home life (Chs 6–8). |
 | 788 | 18 | Musa reconnection (Ch 9). Journey to Rayy (Zagros crossing, with Musa, Chs 10–16). Abu Said debrief (Ch 17). Journey to Damascus (Chs 19–23). |
@@ -538,14 +538,28 @@ When writing, maintain awareness of planted elements that must pay off:
 
 ## 8. WORKFLOW INSTRUCTIONS
 
+### Source Authority Hierarchy
+
+When project documents conflict, authority flows in this order:
+1. **Drafted chapter text** — what is actually written is ground truth.
+2. **Continuity ledger** — the record of what was drafted. Must match the text.
+3. **Chapter brief** — the plan for what should be written. If drafted, the brief should have been updated to match; if not, the drafted text and ledger take precedence.
+4. **Book plot file** (e.g. `book-1-plot.md`) — the detailed chapter outline. May be overridden by a brief that reflects a more recent creative decision.
+5. **`series-overview.md`** — the high-level series arc. Rarely overridden.
+6. **CLAUDE.md §4/§7** — character bible and timeline. Should be updated when chapters are drafted but may lag.
+
+When two briefs for undrafted chapters contradict each other, flag the contradiction for the author. Do not silently resolve it.
+
 ### When Writing a New Chapter
 
-1. **MANDATORY:** Read the chapter brief at `chapters/book-1/briefs/ch{NN}-brief.md`. This is your primary context — it contains character states, continuity notes, voice reminders, and sensory palette for this specific chapter. If additional research depth is needed, consult `context-manifest.md` for this chapter's research file list. Then read the relevant section of `series_plot.md` for the chapter's place in the overall arc.
+1. **MANDATORY:** Read the chapter brief at `chapters/book-1/briefs/ch{NN}-brief.md`. This is your primary context — it contains character states, continuity notes, voice reminders, and sensory palette for this specific chapter. If additional research depth is needed, consult `context-manifest.md` for this chapter's research file list. Then read the continuity summary at `chapters/book-1/continuity-summary.md` for an overview of all previous Parts, then the current Part's detailed ledger (e.g. `chapters/book-1/continuity-part-1.md`) for the chapters closest to the one being written. Then read `series-overview.md` for the series arc and the relevant book plot file (e.g. `book-1-plot.md`) for the chapter's place in the overall arc.
 2. **Read the previous chapter's final scene** for continuity of setting, mood, and any unfinished action.
 3. **Check this file (§4)** for every character appearing in the chapter — voice, current emotional state, what they know.
 4. **Check the timeline (§7)** — what year is it? What has happened recently in the world? What is Yusuf's age and current state?
 5. **Write the chapter in a single markdown file**, following all voice and style rules in §2.
-6. **After writing, produce a brief continuity note** (in a separate comment or file) flagging: any new information characters learn, any objects introduced, any promises made to the reader, any deviations from the outline, any details that need historical verification (`[RESEARCH NEEDED]` tags).
+6. **After writing, append a continuity ledger entry** to the appropriate Part's ledger file (e.g. `chapters/book-1/continuity-part-1.md` for Ch 1-8, `continuity-part-2.md` for Ch 9-18, etc.) following the established format (~300 words: Facts, Objects, Threads planted, Character states, Physical descriptions introduced, Commercial/financial facts, Deviations from brief). Update the continuity summary (`chapters/book-1/continuity-summary.md`) if this chapter completes a Part or significantly changes the state. Then update the chapter brief at `chapters/book-1/briefs/ch{NN}-brief.md` with any details that changed during writing, and update the threads ledger at `chapters/book-1/threads-ledger.md` with any new threads planted. Flag any details needing historical verification with `[RESEARCH NEEDED]` tags.
+
+   **Ledger corrections:** The ledger is append-only for new entries but may be corrected in place when errors are discovered. When correcting: re-read the relevant chapter text to verify the correction, edit the entry directly, and add a `[CORRECTED: date, description]` annotation at the end of the corrected field.
 7. **Do not add meta-commentary within the chapter text itself.** No "[Author's note]" or "[TODO]" inline. Keep those in the continuity note.
 
 ### When Editing or Revising a Chapter
@@ -562,6 +576,58 @@ When writing, maintain awareness of planted elements that must pay off:
    - Agency (is Yusuf an active agent, not a passive observer?)
 3. **Make edits in-place** but describe what was changed and why.
 4. **Never rewrite the author's voice into a generic style.** Preserve the established voice. When in doubt, match the existing chapters.
+
+**Prose-only edits:** If a revision changes only prose quality (word choice, rhythm, sentence structure) without altering any facts, character states, objects, or threads, no downstream updates to the ledger, briefs, or other tracking files are required.
+
+### When Making a Cascading Revision
+
+A cascading revision is any edit that changes a character name, an object description, a timeline fact, or a planted thread that other chapters reference.
+
+1. Before editing, grep the project for the detail being changed across: all chapter drafts, all briefs, all continuity ledgers, context-manifest.md, the book plot files, CLAUDE.md (§4, §7).
+2. List all files that reference the changed detail.
+3. Make the edit in the chapter text.
+4. Update all downstream files in this order: continuity ledger entry → continuity summary → CLAUDE.md §4/§7 → affected briefs → threads ledger → book plot file → context manifest.
+5. Note the cascading change in the commit message listing all files modified.
+
+### When Splitting, Merging, or Reordering Chapters
+
+These operations affect the numbering and structure of the book. Follow this procedure:
+
+**Splitting a chapter:**
+1. Identify the split point (usually a scene break).
+2. Create two new chapter files with updated numbers and titles.
+3. Update the brief for the original chapter — split it into two briefs.
+4. Update the continuity ledger — split the entry if the chapter was drafted.
+5. Renumber all subsequent chapters: files, briefs, ledger entries, manifest entries, threads ledger references, relationship tracker references.
+6. Update the book plot file and CLAUDE.md §5 chapter table.
+
+**Merging chapters:**
+1. Combine the two chapter files.
+2. Merge their briefs into one.
+3. Merge their ledger entries if both were drafted.
+4. Renumber all subsequent chapters as above.
+
+**Reordering chapters:**
+1. Verify no continuity dependencies are broken (a chapter cannot reference events from a later chapter).
+2. Rename files to reflect new order.
+3. Update all cross-references: briefs, ledger entries, manifest, threads ledger, relationship tracker, book plot file, CLAUDE.md §5.
+
+**Moving a scene between chapters:**
+1. Move the text.
+2. Update both chapters' ledger entries to reflect what each chapter now contains.
+3. Update both briefs.
+4. Check the threads ledger for any threads planted in the moved scene — update the "Planted" column.
+
+### When Starting a New Book
+
+1. Create the directory structure: `chapters/book-N/`, `chapters/book-N/briefs/`.
+2. Create the book's continuity files: `continuity-summary.md`, `continuity-part-1.md` (and additional parts as the book's structure requires).
+3. Create the book's threads ledger: `chapters/book-N/threads-ledger.md`.
+4. Create the book's relationship tracker: `chapters/book-N/relationship-tracker.md`.
+5. Reference the previous book's final continuity summary for character states and unresolved threads that carry forward.
+6. Create `book-N-plot.md` from the relevant section of the series outline.
+7. Update `context-manifest.md` with the new book's chapter-to-research mappings.
+8. Update CLAUDE.md §5 with the new book's chapter status table.
 
 ### When Doing a Continuity Check
 
@@ -608,7 +674,7 @@ This workflow applies when the user adds a book (PDF, EPUB, or other format) to 
    - **Overview:** 2–3 paragraphs on the book's scope, argument, and value to this project
    - **Key Extracts:** topic-organized, scene-ready prose with page/location references. Include direct quotes where the language is vivid enough to use in fiction. Each extract should have a **"Scene potential"** annotation — one sentence on how this material could be used in the novel.
    - **Facts and Dates:** bulleted, grep-friendly list of specific data points (dates, names, measurements, prices) with page references
-   - **Relevance to Chapters:** which chapters or plot beats this book informs, keyed to `series_plot.md` and existing chapters. Use consistent format: `Book 1, Ch 1-3 (Kufa journey)` for grepability.
+   - **Relevance to Chapters:** which chapters or plot beats this book informs, keyed to the book plot files (e.g. `book-1-plot.md`) and existing chapters. Use consistent format: `Book 1, Ch 1-3 (Kufa journey)` for grepability.
    - **[RESEARCH NEEDED] flags:** any claims that conflict with other sources or existing research files
 4. **Target 2,000–5,000 words** per digest regardless of book length. Apply the iceberg rule: extract what matters to this project, not everything. A 300-page book rarely has more than 100 pages of material relevant to this specific novel.
 5. **Update `research-index.md`** — add the digest to the Book Digests table and to any relevant topic and chapter rows.
@@ -623,6 +689,7 @@ After writing or significantly revising a chapter:
 4. Check the briefs of adjacent chapters (N-1 and N+1) — if continuity details changed, update those briefs too.
 5. Flag any `[RESEARCH NEEDED]` items discovered during writing.
 6. Update `context-manifest.md` if new research files were consulted or created.
+7. If this is a newly drafted chapter, also append an entry to the appropriate Part's continuity ledger (e.g. `chapters/book-1/continuity-part-1.md`) recording what the chapter actually established.
 
 ### When Expanding World-Building
 
@@ -644,7 +711,11 @@ After writing or significantly revising a chapter:
 ├── .gitignore
 ├── .gitattributes                     # Git LFS rules
 ├── CLAUDE.md                          # This file — read first, always
-├── series_plot.md                     # Master plot bible (all 4 books)
+├── series-overview.md                 # Series arc, key cast, cross-book structure
+├── book-1-plot.md                     # Book 1 chapter-by-chapter outline
+├── book-2-plot.md                     # Book 2 chapter-by-chapter outline
+├── book-3-plot.md                     # Book 3 chapter-by-chapter outline
+├── book-4-plot.md                     # Book 4 outline (placeholder)
 │
 ├── chapters/                          # Active manuscript — one branch per chapter
 │   ├── book-1/
@@ -652,7 +723,14 @@ After writing or significantly revising a chapter:
 │   │   ├── ch02-the-caliphs-road.md
 │   │   ├── ch03-the-wounded-heart.md
 │   │   ├── ch04-the-poisoned-vat.md
-│   │   └── ch05-the-suq-al-warraqin.md
+│   │   ├── ch05-the-suq-al-warraqin.md
+│   │   ├── continuity-summary.md
+│   │   ├── continuity-part-1.md
+│   │   ├── continuity-part-2.md through part-5.md
+│   │   ├── threads-ledger.md
+│   │   ├── relationship-tracker.md
+│   │   └── briefs/
+│   │       ├── ch01-brief.md through ch42-brief.md
 │   ├── book-2/
 │   ├── book-3/
 │   └── book-4/
@@ -747,13 +825,22 @@ After writing or significantly revising a chapter:
 ### The Iceberg Rule
 - The research depth of this project is enormous. Apply the iceberg rule: for every ten pages of research, one page appears on the surface. The other nine inform the texture, confidence, and authenticity of the writing without being explicitly stated. Never let research overwhelm narrative.
 
+### Research Conflict Resolution
+When historical research contradicts authorial intent in a brief: flag with `[RESEARCH CONFLICT: description]`, present the conflict to the author with both the research finding and the brief's creative intent, and wait for a decision. Never silently alter a brief to match research — the author may prefer creative licence over historical accuracy.
+
+### File Reference Integrity
+When encountering a broken file path in any project document: flag with `[BROKEN REF: path]`, search for the file under possible new names, and update all references if found. When renaming any research file or chapter file: grep the entire project for the old path and update all references before committing.
+
 ### Reading Order for New Context
 If you need to orient yourself quickly in the project, read these files in this order:
 1. This file (`CLAUDE.md`)
-2. `series_plot.md` — the master plot bible
-3. `chapters/book-1/ch05-the-suq-al-warraqin.md` — the most polished example of the voice
-4. `chapters/book-1/ch03-the-wounded-heart.md` — the longest and most textured chapter
-5. `chapters/book-1/ch04-the-poisoned-vat.md` — strong example of workshop/craft scenes
+2. `series-overview.md` — the series arc and cross-book structure
+3. `book-1-plot.md` — the Book 1 chapter-by-chapter outline (or whichever book is active)
+4. `chapters/book-1/ch05-the-suq-al-warraqin.md` — the most polished example of the voice
+5. `chapters/book-1/ch03-the-wounded-heart.md` — the longest and most textured chapter
+6. `chapters/book-1/ch04-the-poisoned-vat.md` — strong example of workshop/craft scenes
+7. `chapters/book-1/continuity-summary.md` — compressed state at each Part boundary
+8. `context-manifest.md` — maps chapters to research files
 
 ---
 

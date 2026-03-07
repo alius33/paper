@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 24 — The Northern Artery
 
 **When/Where:** The Jazira (Upper Mesopotamia) and arrival in Mosul. Spring 789 CE. Yusuf is 19.

@@ -14,7 +14,7 @@ interface CommandBuilderProps {
 
 const CONTEXT_FILES = [
   { path: "CLAUDE.md", label: "CLAUDE.md" },
-  { path: "series_plot.md", label: "series_plot.md" },
+  { path: "series-overview.md", label: "series-overview.md" },
 ];
 
 export function CommandBuilder({

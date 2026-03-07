@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 42 — The Road That Has No End
 
 **When/Where:** The return journey from Constantinople, crossing back through the Cilician Gates into the caliphate, then Baghdad. Spring-summer 794 CE. Yusuf is 24.

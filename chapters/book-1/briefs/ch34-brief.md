@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 34 — Paper Is Real
 
 **When/Where:** Ali's home and tile workshop, Baghdad. Late 790 to early 791 CE. Yusuf is 20-21.

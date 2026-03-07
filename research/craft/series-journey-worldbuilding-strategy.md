@@ -153,4 +153,4 @@ The arc from Book 1 to Book 4 is, at its deepest level, the story of a man's cha
 
 ---
 
-*Strategic plan for series-level journey-based world-building. Cross-reference with `belgariad-companion-worldbuilding.md`, `belgariad-journey-pacing.md`, and `belgariad-naive-pov-analysis.md` for detailed technique analysis. Reference `series_plot.md` for chapter-level application.*
+*Strategic plan for series-level journey-based world-building. Cross-reference with `belgariad-companion-worldbuilding.md`, `belgariad-journey-pacing.md`, and `belgariad-naive-pov-analysis.md` for detailed technique analysis. Reference `book-1-plot.md` for chapter-level application.*

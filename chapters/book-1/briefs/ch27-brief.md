@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 27 — The Family's Kiln
 
 **When/Where:** Merv, the oasis city of Khorasan. Autumn 789 CE. Yusuf is 19.

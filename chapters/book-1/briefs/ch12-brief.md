@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 12 — The World Turns Upward
 
 **When/Where:** The Zagros foothills. Hulwan (staging town) and the beginning of the mountain ascent. Spring 788 CE. Yusuf is 18.

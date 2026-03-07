@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 30 — The Silk Gamble
 
 **When/Where:** Merv, the auction and its immediate aftermath. Autumn 789 CE. Yusuf is 19.
@@ -31,7 +33,7 @@
 
 ### Deep Research
 - `research/craft/long-journeys-worldbuilding-plan.md` — Section C.4 (the silk gamble and the break with Abu Said)
-- `series_plot.md` — Chapter 30 entry
+- `book-1-plot.md` — Chapter 30 entry
 - `research/digests/vaissiere--sogdian-traders.md` — silk trade mechanics, price differentials between Merv and Baghdad
 - `research/digests/hansen--silk-road.md` — silk as commodity, transport logistics
 - `research/craft/MASTER-PLAN-journey-worldbuilding.md` — Commandment IX (failure before mastery — this is a moral failure dressed as a commercial triumph)

@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 9 — The Oud Player's Return
 
 **When/Where:** Baghdad, Khorasan Gate neighbourhood and a private courtyard performance venue. Early 788 CE. Yusuf is 18.

@@ -1,3 +1,5 @@
+**Status:** Drafted | Ledger entry exists
+
 ## BRIEF: Chapter 5 — The Suq al-Warraqin
 
 **When/Where:** Baghdad's Suq al-Warraqin (Paper Sellers' Market) and the adjacent *sarrafs'* lane. Late 787 CE, five months after Kufa, three months after Jabir's dismissal. Yusuf is 17-18.

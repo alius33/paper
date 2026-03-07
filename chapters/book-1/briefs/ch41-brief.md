@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 41 — The Banker of Chios
 
 **When/Where:** Constantinople — the financial district near the Mese, Demetrios's banking table, the harbour. Early 794 CE. Yusuf is 24.

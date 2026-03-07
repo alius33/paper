@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 16 — The Descent
 
 **When/Where:** The Zagros Mountains, return journey westward. Then the Mesopotamian plain. Summer 788 CE. Yusuf is 18.

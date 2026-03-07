@@ -1,3 +1,5 @@
+**Status:** Drafted | Ledger entry exists
+
 ## BRIEF: Chapter 2 — The Caliph's Road
 
 **When/Where:** The imperial road from Baghdad to Kufa, days 1-5 of travel. Spring 787 CE. Yusuf is 17.

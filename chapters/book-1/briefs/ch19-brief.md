@@ -1,3 +1,5 @@
+**Status:** Prospective | No ledger entry
+
 ## BRIEF: Chapter 19 — The Western Road
 
 **When/Where:** The road west from Baghdad, crossing the Sawad into the Syrian steppe. Late 788 CE, late autumn. Yusuf is 18.
