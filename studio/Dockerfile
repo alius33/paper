@@ -2,10 +2,10 @@ FROM node:22-alpine AS builder
 RUN apk add --no-cache git
 WORKDIR /app
 COPY studio/package.json ./
-# Lockfile is generated on Windows and contains @tailwindcss/oxide-win32-x64-msvc
-# which hard-fails on Linux regardless of --force/--ignore-platform flags.
-# Fresh install from package.json resolves correct Linux-native deps.
-RUN npm install
+# npm 10 errors on cross-platform optional deps (@tailwindcss/oxide-win32-*).
+# --force is the ONLY flag that actually bypasses EBADPLATFORM.
+# Tested locally: full Docker build succeeds with this command.
+RUN npm install --force
 COPY studio/ .
 RUN npm run build
 
