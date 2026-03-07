@@ -4,6 +4,8 @@ import { getLog } from "@/lib/git";
 import { DashboardContent } from "@/components/dashboard/dashboard-content";
 import type { FileNode } from "@/types/files";
 
+export const dynamic = "force-dynamic";
+
 interface FileInfo {
   name: string;
   path: string;
@@ -44,7 +46,10 @@ function collectStats(
           stats.chapters.push(info);
         }
 
-        if (node.category === "research" && !node.path.startsWith("research/digests/")) {
+        if (
+          node.path.startsWith("research/") &&
+          !node.path.startsWith("research/digests/")
+        ) {
           stats.researchFiles.push(info);
         }
 
@@ -52,7 +57,9 @@ function collectStats(
           stats.digestFiles.push(info);
         }
       }
-    } else if (node.children) {
+    }
+
+    if (node.children) {
       collectStats(node.children, stats);
     }
   }
@@ -75,13 +82,15 @@ export default async function HomePage() {
   }[] = [];
   let filesByCategory: Record<string, number> = {};
 
-  try {
-    const repoPath = getRepoPath();
-    const [tree, commits] = await Promise.all([
-      getFileTree(repoPath),
-      getLog(repoPath, undefined, 10),
-    ]);
+  const repoPath = getRepoPath();
 
+  // Fetch tree and commits independently so one failure doesn't block the other
+  const [treeResult, commitsResult] = await Promise.allSettled([
+    getFileTree(repoPath),
+    getLog(repoPath, undefined, 10),
+  ]);
+
+  if (treeResult.status === "fulfilled") {
     const stats = {
       totalFiles: 0,
       totalWords: 0,
@@ -91,7 +100,7 @@ export default async function HomePage() {
       filesByCategory: {} as Record<string, number>,
     };
 
-    collectStats(tree, stats);
+    collectStats(treeResult.value, stats);
     stats.chapters.sort((a, b) => a.path.localeCompare(b.path));
     stats.researchFiles.sort((a, b) => a.path.localeCompare(b.path));
     stats.digestFiles.sort((a, b) => a.path.localeCompare(b.path));
@@ -104,15 +113,20 @@ export default async function HomePage() {
     chapterCount = chapters.length;
     totalChapterWords = chapters.reduce((sum, ch) => sum + ch.wordCount, 0);
     filesByCategory = stats.filesByCategory;
-    recentCommits = commits.map((c) => ({
+  } else {
+    console.error("[Dashboard] Failed to load file tree:", treeResult.reason);
+  }
+
+  if (commitsResult.status === "fulfilled") {
+    recentCommits = commitsResult.value.map((c) => ({
       hash: c.hash,
       shortHash: c.shortHash,
       message: c.message,
       date: c.date,
       author: c.author,
     }));
-  } catch {
-    // Dashboard will render with zeros if stats fail
+  } else {
+    console.error("[Dashboard] Failed to load git log:", commitsResult.reason);
   }
 
   return (
