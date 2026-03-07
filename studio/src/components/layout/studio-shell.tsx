@@ -1,37 +1,19 @@
 "use client";
 
-import { ReactNode } from "react";
-import { AppShell } from "./app-shell";
 import { ThemeProvider } from "./theme-provider";
-import { Sidebar } from "./sidebar";
-import { RightPanel } from "./right-panel";
-import { FileTree } from "@/components/file-browser/file-tree";
-import { ReferencePanel } from "@/components/viewer/reference-panel";
-import { CommandPanel } from "@/components/claude/command-panel";
-import { HistoryPanel } from "@/components/version-control/history-panel";
+import { TopBar } from "./top-bar";
+import { StatusBar } from "./status-bar";
+import { SearchModal } from "./search-modal";
 
-interface StudioShellProps {
-  children: ReactNode;
-}
-
-export function StudioShell({ children }: StudioShellProps) {
+export function StudioShell({ children }: { children: React.ReactNode }) {
   return (
     <ThemeProvider>
-      <AppShell
-        sidebar={
-          <Sidebar>
-            <FileTree />
-          </Sidebar>
-        }
-        main={children}
-        rightPanel={
-          <RightPanel
-            researchContent={<ReferencePanel />}
-            claudeContent={<CommandPanel />}
-            historyContent={<HistoryPanel />}
-          />
-        }
-      />
+      <div className="flex h-screen h-[100dvh] flex-col bg-background">
+        <TopBar />
+        <main className="flex-1 overflow-hidden">{children}</main>
+        <StatusBar />
+        <SearchModal />
+      </div>
     </ThemeProvider>
   );
 }

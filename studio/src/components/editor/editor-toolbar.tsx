@@ -1,7 +1,7 @@
-'use client';
+"use client";
 
-import { useCallback, useState } from 'react';
-import type { Editor } from '@tiptap/react';
+import { useCallback, useState } from "react";
+import type { Editor } from "@tiptap/react";
 import {
   Bold,
   Italic,
@@ -10,8 +10,8 @@ import {
   Redo2,
   BookOpen,
   Edit3,
-} from 'lucide-react';
-import { cn } from '@/lib/utils';
+} from "lucide-react";
+import { cn } from "@/lib/utils";
 
 interface EditorToolbarProps {
   editor: Editor | null;
@@ -39,11 +39,10 @@ function ToolbarButton({
       disabled={disabled}
       title={title}
       className={cn(
-        'flex items-center justify-center rounded-md transition-colors',
-        'h-10 w-10 md:h-8 md:w-8',
-        'text-muted-foreground hover:bg-secondary hover:text-foreground',
-        'disabled:pointer-events-none disabled:opacity-40',
-        active && 'bg-secondary text-foreground',
+        "flex items-center justify-center rounded px-2 py-1.5 text-sm transition-colors",
+        "text-muted-foreground hover:bg-secondary hover:text-foreground",
+        "disabled:pointer-events-none disabled:opacity-40",
+        active && "bg-secondary text-foreground"
       )}
     >
       {children}
@@ -52,7 +51,7 @@ function ToolbarButton({
 }
 
 function ToolbarSeparator() {
-  return <div className="mx-1 h-5 w-px bg-border" />;
+  return <div className="w-px h-5 bg-border mx-1" />;
 }
 
 export function EditorToolbar({ editor }: EditorToolbarProps) {
@@ -68,11 +67,11 @@ export function EditorToolbar({ editor }: EditorToolbarProps) {
   const disabled = !editor;
 
   return (
-    <div className="flex items-center gap-0.5 border-b border-border bg-card px-3 py-1.5 overflow-x-auto">
+    <div className="fixed bottom-4 left-1/2 -translate-x-1/2 z-30 flex items-center gap-0.5 bg-background border border-border rounded-lg shadow-lg px-2 py-1.5">
       <ToolbarButton
         onClick={() => editor?.chain().focus().toggleBold().run()}
         disabled={disabled}
-        active={editor?.isActive('bold') ?? false}
+        active={editor?.isActive("bold") ?? false}
         title="Bold (Ctrl+B)"
       >
         <Bold className="h-4 w-4" />
@@ -81,7 +80,7 @@ export function EditorToolbar({ editor }: EditorToolbarProps) {
       <ToolbarButton
         onClick={() => editor?.chain().focus().toggleItalic().run()}
         disabled={disabled}
-        active={editor?.isActive('italic') ?? false}
+        active={editor?.isActive("italic") ?? false}
         title="Italic (Ctrl+I)"
       >
         <Italic className="h-4 w-4" />
@@ -119,7 +118,7 @@ export function EditorToolbar({ editor }: EditorToolbarProps) {
         onClick={toggleReadingMode}
         disabled={disabled}
         active={isReadingMode}
-        title={isReadingMode ? 'Switch to Edit Mode' : 'Switch to Reading Mode'}
+        title={isReadingMode ? "Switch to Edit Mode" : "Switch to Reading Mode"}
       >
         {isReadingMode ? (
           <BookOpen className="h-4 w-4" />

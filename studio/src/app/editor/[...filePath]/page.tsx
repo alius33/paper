@@ -1,8 +1,8 @@
-import { readFileContent } from '@/lib/files';
-import { getRepoPath } from '@/lib/repo-config';
-import { EditorHeader } from '@/components/editor/editor-header';
-import { ChapterEditor } from '@/components/editor/chapter-editor';
-import { FileText } from 'lucide-react';
+import { readFileContent } from "@/lib/files";
+import { getRepoPath } from "@/lib/repo-config";
+import { EditorHeader } from "@/components/editor/editor-header";
+import { ChapterEditor } from "@/components/editor/chapter-editor";
+import { FileText } from "lucide-react";
 
 interface EditorPageProps {
   params: Promise<{ filePath: string[] }>;
@@ -10,7 +10,7 @@ interface EditorPageProps {
 
 export default async function EditorPage({ params }: EditorPageProps) {
   const { filePath } = await params;
-  const path = filePath.join('/');
+  const path = filePath.join("/");
 
   let content: string;
   try {
@@ -22,11 +22,11 @@ export default async function EditorPage({ params }: EditorPageProps) {
       <div className="flex h-full items-center justify-center bg-background">
         <div className="max-w-md px-8 text-center">
           <FileText className="mx-auto h-10 w-10 text-muted-foreground" />
-          <h1 className="mt-4 font-serif text-xl font-semibold text-primary">
+          <h1 className="mt-4 text-xl font-semibold text-foreground">
             File not found
           </h1>
           <p className="mt-3 text-sm text-muted-foreground">
-            Could not open{' '}
+            Could not open{" "}
             <span className="font-medium text-foreground">{path}</span>
           </p>
         </div>

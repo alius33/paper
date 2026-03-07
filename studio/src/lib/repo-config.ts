@@ -8,6 +8,7 @@ import path from 'path';
 const CANDIDATE_PATHS = [
   '/repo',
   '/home/user/paper',
+  process.cwd(),
   path.resolve(process.cwd(), '..'),
   '/workspace/repo',
 ];

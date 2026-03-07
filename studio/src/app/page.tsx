@@ -1,7 +1,7 @@
 import { getRepoPath } from "@/lib/repo-config";
 import { getFileTree } from "@/lib/files";
 import { getLog } from "@/lib/git";
-import { DashboardContent } from "@/components/dashboard/dashboard-content";
+import { ViewRouter } from "@/components/layout/view-router";
 import type { FileNode } from "@/types/files";
 
 export const dynamic = "force-dynamic";
@@ -84,7 +84,6 @@ export default async function HomePage() {
 
   const repoPath = getRepoPath();
 
-  // Fetch tree and commits independently so one failure doesn't block the other
   const [treeResult, commitsResult] = await Promise.allSettled([
     getFileTree(repoPath),
     getLog(repoPath, undefined, 10),
@@ -130,16 +129,18 @@ export default async function HomePage() {
   }
 
   return (
-    <DashboardContent
-      totalWords={totalWords}
-      totalFiles={totalFiles}
-      chapterCount={chapterCount}
-      totalChapterWords={totalChapterWords}
-      chapters={chapters}
-      researchFiles={researchFiles}
-      digestFiles={digestFiles}
-      recentCommits={recentCommits}
-      filesByCategory={filesByCategory}
+    <ViewRouter
+      dashboardData={{
+        totalWords,
+        totalFiles,
+        chapterCount,
+        totalChapterWords,
+        chapters,
+        researchFiles,
+        digestFiles,
+        recentCommits,
+        filesByCategory,
+      }}
     />
   );
 }

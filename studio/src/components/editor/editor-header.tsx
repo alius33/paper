@@ -1,4 +1,4 @@
-'use client';
+"use client";
 
 interface EditorHeaderProps {
   filePath: string;
@@ -14,13 +14,9 @@ function parseChapterInfo(filePath: string): {
   chapterNumber: string | null;
   title: string;
 } {
-  // Get the filename without extension
-  const filename = filePath.split('/').pop()?.replace(/\.md$/, '') ?? filePath;
-
-  // Try to match the chapter pattern: ch01-the-title-here
+  const filename = filePath.split("/").pop()?.replace(/\.md$/, "") ?? filePath;
   const match = filename.match(/^ch(\d+)-(.+)$/);
   if (!match) {
-    // Not a chapter file — show the filename as title
     return { chapterNumber: null, title: formatTitle(filename) };
   }
 
@@ -33,28 +29,19 @@ function parseChapterInfo(filePath: string): {
   };
 }
 
-/**
- * Converts kebab-case to Title Case.
- * "the-suq-al-warraqin" → "The Suq al-Warraqin"
- *
- * Keeps lowercase for common short words (articles, prepositions)
- * except when they appear at the start.
- */
 function formatTitle(kebab: string): string {
-  const lowerWords = new Set(['a', 'an', 'the', 'of', 'in', 'on', 'at', 'to', 'for', 'and', 'but', 'or', 'al']);
+  const lowerWords = new Set([
+    "a", "an", "the", "of", "in", "on", "at", "to", "for", "and", "but", "or", "al",
+  ]);
 
   return kebab
-    .split('-')
+    .split("-")
     .map((word, i) => {
-      if (i === 0) {
-        return word.charAt(0).toUpperCase() + word.slice(1);
-      }
-      if (lowerWords.has(word.toLowerCase())) {
-        return word.toLowerCase();
-      }
+      if (i === 0) return word.charAt(0).toUpperCase() + word.slice(1);
+      if (lowerWords.has(word.toLowerCase())) return word.toLowerCase();
       return word.charAt(0).toUpperCase() + word.slice(1);
     })
-    .join(' ');
+    .join(" ");
 }
 
 export function EditorHeader({ filePath }: EditorHeaderProps) {
@@ -62,14 +49,14 @@ export function EditorHeader({ filePath }: EditorHeaderProps) {
 
   return (
     <div className="border-b border-border bg-card px-4 py-3 md:px-6">
-      <h1 className="font-serif text-xl font-semibold text-primary">
-        {chapterNumber ? (
-          <>Chapter {chapterNumber}: {title}</>
-        ) : (
-          title
-        )}
+      {chapterNumber && (
+        <p className="font-mono text-[11px] text-muted-foreground uppercase tracking-wider">
+          Chapter {chapterNumber}
+        </p>
+      )}
+      <h1 className="text-[22px] font-semibold tracking-tight text-foreground mt-1">
+        {title}
       </h1>
-      <p className="mt-0.5 text-xs text-muted-foreground">{filePath}</p>
     </div>
   );
 }
