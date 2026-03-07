@@ -2,7 +2,10 @@ FROM node:22-alpine AS builder
 RUN apk add --no-cache git
 WORKDIR /app
 COPY studio/package.json studio/package-lock.json ./
-RUN npm ci --force
+# Use npm install (not ci) because lockfile is generated on Windows
+# and contains platform-specific Tailwind oxide binaries that fail on Linux.
+# npm install resolves correct platform deps while respecting the lockfile.
+RUN npm install
 COPY studio/ .
 RUN npm run build
 
