@@ -1,36 +1,38 @@
 **Status:** Prospective | No ledger entry
 
-## BRIEF: Chapter 20 — The Singing Sands
+## BRIEF: Chapter 19 — The Western Road
 
-**When/Where:** The Syrian steppe, deep desert between Baghdad and Damascus. Late 788 CE, late autumn. Yusuf is 18.
-**Arriving from:** Chapter 19 — the landscape has stripped down to emptiness. The caravan is now deep in the desert, past the point of easy return.
+**When/Where:** The road west from Baghdad, crossing the Sawad into the Syrian steppe. Late 788 CE, late autumn. Yusuf is 18.
+**Arriving from:** Chapter 18 — Baghdad interlude. Omar al-Dimashqi's new paper grade; letter from half-brother Omar. Yusuf is energised by the Rayy journey's lessons and hungry for the next venture.
 
 ### Characters Present
-- **Yusuf:** Physically tested by the desert — cracked lips, sand in everything, thirst as a constant companion. His rational, analytical mind encounters something it cannot price or categorise.
-- **Umar (Ustad):** The desert is familiar to him. He teaches water discipline with iron grip. His private faith surfaces — desert prayer has a different quality from city prayer.
-- **Musa:** Plays old Bedouin songs at night that unlock memories of Layla. His music is the bridge between Yusuf's mother's world and the present.
-- **Camel drivers (Sa'dan and others):** Their superstitious rituals (salt, iron, Quranic verses mixed with pre-Islamic incantations) reveal the desert's psychological power over even hardened men.
+- **Yusuf:** Returning to the road with new confidence after Rayy. He has seen the Sogdian blueprint and understands commerce as a system. But confidence is not competence — this journey will test him differently.
+- **Umar (Ustad):** Still the road mentor, but his role is loosening. He is letting Yusuf make more decisions, watching to see what emerges.
+- **Musa:** Rejoins the caravan. His oud-playing has improved markedly since Rayy. He brings warmth, spontaneity, and the emotional register Yusuf keeps closed.
+- **Abu Said (absent but present):** His challenge defines the journey — sell paper to the Damascus military administration, which still uses papyrus. Converting a papyrus market is a different kind of problem.
 
 ### What This Chapter Must Accomplish
-- **The sandstorm set piece.** The storm is not weather but erasure — bruised brown-orange sky, wind as a physical wall, two days of suffocating immobility behind kneeling camels. When it passes, the landscape has been reorganised. The storm is a metaphor for political upheaval (Damascus experienced this when the Abbasids arrived) but the metaphor must remain subterranean.
-- **The singing sands.** The natural acoustic phenomenon experienced as jinn voices. Camel drivers' salt-and-iron rituals. The pull of the void — Yusuf hears (or thinks he hears) his name whispered from the dark. His rational mind (Ali's inheritance) wrestles with the instinctive fear his mother planted. Layla's desert stories were not superstition but survival lore.
-- **Activate Yusuf's Bedouin heritage.** Layla was Banu Asad. A brief encounter with a Bedouin group — a shared meal, a watering hole, the recognition of Yusuf's features or his mother's tribal name. Identity as choice, not inheritance.
-- **Physical endurance as character revelation.** Water discipline. Class divides (the wealthy merchant under silk awning vs. Yusuf's cracked lips). The desert teaches Yusuf to notice smaller distinctions.
+- Establish the westward journey as fundamentally different in terrain and character from the eastern route to Rayy. The steppe, not mountains. Emptiness, not ordeal.
+- Show the landscape transition: the Sawad's green canals thinning, irrigation ditches drying to cracked scars, date palms breaking apart into scrub. The "civilised" world retreating.
+- Introduce the sensory narrowing of the desert — smell contracts to dust, camel dung, brackish water, wormwood. Sound collapses to wind and camel feet. Colour bleaches to brown and white sky.
+- Musa's return should feel warm but also slightly different — he has grown, and so has Yusuf. Their friendship is now adult, not boyhood.
+- Plant the commercial challenge: papyrus is entrenched in Damascus. This is not Kufa's passive rejection but an active, hostile market.
 
 ### Continuity
-- Layla's death (782 CE, age 12) — the pouch of desert sand, the fox-and-lion story. The desert makes her memory vivid. Musa's Bedouin songs trigger specific recollections.
-- The Bedouin encounter activates Yusuf's dual identity — Khorasani father, Bedouin mother. He is drawn to this world and aware he has already chosen a different path.
-- The sandstorm reconfigures the landscape — a visual foreshadowing of political impermanence that will land in Damascus (Ch 23).
-- The singing sands plant the motif of the void — things that cannot be bought, controlled, or analysed. This checks Yusuf's growing commercial confidence.
+- Yusuf's commercial eye is now sharper — he should notice things a first-journey Yusuf would have missed (bread costs at halts, the quality of khan provisions, the currency of fellow travellers).
+- The *barid* rider motif from Part One can recur — the postal system as the empire's nervous system, now seen with deeper understanding.
+- Musa's presence recalls the Rayy journey (Part Two). Their dynamic should show evolution — Yusuf now recognises Musa as an intelligence asset (people tell musicians things) and the recognition still shames him.
+- The Sogdian blueprint from Rayy is in Yusuf's head. He is starting to think in systems.
 
 ### Voice Reminders
-- Sensory lead: touch dominates — dry heat, cracked lips, sand in every fold, the camel's gait under him. Smell is contracted: mineral air, vast emptiness, the occasional sharp green of crushed wormwood.
-- Prose rhythm: oppressive at first (long sentences, few line breaks), then meditative as Yusuf adjusts. The singing sands sequence should shift to shorter, more urgent sentences — fear changes the rhythm.
-- The desert must feel like a character, not a backdrop. It has moods, intentions, patience.
+- Sensory lead: the transition from lush to arid. Smell-first — the heavy mud-and-fertiliser smell of the Sawad fading, replaced by dry metallic dust and sharp wormwood tang.
+- Prose rhythm: the road's monotony should be rendered through longer, accretive sentences. The heat becomes a physical weight. Let the reader feel the tedium before action breaks it.
+- This chapter is a threshold — the tone should shift from Baghdad's contained energy to the steppe's vast indifference.
 
 ### Deep Research
-- `research/plot/chapter-outline-road-of-ghosts.md` — Scenes 2-5 (the halt, the campfire, the singing sands)
-- `research/craft/long-journeys-worldbuilding-plan.md` — Section A.1 (desert as character: sensory narrowing, sandstorm, singing sands, Bedouin encounters)
-- `research/digests/bulliet--camel-and-wheel.md` — camel behaviour in sandstorms (old camels snarl and bury mouths)
-- `research/digests/vaissiere--sogdian-traders.md` — caravan sizes and composition for dangerous crossings
-- `research/craft/MASTER-PLAN-journey-worldbuilding.md` — Commandments II (smell first) and X (thin senses in action)
+- `research/craft/long-journeys-worldbuilding-plan.md` — Section A (Damascus journey), subsection 1 (desert as character)
+- `research/plot/chapter-outline-road-of-ghosts.md` — detailed scene-by-scene desert crossing outline
+- `research/digests/burns--damascus.md` — approach from the desert
+- `research/digests/bulliet--camel-and-wheel.md` — caravan logistics, camel behaviour
+- `research/craft/MASTER-PLAN-journey-worldbuilding.md` — Part 3, Ch 19-20 row
+- `research/digests/silverstein--postal-systems.md` — the *barid* system

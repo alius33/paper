@@ -2,23 +2,25 @@
 
 > Compressed state at each Part boundary. Read this file + the current Part's detailed ledger before writing any new chapter.
 
-## Part 1 — The Road (Ch 1-8)
+## Part 1 — The Road (Ch 1-9)
 
-By the end of the drafted chapters (Ch 1-5), Yusuf is 18 years old (~Feb 788 CE). He has completed his first trade journey (Kufa, 5 days each way, 3 days in city), sold 37 sheets of Caliph's Cream at a net loss, and returned to Abu Said's workshop. He has been trained in *siyaq* accounting, earned the secret sizing formula after Jabir's sabotage and expulsion, and completed his first solo delivery round in the Suq al-Warraqin. Key relationships formed: Sa'dan and Sayeed (departed south with Hajj pilgrims), Tariq the bread thief in Kufa, Abu Yaqub the grammarian (24 sheets on consignment). Key threats identified: al-Fadl's workshop (east bank rival), Nasir (al-Fadl's charming delivery man, 6 months' head start), and Jabir-era quality damage reaching customers (Mansur's 3 bleeding sheets). Rashid ibn Musa has placed a 50-ream order and wants to discuss Caliph's Cream for the Khalifa's library. Yusuf's central insight is forming: paper, money, and trust are the same thing seen from different angles — "the paper is the surface, the trust is the fibre." Omar al-Dimashqi has shown him a *suftaja*. The Khorasan Gate tiles remain visible from the workshop roof.
+By the end of the drafted chapters (Ch 1-3), Yusuf is 17 years old (787 CE). He has completed the five-day outbound journey to Kufa. Chapters 2 and 3 cover the full road journey: two khans, the ink merchant intelligence (3 vs 8 dirhams), Umar's backstory (scholar father turned clerk), the Banu Asad standoff and Layla identity fracture, Sa'dan's farewell (hobble cord with drover's hitch), and the approach to Kufa. Key relationships formed on the road: Sa'dan and Sayeed (departed south with Hajj pilgrims at Kufa gate, Ch 3 farewell), Umar deepened (his personal history earned through Yusuf's initiative, not volunteered). Key thematic threads established: "learning to see beneath the surface" (Ch 2), identity fracture — Yusuf is half merchant-system, half Bedouin-tribe (Ch 3), "trade is time" (Ch 3), Kufa as "a wound" (Ch 2-3). Yusuf's one act of agency: reporting the ink merchant intelligence to Umar, reframing it as market analysis.
 
-## Part 2 — The Mountain and the Market (Ch 9-18)
+**Note:** Old Ch 3-5 drafts (Wounded Heart, Poisoned Vat, Suq al-Warraqin) archived to `archive/book-1-drafts/`; content remains valid as plot beats but drafts need rewriting for continuity with the new Ch 2-3. When those chapters are rewritten, update this summary.
 
-*No chapters drafted yet.*
-
-## Part 3 — The Desert, the North, and the Ghost (Ch 19-32)
+## Part 2 — The Mountain and the Market (Ch 10-19)
 
 *No chapters drafted yet.*
 
-## Part 4 — The Choice (Ch 33-37)
+## Part 3 — The Desert, the North, and the Ghost (Ch 20-33)
 
 *No chapters drafted yet.*
 
-## Part 5 — The Byzantine Education (Ch 38-42)
+## Part 4 — The Choice (Ch 34-38)
+
+*No chapters drafted yet.*
+
+## Part 5 — The Byzantine Education (Ch 39-43)
 
 *No chapters drafted yet.*
 

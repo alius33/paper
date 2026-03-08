@@ -1,38 +1,38 @@
 **Status:** Prospective | No ledger entry
 
-## BRIEF: Chapter 17 — The Master's Question
+## BRIEF: Chapter 16 — The Descent
 
-**When/Where:** Baghdad. Abu Said's workshop. Summer 788 CE. Yusuf is 18.
-**Arriving from:** Chapter 16 returned Yusuf from the Zagros — thinner, harder, carrying the Sogdian blueprint and the flash flood losses. Omar al-Dimashqi noted the change. Now Yusuf faces Abu Said's assessment.
+**When/Where:** The Zagros Mountains, return journey westward. Then the Mesopotamian plain. Summer 788 CE. Yusuf is 18.
+**Arriving from:** Chapters 14-15 in Rayy — the Sogdian blueprint, the paper sale, Musa's barbat encounter, the late-night conversation. Yusuf is more confident. The mountains will correct this.
 
 ### Characters Present
-- **Yusuf:** Changed by the journey. Carrying knowledge he does not yet know how to articulate — the Sogdian blueprint, the Kurdish honour code, the flash flood's lesson in humility. He describes the suftaja system to Abu Said and discovers that his master already knows. The revelation reframes everything Abu Said has taught him.
-- **Abu Said al-Samarqandi:** More interested in what Yusuf learned than what he earned. His debrief is pedagogy — questions, not praise. When Yusuf describes the Sogdian suftaja system, Abu Said responds with his most important revelation: "My teacher in Samarkand was a Sogdian. They build everything on trust, and trust can be weaponised." This does double work — confirms the Sogdian connection and introduces the theme that trust, like paper, is a medium that can carry any message, including a destructive one.
-- **Omar al-Dimashqi:** His new, finer paper grade is ready. Abu Said examines it and smiles — rare praise. The craft world has continued in parallel with Yusuf's commercial education. The workshop produces excellence while Yusuf chases knowledge on the road. This seeds the future partnership: Omar makes, Yusuf sells.
+- **Yusuf:** Riding high after Rayy — the successful sale, the Sogdian revelation, the sense of having glimpsed his future. The mountains humble him. A flash flood sweeps away supplies. The terrain does not care about his ambitions. Physical reality reasserts itself. He arrives in Baghdad thinner, harder, carrying the blueprint — and carrying the knowledge that the world is dangerous in ways ambition cannot account for.
+- **Umar (Ustad Umar):** Watchful on the descent. Flash floods are more dangerous than bandits. His vigilance reveals the mountain's dangers without exposition. He reads weather and terrain with the same alertness he brought to the ascent.
+- **Musa ibn Tariq:** Physically harder now. The journey has changed his body as the music changed his art. He carries himself differently. He is quieter, steadier — still warm but with a new gravity. He is no longer the city boy struggling on mountain paths.
+- **Omar al-Dimashqi (mentioned):** His comment upon Yusuf's return — "You left as a paper-maker. You came back as something else" — is the chapter's closing beat (or the bridge into Ch 17).
 
 ### What This Chapter Must Accomplish
-- Dramatise Abu Said's debrief as a teaching scene. Abu Said does not praise the successful sale or criticise the flash flood losses. He asks questions. What did Yusuf see? What did he learn? What surprised him? The pedagogy is Socratic — Abu Said leads Yusuf to his own conclusions, then adds one devastating insight.
-- Deliver Abu Said's Sogdian revelation. His comment about his Samarkand teacher transforms how the reader (and Yusuf) see Abu Said. He is not just a demanding craftsman — he is the last link in a chain of Sogdian commercial wisdom stretching back centuries. His precision, his insistence on standards, his teaching through demonstration — these are the remnants of a civilisational system. The revelation should feel like a door opening: what Yusuf discovered in Rayy is not foreign. It is the tradition his own master comes from.
-- Introduce the "trust can be weaponised" warning. This is the thematic seed of Book 2. Abu Said plants it casually, embedded in a larger conversation, but it is the most important sentence in Part Two. It links directly to the Barmakid Gamble (Book 2) where Yusuf will weaponise trust to strip the Barmakids' assets.
-- Show Omar al-Dimashqi's new paper grade. The craft world is alive. Omar has been doing excellent work while Yusuf was on the road. Abu Said's rare smile of approval validates Omar's artisanal path. The chapter quietly argues that both paths — the craftsman's and the merchant's — have value. But the men who carry each capacity are diverging.
-- Ground the reader back in the workshop's sensory world. After the mountains and Rayy, the workshop smells (lime, wet rags, steam, fine white dust) are home. But Yusuf's relationship to home is changing. He notices details he missed before — the workshop seen with traveller's eyes.
-- Stealth thesis: the greatest teachers do not tell you what to learn. They wait until you have learned it, then show you that they knew all along.
+- Show the return journey through the Zagros as a mirror of the ascent. Same terrain, but Yusuf sees it differently. He notices things he missed on the way up: a fire temple ruin on a hillside, a Zoroastrian village where fire is tended in a roofless enclosure, goatherds whose children have never seen Baghdad. The world is larger and more diverse than his first pass revealed.
+- Dramatise the flash flood as a real hazard. A summer storm turns a dry gorge into a roaring torrent. Supplies are swept away. The cost is material — fewer goods for the return, tighter margins, physical exhaustion. This is the "too competent" corrective: Yusuf cannot control everything. Nature does not negotiate.
+- Register economic observation on the return. Yusuf notices that goods change with terrain: Kurdish mountains trade in animals, wool, and steel; plateau caravansaries trade in grain, dried fruit, textiles; Mesopotamian plain shifts to canal-irrigated agriculture and manufactured goods. The geography of trade is the geography of landscape.
+- Show Musa's physical transformation. He is harder, quieter, steadier. The journey has changed him. This is visible in how he walks, how he carries his oud, how he handles the flash flood — not with panic but with a new calm.
+- End with Baghdad appearing as a distant smudge of smoke and dust on the western plain. The return should feel like arrival at a familiar place that is no longer quite the same — because Yusuf is no longer quite the same.
+- Stealth thesis: the descent is harder on the body than the ascent, and the return to the known world is harder on the mind than the departure. You cannot go home unchanged.
 
 ### Continuity
-- Abu Said's Sogdian heritage has been present throughout (his Sogdian name, his precision, his Samarkand origins) but is confirmed explicitly here. This retroactively enriches every Abu Said scene in Chs 1-8.
-- "Trust can be weaponised" is the most important planted line in Part Two. It pays off directly in Book 2 (the Barmakid Gamble, where Yusuf uses trusted relationships to acquire assets at fire-sale prices) and in Abu Said's parting speech (Ch 32): "I taught you to make paper that endures. You have just shown me that you are willing to burn everything for a single profit."
-- Omar al-Dimashqi's new paper grade seeds the founding partnership (Ch 35-37). Omar makes the product; Yusuf sells it. Their complementary skills are the foundation of the House of Paper.
-- The trust theme graduates through Part Two: trust-by-blade (Ch 13, Kurdish chieftain), trust-by-paper (Ch 14, Sogdian suftaja), trust-by-craft (this chapter, Abu Said's tradition). Each form of trust has its own logic and its own vulnerability.
-- The workshop sensory return is the "return-journey displacement" principle applied to a domestic setting — the same smells, but Yusuf perceives them differently.
+- The flash flood costs supplies, tightening the financial outcome of the Rayy journey. This affects Abu Said's assessment in Ch 17 — the journey was profitable but not as profitable as planned.
+- Yusuf's observation that goods change with terrain seeds his future network strategy: each branch of the House of Paper will be calibrated to its local economy.
+- The fire temple and Zoroastrian village echo the religious diversity seeded in Ch 15. They deepen the world without requiring a new thread.
+- Musa's physical transformation is complete. When he plays the oud in Baghdad again, his technique incorporates the barbat encounter from Ch 15.
+- Omar al-Dimashqi's line ("You left as a paper-maker. You came back as something else") is a character mirror — Omar sees what Yusuf cannot yet name about himself. This foreshadows their divergence: Omar remains a craftsman; Yusuf is becoming something else.
 
 ### Voice Reminders
-- Sensory lead: The workshop smells dominate — lime, wet rags, steam, pulping hammers, fine white dust in the finishing room. Abu Said's office: ink and the quiet rustle of paper. These are home, and the prose should carry both comfort and the subtle alienation of a man who has outgrown his context.
-- Prose rhythm: The debrief scene should alternate between Yusuf's narrative (recounting the journey) and Abu Said's questions (short, precise, cutting). The Sogdian revelation should land in a single dense paragraph — the moment of understanding compressed. Omar al-Dimashqi's paper scene should be warmer, slower — craft appreciated for its own sake.
-- Dialogue: Abu Said is at his most characteristic here — questions rather than statements, silences louder than words. His Sogdian revelation is delivered almost casually, then amplified by a single warning. Yusuf is more voluble than usual, excited by what he has learned, and Abu Said's quiet responses make him feel, paradoxically, both validated and exposed.
+- Sensory lead: TOUCH dominates — summer heat in the passes, the roar of water, mud and debris, wet rock, the exhaustion of climbing down (harder on the body than climbing up). Smell: torn vegetation after the flood, wet stone, the relief of clean air after mud. Visual: Baghdad as a distant smudge of smoke — the final image.
+- Prose rhythm: The flash flood scene should be fast, short sentences, selective sensory detail (only what the body registers under stress). The return march can be medium-paced, reflective but physical. The final approach to Baghdad should slow down, become contemplative — the prose registering the strangeness of returning.
+- Belgariad technique: Return-journey displacement. Familiar places feel different because the traveller has changed. The Khorasan Gate will look the same; Yusuf will not feel the same passing through it. Use sensory echo — the same smells and sounds as the departure in Ch 11, but filtered through changed perception.
 
 ### Deep Research (if needed)
-- `research/digests/vaissiere--sogdian-traders.md` — Sogdian heritage, commercial traditions, Samarkand connection
-- `research/digests/hansen--silk-road.md` — Sogdian merchant practices, trust systems
-- `research/world-building/paper-mill-apprenticeship.md` — workshop hierarchy, paper grades
-- `research/digests/hunter--papermaking.md` — paper finishing, new grades, technical innovation
-- `research/craft/rayy-journey-worldbuilding-plan.md` — Chapter 17 notes, Abu Said debrief structure
+- `research/journeys/j3-paper-road-to-rayy.md` — return route, summer conditions, flash flood hazards
+- `research/journeys/j3-mountain-passage-zagros-year6.md` — Zagros summer weather, terrain dangers
+- `research/digests/frye--golden-age-of-persia.md` — Zoroastrian communities, rural Persian landscape
+- `research/craft/MASTER-PLAN-journey-worldbuilding.md` — return-journey displacement technique

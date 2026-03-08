@@ -1,39 +1,37 @@
 **Status:** Prospective | No ledger entry
 
-## BRIEF: Chapter 34 — Paper Is Real
+## BRIEF: Chapter 33 — The Inheritance
 
-**When/Where:** Ali's home and tile workshop, Baghdad. Late 790 to early 791 CE. Yusuf is 20-21.
-**Arriving from:** Ch 33 — the trust revealed. Yusuf has spent days or weeks turning the inheritance over in his mind, seeing not the paper shop Ali imagines but a trading house that deals in paper, credit, and information. He has come to tell his father what he intends to build.
+**When/Where:** Ali's home near the Khorasan Gate, Baghdad. Late spring or early summer 790 CE. Yusuf is 20.
+**Arriving from:** Ch 32 — the reckoning with Abu Said. Yusuf has been expelled from the workshop. He carries ~4,000 dinars in silk profits, Abu Said's parting warning ringing in his ears, and no master, no workshop, no professional home. Weeks have passed. He is adrift.
 
 ### Characters Present
-- **Yusuf:** Certain, articulate, passionate — and afraid. This is the hardest conversation of his life. He loves his father. He is about to wound him. He has rehearsed his arguments but Ali's resistance will force him into territory he has not prepared for. By the end, he should have said things he did not know he believed until they came out of his mouth.
-- **Ali ibn Suleiman:** Initially confused, then alarmed, then deeply troubled. He does not shout or forbid — that is not Ali. He argues from first principles: the value of things you can hold, the danger of abstraction, the permanence of craft versus the volatility of finance. His greatest weapon is his sincerity. He is not wrong.
+- **Yusuf:** At his lowest professional point but financially flush. The silk profits burn in his chest like a secret. He is between worlds — no longer an apprentice, not yet a merchant. Restless, bruised, still processing Abu Said's speech. When Ali summons him, he expects a lecture.
+- **Ali ibn Suleiman:** Measured, deliberate, serious. This is Ali at his most authoritative — not the worried father but the family patriarch revealing a burden carried for decades. His hands, permanently stained with glaze, handle the trust documents with reverence. He has been waiting for this moment, though not under these circumstances.
 
 ### What This Chapter Must Accomplish
-- **The central philosophical argument of the series.** This must be the scene readers remember. Two visions of the world — Ali's (physical craft, tangible value, things that endure because they are real) versus Yusuf's (abstract instruments, trust-based systems, paper as a medium for moving value beyond the reach of any single craftsman). Neither is wrong. Both are incomplete.
-- Ali's key line: "Paper is real. You can touch it. What you describe is writing on air." This must land with devastating simplicity.
-- Yusuf's counter must be equally strong. He has seen the *suftaja* system in Rayy, the Sogdian networks, the Byzantine banking tables. He knows that the future belongs to whoever controls the flow of information and credit, not just the production of goods. But he must articulate this without sounding like he is lecturing his father.
-- Ali's line "I have built things that will stand for a hundred years" must carry the weight of the Khorasan Gate tiles — visible from the rooftop, enduring, beautiful. Yusuf cannot argue against the tiles. He can only argue that the world needs more than tiles.
-- **The uneasy settlement:** Yusuf takes the trust. He will combine it with his silk profits. He will pursue his vision while honouring the rule ("leave the river fuller"). Ali does not bless the plan — he permits it, which is different. The wound is real.
-- Show the emotional cost to both men. Ali feels he is losing his son to a world he cannot follow. Yusuf feels he is betraying the man who gave him everything. Both are right.
-- **Thematic depth:** This argument will echo through the entire series. Every time Yusuf's abstract financial instruments succeed, Ali's warning gains complexity. Every time they fail (the Barmakid Gamble, the Samarkand crisis), Ali's warning is vindicated. The argument is never resolved because it cannot be resolved.
+- Reveal the family trust: grandfather Suleiman's investment fund, grown to ~6,000 dinars through conservative commercial ventures over decades. The cedarwood chest, the old documents, the rule: "the guardian must leave the river fuller than he found it."
+- Show Ali's hidden competence — he is not financially naive; he has been a careful steward of generational wealth. This reframes every earlier scene where Yusuf underestimated his father's understanding of commerce.
+- Plant the divergence: Ali envisions Yusuf opening a respectable paper shop. Yusuf, looking at the same number, sees the seed capital for a trading house. Neither reveals the full shape of their vision yet — that argument belongs to Ch 34.
+- Ground the trust in physical objects: the chest, the documents (written on paper — note the irony), the weight of old ink, the smell of cedarwood.
+- Stealth thesis: What a father gives his son is not money but a set of expectations about how to use it.
 
 ### Continuity
-- "Paper is real" becomes a recurring motif — echoed in Book 2 when Yusuf creates the watermark (making trust visible in paper), in Book 3 when Harun asks what paper is truly worth, and in Book 4 when the Khorasan Gate tiles survive the siege but the House's paper records are nearly destroyed
-- The pouch of desert sand should be in Yusuf's pocket — Layla's presence hovering over this conversation between the two men she loved
-- Abu Said's parting speech ("Reconcile those two things, or you will destroy yourself") echoes here: Ali and Abu Said are saying versions of the same warning from different angles
-- The Khorasan Gate tiles must be visible — ideally from the room where the argument happens. The physical craft, watching.
-- This chapter establishes the philosophical framework that makes the Book 2 watermark innovation so significant: Yusuf's answer to his father's challenge is to make the abstract tangible — trust pressed into paper, visible only in the right light
+- The cedarwood chest foreshadows the *Daftar al-Asrar* (Book of Secrets) that Yusuf will keep in a similar chest throughout Books 2-4
+- Ali's mention of grandfather Suleiman pays off the seed planted in Ch 18 (Ali telling Yusuf about Suleiman) and connects to the Merv visit (Ch 27) where Yusuf saw the family kiln
+- The ~6,000 dinars combined with ~4,000 from silk gives Yusuf ~10,000 dinars — enough to found the House. This math must be precise and traceable
+- Ali names Yusuf as guardian, implicitly passing over Omar (the soldier) — a choice that should register quietly but carry weight
+- The "river fuller than he found it" rule echoes across the series: every financial decision Yusuf makes can be measured against it
 
 ### Voice Reminders
-- Sensory lead: sound — Ali's deliberate voice, the silence between exchanges, the distant *thump* of hammers from the workshop, the *adhan* marking time passing during a conversation that might span hours.
-- Prose rhythm: this chapter must breathe. Long pauses rendered as paragraph breaks. The argument is not rapid-fire — it is two men circling a truth neither can fully articulate. Sentences shorten at the moment of Ali's key line. Then the prose opens out again as the implications settle.
-- Dialogue: the most sustained father-son dialogue in the series. Ali speaks in concrete images (tiles, foundations, cracks, glaze). Yusuf speaks in systems and flows (rivers, roads, networks). Their metaphor worlds do not overlap — that is the point.
-- **Critical warning:** Do not let either man "win" the argument. The reader must finish the chapter holding both positions simultaneously. If the scene reads as Yusuf being right and Ali being wrong, it has failed. If it reads as Ali being right and Yusuf being naive, it has also failed.
+- Sensory lead: touch dominates. The cedarwood chest under Yusuf's fingers, the old paper of the trust documents (crinkled, yellowed, but intact — paper endures), Ali's calloused hands placing them on the table.
+- Prose rhythm: slow, deliberate, matching Ali's cadence. This is an intimate domestic scene. Long paragraphs. The silence between father and son doing as much work as the words.
+- Dialogue: Ali speaks in craft metaphors, as always. Short, weighty sentences. Yusuf is mostly listening — a rare posture for him.
 
 ### Deep Research (if needed)
-- `research/finance/partnership-finance-empire.md` — mudaraba, trust structures, the financial world Yusuf is proposing to enter
-- `research/characters/ali-workshop.md` — Ali's craft philosophy, his voice
-- `research/world-building/baghdads-paper-trade.md` — the commercial landscape of paper in Baghdad
-- `research/characters/ali-decided-on-paper.md` — Ali's understanding of paper's significance
-- `research/plot/plot-promises.md` — thematic threads this scene must plant
+- `research/finance/partnership-finance-empire.md` — Abbasid trust/guardianship structures, capital amounts
+- `research/characters/ali-workshop.md` — Ali's character, the workshop world
+- `research/characters/ancestry-of-yusuf.md` — Suleiman's history, the family's Khorasani roots
+- `research/characters/family-tree-of-yusuf.md` — generational wealth patterns
+- `research/world-building/a-tour-of-baghdad.md` — Khorasan Gate neighbourhood, Ali's home
+- `research/characters/lives-of-yusufs-ancestors.md` — the trust's origins in Merv

@@ -1,37 +1,38 @@
 **Status:** Prospective | No ledger entry
 
-## BRIEF: Chapter 38 — The Edge of the World
+## BRIEF: Chapter 37 — The Gate at Dawn
 
-**When/Where:** The journey from Baghdad to the Byzantine frontier, culminating at the Cilician Gates. Spring-summer 793 CE. Yusuf is 23.
-**Arriving from:** Ch 37 — two years have passed since the founding. The House of Paper is operational but struggling against established competitors in Baghdad's paper market. Yusuf has decided on Constantinople as his breakthrough market. He has hired Yonan al-Nasrani as his guide.
+**When/Where:** Yusuf's rooftop near the Khorasan Gate, then the House of Paper premises, Baghdad. Late 791 CE. Yusuf is 21.
+**Arriving from:** Ch 36 — the House is founded. The early weeks or months of operation. The business is running but not yet thriving. Baghdad's paper market is competitive, controlled by established families.
 
 ### Characters Present
-- **Yusuf:** Two years older, harder, more experienced — but about to enter the most alien environment of his life. He has crossed mountains (Zagros), deserts (Damascus road), and steppe (Merv road). But every previous journey stayed within the Islamic world. This time he is leaving the *Dar al-Islam* entirely. His confidence is real but will be tested by something new: the experience of being categorically foreign.
-- **Yonan al-Nasrani:** The cynical, worldly Nestorian guide. Speaks Greek, Syriac, Arabic, and Persian. Belongs to both worlds and neither. His sardonic commentary frames the crossing with historical perspective: "Every empire thinks it's the first. Every empire thinks it's the last." Yonan has done this crossing before. For him, the border is a line drawn on air. His value to Yusuf is not just linguistic — he is a cultural interpreter, a fixer, and a man who sees power structures as machines to be navigated rather than values to be respected.
-- **Caravan companions (minor):** The Constantinople caravan should include a few distinctive figures — perhaps Nestorian gem traders who know the Anatolian roads, a Persian silk merchant seeking Byzantine buyers. Keep this cast lean; the focus is on Yusuf and Yonan.
+- **Yusuf:** Reflective, alone at dawn. This is a pause before the final movement of Book 1. He stands on the rooftop where he has stood since childhood, looking east through the Khorasan Gate — toward Merv, the Silk Road, the world. The pouch of desert sand is in his pocket, unopened since Layla's death. He has built something. Now he needs a road to the wider world.
+- **Omar al-Dimashqi (heard, not seen):** The rhythmic *thump, thump, thump* of pulping hammers from the workshop below. Omar is already working. The sound of paper being made — the physical reality beneath Yusuf's abstractions.
+- **Ishaq bar Yohannan:** Arrives with a ledger under his arm. The business mind, already at work. A brief exchange — numbers, a problem, a solution. The daily rhythm of the House establishing itself.
+- **Ali ibn Suleiman (present through the tiles):** The Khorasan Gate tiles — Ali's masterwork — catch the first light. Turquoise and cobalt, glowing in dawn. Yusuf sees his father's craft every morning. The gate faces east. So does Yusuf.
 
 ### What This Chapter Must Accomplish
-- **The frontier crossing as the book's most dramatic threshold.** Unlike every previous journey, this one takes Yusuf outside everything he knows. The shift must be felt viscerally — through the senses, through the absence of familiar things.
-- **Compress the journey.** The reader has experienced five detailed trade journeys already. Open this chapter well into the journey — at Antioch or the frontier itself — and use Yonan's conversation and Yusuf's memories to establish the earlier legs. The accumulated distance should register through weariness, not day-by-day narration.
-- **The Cilician Gates:** Single-file passage through the Taurus Mountains. The last *adhan* heard at the final Muslim settlement. Rock walls pressing close. Cold, thin air after months of heat. Then the other side: the first cross on a watchtower, the first church bells, the first faces that look at Yusuf with categorical hostility — not personal but civilisational.
-- **The language barrier:** For the first time in his life, Yusuf is functionally mute. He cannot eavesdrop, cannot read signs, cannot charm, cannot argue. He is entirely dependent on Yonan, and this dependency inverts every power dynamic he has maintained on previous journeys. Show this through a specific failed interaction — Yusuf tries to communicate and cannot.
-- Stealth thesis: The edge of the world is not a place but a silence — the moment when everything you know how to say becomes useless.
+- Serve as the hinge between Part Four (The Choice) and Part Five (Constantinople). This is the breathing chapter — a lyrical pause that establishes where Yusuf stands before launching into the most alien journey of the book.
+- Show the House of Paper in its early days: functioning but fragile. Omar making paper. Ishaq tracking accounts. Yusuf selling, negotiating, building relationships in the Suq al-Warraqin. The routine of a young business.
+- Establish why Constantinople: Baghdad's market is locked up by older families. The House needs a market that no competitor has claimed. Constantinople — the rival empire, the most foreign destination imaginable — is both the biggest risk and the biggest potential reward.
+- The Khorasan Gate at dawn: the chapter's central image and the motif that bookends the novel. Yusuf has looked at this gate his whole life. His father built the tiles on it. It faces east — toward origin, possibility, danger. Now Yusuf will go west for the first time. The gate is both anchor and launching pad.
+- The pouch of desert sand: still in his pocket, still unopened. Layla's gift, carried since he was twelve. Its presence is enough — no need to dramatise it heavily. It simply is there, as it has always been, as it will be through Book 3.
+- Stealth thesis: "Yusuf has built a gate of his own. Now he needs a road."
 
 ### Continuity
-- The last *adhan* heard at the frontier is the setup for Constantinople's church bells (Ch 39). The prayer rhythm that has structured every previous journey is about to vanish.
-- Yonan's introduction here must establish him firmly enough to carry three more chapters. His voice, his cynicism, his usefulness — all must land quickly.
-- The frontier crossing echoes the Zagros crossing (Chs 11-12) but inverts it: the Zagros was a physical barrier within the Islamic world; the Cilician Gates are a civilisational barrier.
-- The Anatolian landscape — greener, wetter, more densely settled — contrasts with every previous road Yusuf has walked. The air carries salt as they approach the Sea of Marmara. This sensory anticipation builds toward the Ch 39 arrival.
-- Two years of the House's operation (791-793) are compressed into the gap between Ch 37 and Ch 38. A line or two of Yusuf's reflection can sketch the situation: steady but not growing, competent but not dominant, needing a breakthrough.
+- The Khorasan Gate tiles are the series' most durable symbol of Ali's craft. They appear in Ch 7 (home chapter), here, and will survive the siege in Book 4 — the endurance of physical craft versus the fragility of financial systems.
+- The pouch of sand connects: Layla's death (782 CE, backstory), the desert crossing (Ch 20), the Merv visit (Ch 27), and will be opened for the first time in Book 3's crisis.
+- The dawn rooftop scene will be echoed in Ch 42 (the return from Constantinople) — the same vantage point, but Yusuf transformed.
+- The *adhan* sounding over the scene connects the daily prayer rhythm to Yusuf's daily life. In Constantinople (Chs 38-42), the *adhan* will be replaced by church bells — the most disorienting sensory shift of the book.
+- Two-year time jump to Constantinople (793 CE) happens between this chapter and Ch 38. The gap should be acknowledged but not narrated — the reader understands the House has been operating for two years.
 
 ### Voice Reminders
-- Sensory lead: sound — the last *adhan*, the silence of the mountain pass, the first church bells. Then smell: the air changing from dry steppe to mountain pine to damp, salt-tinged coastal air. The sensory environment itself tells the story of the crossing.
-- Prose rhythm: compressed for the journey segments (Yusuf is experienced now; the prose should move faster than in earlier journeys). Then slowing dramatically at the Cilician Gates — the pass demands attention, detail, physical claustrophobia. Short sentences for the crossing. The chapter should feel like a held breath released into alien air.
-- Dialogue: Yonan's voice is the chapter's primary texture. Sardonic, instructive, oblique. He does not explain — he comments. His observations should feel like a man who has seen too much to be impressed by borders but too little to stop being entertained by them.
+- Sensory lead: visual for once — the tiles catching first light, the gate's silhouette, the city waking. Then sound: the *thump* of hammers, the *adhan*, Ishaq's footsteps. This chapter earns its visual primacy because the Khorasan Gate is the series' most important image.
+- Prose rhythm: lyrical, spacious, unhurried. This is the novel's penultimate pause before the Constantinople movement. Sentences can be longer, more meditative. Short paragraphs for moments of clarity. The chapter should feel like a held breath.
+- Dialogue: minimal. A brief exchange with Ishaq — practical, warm, lightly humorous. The chapter belongs to Yusuf's interiority and to the images.
 
 ### Deep Research (if needed)
-- `research/journeys/abbasid-caravan-constantinople.md` — the full route, the frontier zone, the Cilician Gates
-- `research/craft/constantinople-worldbuilding-plan.md` — section 1 (the journey to Constantinople)
-- `research/craft/MASTER-PLAN-journey-worldbuilding.md` — Part Five chapter guide, sensory palette for Constantinople
-- `research/digests/kennedy--armies-of-caliphs.md` — the militarised frontier, border towns
-- `research/digests/bartlett--making-of-europe.md` — Byzantine-Islamic frontier dynamics
+- `research/world-building/a-tour-of-baghdad.md` — Khorasan Gate, the view from the neighbourhood
+- `research/world-building/round-city-neighborhood.md` — the Khorasan Gate quarter at dawn
+- `research/characters/ali-workshop.md` — the tiles, their significance
+- `research/world-building/baghdads-paper-trade.md` — competitive landscape, why the House needs new markets

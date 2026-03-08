@@ -1,49 +1,53 @@
 **Status:** Drafted | Ledger entry exists
 
-## BRIEF: Chapter 4 — The Poisoned Vat
+## BRIEF: Chapter 3 — The Wounded Heart
 
-**When/Where:** Abu Said's paper workshop, Baghdad. Late spring/early summer 787 CE, spanning several weeks. Yusuf is 17.
-**Arriving from:** Chapter 3 ended with Yusuf leaving Kufa, carrying lessons about trust, political memory, and the gap between value and price. He has sold 37 sheets (24 on consignment, the rest to individual scribes). A modest result. He returns to a workshop that has continued without him.
+**When/Where:** Kufa, the old capital. Three days in the city. Spring 787 CE. Yusuf is 17.
+**Arriving from:** Chapter 2 ended with Yusuf not wanting the road to end. He has bonded with Sa'dan and Sayeed. Umar has warned him that Kufa is a wound. Yusuf has learned that information is a commodity and time is money. His legs have adapted; his mind is wide open.
 
 ### Characters Present
-- **Yusuf:** Disoriented by return — the workshop seems smaller, the courtyard bounded. Absorbing *siyaq* accounting in Abu Said's office each morning. Aware of Jabir's resentment but does nothing. On the roof after Jabir's dismissal, he draws the moral distinction between Tariq's theft and Jabir's sabotage: "Need is a wound... Want is a poison."
-- **Abu Said al-Samarqandi:** Compressed stillness, eyes like strong tea. Debriefs Yusuf with surgical precision — asks questions he already knows the answers to. Reveals the Kufa trip was designed to teach, not to sell. Introduces *siyaq* accounting. Dismisses Jabir with devastating quietness: no shouting, no public shame, a failed sheet of paper as the sentence.
-- **Omar al-Dimashqi:** The head journeyman. First to greet Yusuf back ("The traveller returns"). Discovers the sabotaged vat at the third watch. Wakes Yusuf, and they fix it together overnight. His rooftop conversation with Yusuf is the chapter's emotional climax — explains Abu Said's strategy of quiet dismissal, validates Yusuf's guilt, and delivers the judgement: "Most apprentices learn the craft. You are learning the people."
-- **Jabir ibn Malik:** The saboteur. Son of a cloth merchant. Thick hands, face of mild dissatisfaction. Was the most promising apprentice before Yusuf arrived. The resentment is in his posture, his silence, his turned back. Does not speak during his dismissal. Walks out without looking at anyone.
+- **Yusuf:** Arrives expecting grandeur, finds a city that crouches. Blurts out the wrong thing at Khalid ibn Dawud's shop ("Because this paper is better"), then self-corrects by giving paper to Tariq and a student. His first commercial failure and his first improvised strategy. Leaves Kufa changed.
+- **Ustad Umar:** Emotionally cracked open at the Great Mosque (his uncle died on this road). Reports to Abu Said first, privately. Teaches the lesson of multiple stories: "You must learn to hold many stories at once, and know which one to tell in which room."
+- **Sa'dan and Sayeed:** Farewell at the city gate. Brief, caravan-style. Sa'dan's parting line is about Biter the camel. Sayeed clasps hands and grins. They vanish into the Hajj column heading south.
+- **Tariq:** The bread thief. Fourteen, barefoot, thin ("bones of his wrists stood out like knots in a reed"). Patches neater than the garment. Sits outside the study circle memorising grammar he cannot afford to write down. Gives Yusuf the line: "I need paper more than anyone you've spoken to, and I can't buy it."
+- **Khalid ibn Dawud:** First stationer. Large, neatly bearded, ink in his knuckle-creases. Twelve years of trusted suppliers. Rejects the paper not on quality but on relationships and resentment of Baghdad. His unfinished sentence is the chapter's sharpest moment.
+- **Abu Yaqub:** The grammarian. Small with enormous ink-stained hands. Examines the paper like Ali examines a tile. Takes 24 sheets on consignment. Delivers the chapter's political lesson: "Do not come here and tell us that Baghdad's way is better. We have heard that before, and it cost us everything."
+- **The *sarrafs*:** Two money-changers in the khan courtyard, sorting coins at inhuman speed. Not characters but a motif — Yusuf watches them and begins to sense "the shape of something in the dark."
 
 ### What This Chapter Must Accomplish
-- Return Yusuf to the workshop and show the disorientation of homecoming (the workshop smells the same; Yusuf does not)
-- Abu Said's debrief: reveal that the Kufa trip was a teaching mission ("I expected you to sell very little paper. I did not expect you to fail. Those are not the same thing.")
-- Introduce *siyaq* accounting — the wall between those who know and those who do not
-- The Jabir arc: three weeks of building tension, then the sabotaged sizing vat (sand in the starch), overnight repair with Omar, Abu Said's quiet dismissal
-- The moral comparison between Tariq (need) and Jabir (want) — Yusuf's first serious moral analysis
-- Omar's rooftop speech: Abu Said's strategy of treating dismissed apprentices with dignity as both kindness and strategy; Yusuf's observational gift named for the first time
-- Plant the sizing formula: Abu Said will teach Yusuf the full formula tomorrow. "He says you have earned it."
+- Dramatise Yusuf's first commercial failure: five stationers reject the paper. The lesson is not about quality but about trust, relationships, and political memory.
+- Establish Kufa as a city defined by its wound: the Abbasid revolution's broken promise, the capital's relocation to Baghdad.
+- Introduce Tariq — the bread thief who knows grammar better than the paying students. His existence reframes what paper means.
+- Show Yusuf learning in real time: the "Scholar's Cream" improvisation at Abu Yaqub's shop.
+- Plant the *sarraf* motif and the *mudaraba* argument at the khan — commercial concepts that pay off in Ch 5.
+- Achieve a small foothold: 24 sheets on consignment plus scattered sales to scribes. Not a triumph, but a beginning.
+- Stealth thesis: "The people who valued it could not afford it. The people who could afford it did not value it."
 
 ### Continuity
-- The iron chest is lighter but not empty (37 of the original samples sold). Twelve dirhams of profit, below costs — a net loss by the numbers.
-- Yusuf remembers Tariq explicitly: his thin fingers, the Caliph's Cream folded against his chest, the bread theft. Tariq is the chapter's moral counterweight to Jabir.
-- The contaminated sizing batch was from Jabir's time — the fallout reaches Mansur the scribe in Ch 5 (three sheets that bled)
-- Omar's rooftop comment about Layla: "Your mother told you to watch what people do, not what they say" — first confirmation that Yusuf's observational ability is recognised by others
-- Abu Said's half-finished sheet kept in a drawer for dismissals — a detail that characterises his preparedness
-- The Khorasan Gate tiles visible from the roof, glowing amber — Ali's craftsmanship as a recurring motif. Tiles "invisible now" in the dark but "always there."
-- Jabir is given a failed sheet as proof of dismissal. This pairs with Tariq (holding the Caliph's Cream) in the chapter's closing reflection: "Two boys, each holding a single sheet from the same workshop."
-- Six key-holders to the sizing room: Abu Said, Omar, Yusuf, Jabir, two junior apprentices.
+- The iron chest is opened for the first time: twelve sheets of the Caliph's Cream in cotton wadding. Yusuf helped make some of these.
+- Yusuf carries two sheets inside his robe. Gives one to Tariq, one to the student. These are never recovered.
+- Sa'dan's farewell: "Keep your hands away from Biter's mouth." This is his last appearance in the drafted chapters.
+- Sayeed's farewell: "Al-Muin's men. Everyone knows us." Plants possible reunion.
+- Tariq's thin fingers folding the paper "with extraordinary care — precise, deliberate folds, the folds of a boy who understood that some things, once creased wrong, could not be uncreased" — this image recurs in Ch 4 as Yusuf reflects on the roof.
+- The *mudaraba* argument (rabb al-mal, mudarib, risk-sharing) overheard at the khan — first exposure to Islamic commercial law, paid off in Ch 5 through Omar's suftaja lesson.
+- Khalid ibn Dawud's unfinished sentence ("In a city that stole our future") and Abu Yaqub's speech about the revolution plant the political theme that runs through the series.
+- Abu Yaqub: 24 sheets on consignment, with a promise of future orders — creates a Kufa foothold referenced in Abu Said's debrief (Ch 4).
 
 ### Voice Reminders
-- Sensory lead: SMELL for the workshop return (lime, soaking rags, drying paper — "a wall of scent so familiar it made his chest tighten"). The sizing room sabotage: the mineral wrongness of stone dust where cooked wheat should be. The rooftop: cooking fires, river mud, lime from below.
-- Prose rhythm: The Abu Said debrief is tightly controlled — short questions, precise answers. The overnight repair is "brutal, precise, exhausting" — medium-paced craft writing. The rooftop conversation between Yusuf and Omar is the chapter's breathing space — longer, reflective sentences.
-- Dialogue: Abu Said is the most distinctive voice here — questions rather than lectures, silences louder than words. Omar on the roof is warmer than anywhere else — the closest he comes to affection. Jabir does not speak during his dismissal; his silence is the point.
-- The chapter spans weeks but each scene is grounded in a specific moment. The *siyaq* lessons are compressed ("the weeks that followed") — the only time-compression passage.
+- Sensory lead: SOUND for Kufa (softer noise, worn rhythms, "even the buildings had been rounded by wind and time"). Smell for the khan at night (grilled meat, cumin, date syrup, woodsmoke). The Great Mosque: silence and shadow.
+- Prose rhythm: The failed sales demand quick, compressive scenes — enter, pitch, refuse, leave. The Tariq scene slows down, becomes tender. The khan gallery scene at night is reflective, long-sentence, accretive.
+- Dialogue: Khalid ibn Dawud is flat and weary. Abu Yaqub is expressive and sharp. Tariq is precise beyond his years — his grammar summary is delivered "the way a craftsman displays his best work." Umar's political lesson is his second most sustained speech: "You cannot carry only one story in your head."
+- This is the longest chapter (~7,000 words). Maintain pacing through the five-scene structure: farewell, failed sales, Tariq, Abu Yaqub, khan gallery reflection.
 
 ### Enhancement Priorities
-- Ground the return in physical contrast: push Yusuf's disorientation further — the smallness of the courtyard after the desert, the closeness of walls after days of open sky. One or two sentences of spatial vertigo.
-- The *siyaq* lessons could reveal something about bureaucratic Baghdad: Abu Said could mention that the Caliph's own *diwan* uses this script, connecting Yusuf's education to state finance and foreshadowing Books 2-3.
-- Jabir's departure: one concrete physical detail (the sound of his sandals, the light on his back) to give the scene a visual anchor beneath the deliberate restraint.
+- The Great Mosque as physical space: add one or two specific architectural details (wear on stones, light falling differently through an older design) to make the Shi'a wound visible in the building itself
+- Study circles: differentiate the circles by subject (grammar, law, recitation) with brief physical details — a teacher drawing letter forms on slate, students arguing aloud, murmuring in unison
+- The *sarraf* scene: have Umar or a stranger explain one specific transaction (a coin's provenance, why it is suspect) to create a cleaner through-line to Ch 5's trust synthesis
 
 ### Deep Research (if needed)
-- `research/world-building/paper-mill-apprenticeship.md` — workshop hierarchy, technical papermaking process
-- `research/characters/abu-said-master-of-karkh.md` — Abu Said's teaching methods, workshop management
-- `research/digests/hunter--papermaking.md` — sizing chemistry, sabotage plausibility
-- `research/digests/gacek--arabic-manuscripts.md` — *siyaq* script, Arabic accounting practices
-- `research/world-building/baghdads-paper-trade.md` — workshop economics, Baghdad paper market
+- `research/journeys/j2-journey-to-kufa.md` — Kufa city layout, Great Mosque description
+- `research/world-building/abbasid-revolution.md` — the revolution's promise to Kufa, the Shi'a wound
+- `research/digests/halm--shia-islam.md` — Kufa as Shi'a birthplace, collective guilt theology
+- `research/digests/hillenbrand--islamic-architecture.md` — Kufa Great Mosque (qibla wall, hypostyle plan, dar al-imara adjacency)
+- `research/digests/pedersen--the-arabic-book.md` — Suq al-Warraqin market structure, warraq system
+- `research/finance/partnership-finance-empire.md` — mudaraba partnership structure for the khan argument

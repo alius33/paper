@@ -1,36 +1,37 @@
 **Status:** Prospective | No ledger entry
 
-## BRIEF: Chapter 22 — The Scribe of Damascus
+## BRIEF: Chapter 21 — The City of Jasmine
 
-**When/Where:** Damascus, the commercial quarters and scholarly neighbourhoods. Early 789 CE. Yusuf is 19.
-**Arriving from:** Chapter 21 — Yusuf's pitch to the military administration has been received with polite coldness. The papyrus suppliers are entrenched. He is an outsider.
+**When/Where:** Damascus. Early 789 CE, late winter/early spring. Yusuf is 18-19.
+**Arriving from:** Chapter 20 — the desert crossing. Yusuf arrives parched, sand-scoured, and hungry. Damascus is a sensory explosion after the desert's deprivation.
 
 ### Characters Present
-- **Yusuf:** Frustrated and angry. His instinct is to retaliate against the papyrus supplier who sabotaged his pitch. This is the first time we see his capacity for ruthlessness surface — the seed that blooms in Book 2.
-- **Umar (Ustad):** Counsels patience. His role here is restraint — he sees Yusuf's anger as a useful energy that needs channelling, not releasing. "The front gate is barred. Have you looked for the garden wall?"
-- **Musa:** Present but less prominent in the commercial scenes. His warmth provides contrast to Yusuf's sharpening edge.
-- **The papyrus supplier (antagonist):** A local merchant with deep ties to the military administration. Actively undermines Yusuf's pitch — not just competition but sabotage. He represents the entrenched interests that paper threatens.
+- **Yusuf:** Arriving in a city that is both grander and more wounded than he expected. He is a Baghdadi — worse, a Khorasani Baghdadi — in a city that resents everything that name represents.
+- **Umar (Ustad):** Quieter in Damascus. He knows the political currents here and lets Yusuf feel them rather than explaining them.
+- **Musa:** Alive to the city's beauty — the water, the music, the jasmine. Provides the emotional contrast to Yusuf's commercial assessment.
 
 ### What This Chapter Must Accomplish
-- **Active sabotage as escalation.** Unlike Kufa (passive rejection), Yusuf is deliberately undermined. The papyrus supplier poisons the well — spreading word that Baghdad paper is fragile, unreliable, a fad. Perhaps a physical demonstration goes wrong (paper soaked or damaged before the military buyers see it). This is Yusuf's first encounter with hostile commercial competition.
-- **Yusuf's instinct to retaliate — and its suppression.** His first thought is to expose the supplier, embarrass him publicly, destroy his reputation. Umar stops him. The lesson is strategic, not moral: retaliation against an entrenched enemy in his own city is suicide. But the instinct is noted — this is a preview of the man who will destroy Hamid al-Qurtubi in Book 2.
-- **The side door.** Yusuf finds an alternative market: private scholars and translators working in Damascus's intellectual circles. Lower margins, but the beginning of a relationship with the scholarly world that will pay dividends in the long arc. Commerce as adaptation, not confrontation.
-- **The Christian quarter as commercial frontier.** Yusuf encounters Damascus's Christian communities — functioning churches, church bells competing with the adhan. Christian merchants who have been trading here for centuries. The commercial insight: cross-confessional trade networks that a Muslim merchant cannot access directly. Religious diversity as economic infrastructure.
+- **The two-beat arrival.** Distant promise: the shock of green after brown, the sound of water, the Barada's channels, the oasis wrapping the city. Close-up correction: a humiliated former capital, its walls torn down, its caliphal palace converted to a prison. Beauty and wound coexist.
+- **Damascus as palimpsest.** Roman columns supporting market awnings on the Straight Street. Churches converted to mosques. The Umayyad Great Mosque — forty tonnes of gold-and-green mosaic depicting an idealised Ghouta paradise. A city that has been something else first, always. This layered quality should feel richer and sadder than Baghdad's clean geometry.
+- **Sound and smell of Damascus.** The dominant sound is water — the Barada channels, fountains in courtyard houses. Smell: jasmine (the defining scent), wet stone, roasting nuts, the mineral tang of the river, lingering incense smoke from Christian churches. Lusher and more melancholic than Baghdad.
+- **The military administration pitch.** Yusuf presents Abu Said's paper to the Damascus military buyers. Papyrus suppliers have deep, entrenched relationships. Yusuf is an outsider from the rival capital selling a product named after the caliph's court. The reception is polite but cold — political hostility disguised as commercial indifference.
+- **Plant the political subtext.** Yusuf arrives as a representative (however unwittingly) of the power that destroyed this city's dynasty. The merchants' politeness carries an edge. He senses hostility without fully understanding it.
 
 ### Continuity
-- The sabotage plants a direct thread to Hamid al-Qurtubi's destruction in Book 2. Yusuf learns here that the instinct to retaliate is powerful — and that suppressing it requires conscious effort.
-- The scholarly market in Damascus foreshadows the Suq al-Warraqin connections and eventually the House of Wisdom patronage in Book 3.
-- The Christian quarter prepares for the deeper Nestorian immersion at Mosul (Ch 25) and eventually for Ishaq bar Yohannan's world.
-- Umar's "garden wall" counsel echoes Abu Said's pedagogical method — teaching through redirection, not instruction.
+- The Kufa lesson (Ch 3) echoes: quality is not enough when resentment runs deeper than commerce. But Damascus is a different kind of failure — not passive rejection but active political hostility.
+- The Sogdian blueprint from Rayy (Chs 15-16) is in Yusuf's head. He is starting to see systems — but Damascus's system is one he has not yet learned to read.
+- The Beit al-Mal (treasury pavilion) was built in 788 by governor al-Fadl ibn Salih — Yusuf could witness its construction, new Abbasid authority marking itself on the only Umayyad building left standing.
+- The Christian quarter plants a seed for Ishaq bar Yohannan's world and the Nestorian networks that will deepen at Mosul (Ch 25).
 
 ### Voice Reminders
-- Sensory lead: the papyrus market — the faintly sweet grassy scent of papyrus rolls, the dry rustle of the material, old ink, the scratch of reed pens in the scholarly quarter.
-- Prose rhythm: tighter in the sabotage scenes — shorter sentences, clipped dialogue. The frustration should be felt in the sentence structure. When Yusuf finds the side door, the prose relaxes slightly.
-- Dialogue: the papyrus supplier should sound polished and reasonable — the sabotage is sophisticated, not crude. Yusuf must recognise the skill of his enemy even as he resents it.
+- Sensory lead: water is everything. After the desert, every fountain, channel, and garden is almost painfully vivid. Smell-first: jasmine, wet stone, roasting pistachios, then the mineral tang of the Barada.
+- Prose rhythm: the arrival should be expansive — longer sentences, accretive sensory detail. Let the reader feel the relief after the desert's deprivation. Then tighten when the commercial pitch begins.
+- Cultural contrast technique: Damascus retroactively reveals things about Baghdad. Its organic labyrinth reveals Baghdad's geometric plan as a choice, not a universal norm. Its layered history reveals Baghdad's newness as both strength and limitation.
 
 ### Deep Research
-- `research/craft/long-journeys-worldbuilding-plan.md` — Section A.2 (papyrus market, political subtext, Christian quarter)
-- `research/digests/burns--damascus.md` — Christian communities under the Abbasids, the Straight Street commercial district
-- `research/digests/bloom--paper-before-print.md` — paper vs. papyrus competition in the 8th century
-- `research/world-building/baghdads-paper-trade.md` — the commercial landscape Yusuf is trying to expand
-- `research/craft/MASTER-PLAN-journey-worldbuilding.md` — Commandment IX (failure before mastery)
+- `research/digests/burns--damascus.md` — the approach from the desert, the Great Mosque, Abbasid degradation, the Straight Street, Christian communities
+- `research/craft/long-journeys-worldbuilding-plan.md` — Section A.2 (how Damascus should feel different from Baghdad)
+- `research/world-building/abbasid-revolution.md` — political context for Umayyad-Abbasid tension
+- `research/craft/MASTER-PLAN-journey-worldbuilding.md` — Commandment VI (arrive in two beats), Commandment VIII (cultural contrast as double mirror)
+- `research/digests/hillenbrand--islamic-architecture.md` — Umayyad Mosque architecture
+- `research/digests/kennedy--early-abbasid-caliphate.md` — Damascus under Abbasid governance

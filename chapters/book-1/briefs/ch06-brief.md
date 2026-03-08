@@ -1,34 +1,53 @@
-**Status:** Prospective | No ledger entry
+**Status:** Drafted | Ledger entry exists
 
-## BRIEF: Chapter 6 — The Apprentice's Ledger
+## BRIEF: Chapter 5 — The Suq al-Warraqin
 
-**When/Where:** Abu Said's workshop, al-Karkh district, Baghdad. Late autumn 787 CE. Yusuf is 17.
-**Arriving from:** Chapter 5 — Yusuf's successful solo selling mission in the Suq al-Warraqin. He returned with his first real commercial insight (trust as the fibre beneath the paper's surface), Omar al-Dimashqi's validation ("the difference between a delivery boy and something else"), and Rashid's sealed letter for Abu Said. He walked home through the Khorasan Gate at dusk, sensing a room larger than he could yet name.
+**When/Where:** Baghdad's Suq al-Warraqin (Paper Sellers' Market) and the adjacent *sarrafs'* lane. Late 787 CE, five months after Kufa, three months after Jabir's dismissal. Yusuf is 17-18.
+**Arriving from:** Chapter 4 ended with Omar telling Yusuf that Abu Said would teach him the full sizing formula — "He says you have earned it." Yusuf has spent the intervening months learning *siyaq* accounting, the sizing formula, and workshop economics. Today he leaves the workshop for the market for the first time.
 
 ### Characters Present
-- **Yusuf:** Energised by his suq revelation but back in the apprentice's routine. Hungry to learn the business side of the workshop — not just craft but numbers. His commercial instinct is sharpening; he sees inefficiencies where others see tradition.
-- **Abu Said al-Samarqandi:** Teaching mode — quiet, methodical, revealing layers of the business only when he judges Yusuf ready. He has read Rashid's letter. He is aware that Yusuf's perception is developing faster than expected; this pleases and slightly unsettles him.
-- **Omar al-Dimashqi:** Yusuf's steady anchor in the workshop. Teaching paper finishing — burnishing, sizing, the physical grades. His own ambition (a finer paper grade) should surface here. He is content where Yusuf is restless, but his contentment is earned, not passive.
+- **Yusuf:** Leading a donkey loaded with three grades of paper. First solo mission in Baghdad's market. Discovers Jabir's sabotage has damaged the workshop's reputation. Meets his rival Nasir. Recognises Nasir is better. Visits the *sarrafs* on his own initiative and synthesises the chapter's central insight: the paper is the surface, the trust is the fibre.
+- **The donkey:** A character in its own right. "The flat, immovable patience of a creature that had existed long before human ambition." Refuses to move, eats weeds, does favours reluctantly.
+- **Omar al-Dimashqi:** Opens and closes the chapter. Teaches donkey management ("Pull from the side. Not from the front."). At the end, shows Yusuf a *suftaja* — the first time Yusuf holds a financial instrument. Delivers the final assessment: "The Ustad sends other boys to the market. They deliver paper and come back with empty donkeys. You deliver paper and come back with questions about sarrafs."
+- **Mansur al-Khatib:** First customer. Public scribe. Eight years of buying from Abu Said. Three sheets from the last delivery bled (Jabir's sabotage, now revealed as market damage). "Once is an error. Twice would be a decision." The workshop's reputation has been cracked.
+- **Nasir:** Al-Fadl's delivery man. Twenty, handsome, well-dressed, easy charm. Son of a cloth merchant who knows al-Fadl from Samarqand. Knows every scribe's name, every preference. Six months on the route and already moving market share. "My master believes in being present." He is better than Yusuf at the market game — and Yusuf knows it.
+- **Rashid ibn Musa:** The *warraq* (paper dealer). Thin, sharp-faced, thumbnail constantly running along paper edges. Brokers a three-party deal with invisible skill. Gives Yusuf the key distinction: "Nasir sees the transactions. He does not see the web." Orders 50 reams over six months plus a Caliph's Cream inquiry. His sealed letter is the chapter's most valuable object.
 
 ### What This Chapter Must Accomplish
-- **Plot:** Yusuf learns *siyaq* accounting from Abu Said — the empire's secret ledger script. Omar teaches advanced finishing techniques (burnishing with agate, sizing ratios, the grade hierarchy from common stock to Caliph's Cream). Yusuf notices the workshop undercharges for its best product and raises this with Abu Said, who listens but does not act. This is the first seed of commercial instinct clashing with the craftsman's world.
-- **World-building:** The workshop as a complete micro-world, rendered with journey-level sensory intensity. The finishing room (burnishing stones, the particular sound of agate on sized paper). The *siyaq* as a tool of state power — Abu Said should connect it to the *diwan* system: "The Caliph's own treasury clerks write in *siyaq*." The economics of paper grades (what each costs to produce vs. what each sells for).
-- **Character:** Deepen Abu Said's teaching method — silence, then one devastating question. Show Yusuf's growth arc continuing: he now processes the workshop differently after the suq experience, seeing the business behind the craft. Plant Omar al-Dimashqi's ambition for a new paper grade (pays off in Ch 17–18).
-- **Thematic:** The tension between craft excellence and commercial viability. Abu Said makes the best paper in Baghdad but prices it as a craftsman, not a merchant. Yusuf sees the gap. Abu Said's non-response is itself a lesson: some truths must be earned through experience, not argument.
+- Establish the Suq al-Warraqin as a sensory world: ink, parchment, papyrus, the "clean, chalky scent of new stock." Quiet like a library. Reed pens scratching, bookbinder's press keeping time.
+- Reveal the fallout of Jabir's sabotage through Mansur's complaint — the workshop's trust has been damaged
+- Introduce Nasir as a formidable rival who knows the market instinctively and is already circling Abu Said's customers
+- Show Rashid's brokering as a masterclass in standing between needs — the deal where three parties leave satisfied
+- Yusuf's self-directed visit to the *sarrafs'* lane, where he synthesises the connection between paper, money, and trust
+- Omar's *suftaja* revelation: paper that carries value across distance because of the trust between agents. "The money moves without moving, because the paper carries the trust."
+- Yusuf's final synthesis: "The mark was not the paper. The mark was the trust. And trust, like a coin, could be clipped."
+- Stealth thesis: the surface/structure/principle hierarchy — beneath the market is a system, beneath the system is a principle, and the principle is trust.
 
 ### Continuity
-- **From Chapters 1–5:** Jabir's expulsion (Ch 4) has left a gap in the workshop — the atmosphere is quieter, the apprentice boys more watchful. Yusuf has been learning *siyaq* since Ch 4 (Abu Said introduced it there); this chapter deepens that training. The sizing formula that Abu Said promised at the end of Ch 4 ("He says you have earned it") should be referenced or shown. The Mansur complaint about bleeding sheets (Ch 5) is now known to Abu Said via Rashid's letter. Nasir's competitive threat (Ch 5) hangs in the background.
-- **Plants for future:** Omar's new paper grade idea (pays off Ch 17–18). Yusuf's pricing observation (pays off in his later commercial thinking). The *siyaq* knowledge becomes essential to his financial house. Abu Said's resistance to commercial thinking sets up the eventual rupture (Ch 32).
+- Five months since Kufa, three since Jabir's dismissal. Yusuf has spent this time on *siyaq*, the sizing formula, and workshop economics — all from Ch 4.
+- Mansur's bleeding sheets are the direct consequence of Jabir's sabotage in Ch 4. The sand in the sizing sent damaged paper into the market before the problem was discovered.
+- Al-Fadl's workshop: a rival paper-maker on the east bank, a Samarqandi emigre like Abu Said but younger. First mention — will recur.
+- Omar's line "Pull from the side. Not from the front. You are having a conversation with the animal" — becomes one of the novel's recurring practical wisdoms.
+- The *suftaja* (200 dinars, two seals, thin paper) is the first financial instrument Yusuf holds. This plants the seed for the House of Paper's eventual business model.
+- Rashid's sealed letter (50 reams over six months) is the chapter's commercial win — not from Yusuf's charm but from Abu Said's eight-year relationship.
+- The Khorasan Gate tiles in the final paragraph: "turquoise and cobalt in the fading light." Yusuf passes through the gate and goes home — the full circle from Ch 1's departure.
+- The *sarraf* motif connects Ch 3 (khan courtyard, observed from the gallery) to Ch 5 (the *sarrafs'* lane, observed up close) — same insight, deeper understanding.
 
 ### Voice Reminders
-- **Sensory lead:** Touch. This is a chapter about hands — Yusuf's hands on the burnishing stone, on the ledger, on paper surfaces of different grades. The feel of agate against sized paper. The different textures of common stock vs. Caliph's Cream under the fingertips.
-- **Prose rhythm:** Medium pace. Craft and commercial detail should carry narrative tension — the reader must feel the stakes in a pricing observation the way they felt stakes in the Kufa sales failures. Reflective and instructional scenes use longer sentences; moments of insight use short, blunt ones.
-- **Dialogue:** Abu Said speaks in questions and silences. Omar speaks in dry, practical observations. Yusuf is beginning to form his own formulations rather than repeating others' — he should articulate the pricing problem in his own words, not echo someone else.
+- Sensory lead: SMELL for the suq (iron gall ink, lampblack in gum, old parchment, papyrus decay, new paper stock). The suq is quiet — not silent but respectful. Light comes through latticed screens and "fell in shifting patterns... so that everything seemed to shimmer like text seen through water."
+- Prose rhythm: The delivery sequence is episodic — move from stall to stall with distinct micro-encounters. Rashid's brokering scene demands medium-paced craft writing (like the paper-making scenes). The *sarraf* synthesis and the final walk home are reflective, long-sentence, accretive.
+- Dialogue: Mansur is edged and wounded. Nasir is charming and probing — "warmth that is also reconnaissance." Rashid is aphoristic and precise. Omar is warmer here than anywhere except the Ch 4 rooftop — the *suftaja* scene is a gift, and his closing "Don't let him down" is the chapter's emotional turn.
+- This is the most structurally accomplished chapter. Each encounter builds toward the synthesis. The donkey frames the chapter with comedy at the start and satisfaction at the end ("its expression suggesting it had been abandoned for an unconscionably long time").
 
-### Deep Research
-- `research/world-building/paper-mill-apprenticeship.md` — finishing techniques, burnishing, sizing
-- `research/world-building/baghdads-paper-trade.md` — paper grades, pricing, the Suq al-Warraqin economy
-- `research/characters/abu-said-master-of-karkh.md` — teaching method, Barmakid connection, workshop economics
-- `research/digests/bloom--paper-before-print.md` — paper production, sizing chemistry
-- `research/digests/silverstein--postal-systems.md` — the *barid* and *siyaq* in state administration
-- `research/craft/kufa-journey-worldbuilding-map.md` — workshop-as-domestic-journey technique
+### Enhancement Priorities
+- Differentiate the twelve stalls: give two or three unnamed customers a single-sentence physical description (one immaculate, one chaotic with manuscripts stacked to the ceiling, one tiny and wedged into a corner)
+- Use the suq's geography to show Baghdad's market structure: when Yusuf walks past the paper sellers to the *sarrafs'* lane, note the transition between related trades (booksellers, ink sellers) and the *sarrafs'* deliberate separation requiring quiet and security
+- The suq's daily rhythm: a brief passage showing the *adhan* emptying the lane, or a tea boy making rounds, to render the market as a living organism rather than a series of individual transactions
+
+### Deep Research (if needed)
+- `research/digests/pedersen--the-arabic-book.md` — Suq al-Warraqin layout, warraq trade, 100+ stalls
+- `research/digests/bloom--paper-before-print.md` — paper sizes, standards, suftaja/sakk instruments
+- `research/finance/partnership-finance-empire.md` — suftaja mechanics, sarraf banking
+- `research/digests/goitein--mediterranean-society.md` — merchant types, commercial trust infrastructure, daftar bookkeeping
+- `research/world-building/baghdads-paper-trade.md` — paper market economics, rival workshops
+- `research/digests/gacek--arabic-manuscripts.md` — ink types, reed pen preparation, paper grades

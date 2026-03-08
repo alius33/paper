@@ -1,40 +1,40 @@
 **Status:** Prospective | No ledger entry
 
-## BRIEF: Chapter 10 — The Proposition
+## BRIEF: Chapter 9 — The Oud Player's Return
 
-**When/Where:** Baghdad. Abu Said's workshop, the Karkh district, and the caravansaries outside the Khorasan Gate. Spring 788 CE. Yusuf is 18.
-**Arriving from:** Chapter 9 reconnected Yusuf and Musa. Musa opened the emotional register — music ambushed Yusuf. The Sogdian visitor from Chapter 8 has planted the idea of an eastern trade route. Abu Said is now ready to propose the Rayy venture.
+**When/Where:** Baghdad, Khorasan Gate neighbourhood and a private courtyard performance venue. Early 788 CE. Yusuf is 18.
+**Arriving from:** Chapter 8 ended with Yusuf navigating Baghdad's bureaucracy (the government scribe delivery) and Abu Said receiving a Sogdian visitor from Samarkand, seeding the Rayy trade route. Yusuf has completed the Kufa journey, survived the poisoned-vat crisis, and proven himself in the Suq al-Warraqin. He is a confident apprentice who has not yet been tested by the wider world.
 
 ### Characters Present
-- **Yusuf:** Energised by the Musa reconnection but focused again on work. Eager for the next challenge after proving himself in the Suq al-Warraqin. Sees the Rayy proposition as his chance to move beyond Baghdad's commercial orbit.
-- **Abu Said:** Proposes the Rayy venture — luxury paper for the provincial administration. His Sogdian connection (seeded in Ch 8) makes this route personally meaningful, though he does not explain why. His precision in preparation reveals the craft of commerce: paper must be packed differently for a mountain crossing than for a river journey.
-- **Umar (Ustad Umar):** Will accompany the journey as Abu Said's representative, as on the Kufa trip. Helps plan logistics. His knowledge of the eastern road is practical and military-adjacent.
-- **Omar al-Dimashqi:** Helps pack cargo and reveals his own ambition — a finer paper grade he is developing. His ambition is artisanal, not commercial. The distinction between the two men deepens: Omar makes, Yusuf sells.
-- **Musa ibn Tariq:** Yusuf invites Musa as entertainment for the caravan. Musicians on caravans served a real function — morale, social lubrication, and information gathering. This invitation is the beginning of their adult friendship.
+- **Yusuf:** Settled into workshop rhythms, commercially sharp but emotionally guarded. His world is paper, numbers, and Abu Said's approval. He has screened out beauty, music, and the neighbourhood's nocturnal life. Musa's return disrupts this.
+- **Musa ibn Tariq:** Returning after months away from the neighbourhood. Has been apprenticed to a leatherworker but is abandoning the trade for music. Spontaneous, warm, alive to beauty. His oud playing has improved dramatically. He takes Yusuf to hear Ibrahim al-Mosuli perform. His father's disappointment mirrors Ali's future unease with Yusuf — inverted (Musa chooses beauty over commerce; Yusuf will choose commerce over craft).
+- **Ibrahim al-Mosuli:** Historical figure. The greatest musician of his generation. Seen from a distance — Yusuf is invisible at this gathering. Ibrahim navigates his patrons with the instinct of a man who understands power without holding it. Yusuf watches this as a masterclass in managing powerful people, filing the observation for later.
 
 ### What This Chapter Must Accomplish
-- Launch the Rayy journey as a narrative proposition. Abu Said's challenge: sell luxury paper to the provincial administration in Rayy, a Persian city on the Silk Road. The stakes are higher than Kufa — farther, more dangerous, and into a culturally different world.
-- Show caravan economics in detail: selecting paper stock (which grades for which markets), wrapping in oilcloth against mountain damp, calculating weight-to-value ratios. Abu Said's precision reveals that preparation is itself a craft.
-- Show the caravan hiring process at the caravansaries outside the Khorasan Gate: the social hierarchy of the road (*ra'is al-qafila*, *badraqa*, animal handlers, cook, guides). Hiring into a caravan is itself a negotiation — share of costs, position in the column, liability for lost cargo.
-- Deepen Omar al-Dimashqi's character through his paper project. Paper is not a monolith but a spectrum of qualities. Omar's new grade — finer, more expensive — is an artisan's bet. Yusuf recognises its commercial potential before Omar does.
-- Plant Musa's intelligence function. Yusuf's invitation is partly genuine friendship, partly commercial instinct. People tell things to a musician they would never tell a merchant. Yusuf does not consciously frame it this way yet, but the seed is planted.
-- Stealth thesis: every journey begins before the first step — in the selection of cargo, the choice of companions, and the calculation of risk.
+- Reconnect Yusuf and Musa as young men at the threshold of adulthood. Establish their friendship as genuine, rooted in the Khorasan Gate childhood they share.
+- Introduce Musa as the emotional/artistic key who will unlock Yusuf's capacity for feeling. Music ambushes Yusuf — involuntarily, the oud's sound breaks through his analytical armour.
+- Show Baghdad's patronage economy through the Ibrahim al-Mosuli performance: who sits where, who is served first, the unspoken hierarchies of courtly culture. World-building through Yusuf watching a master practitioner of social power who works in a medium Yusuf does not understand.
+- Reveal the Khorasan Gate neighbourhood at night — a world Yusuf's workshop-focused life has screened out. Oil lamps, ney from a rooftop, laughter from a date wine house, grilled meat and cumin from a late vendor.
+- Plant the inverted parallel: Musa abandoning a respectable trade for beauty; Yusuf will abandon craft for commerce. Neither father approves. The parallel should be planted, not stated.
+- Musa's line: "Not everything in the world can be weighed on a scale." This is the chapter's emotional thesis.
+- Stealth thesis: the world contains registers of experience — beauty, music, emotional warmth — that Yusuf's analytical mind has trained itself to ignore, and ignoring them is a form of blindness.
 
 ### Continuity
-- Abu Said's Sogdian visitor from Ch 8 is the proximate cause of this journey. The connection to Rayy is through Sogdian merchant networks — a thread that will pay off in Ch 14.
-- Omar al-Dimashqi's new paper grade is planted here and pays off in Ch 17 (Abu Said examines it and smiles) and Ch 35 (the partnership).
-- Musa's invitation establishes the pattern of musician-as-companion that recurs in the Damascus journey (Ch 19+).
-- The Khorasan Gate departure (Ch 11) is prepared here — Yusuf will pass through the gate his father's tiles adorn.
-- Paper packing for mountain conditions is a practical detail that pays off in Ch 12 when a mule slips and nearly loses a bale.
+- Musa and Yusuf last saw each other as boys in the Khorasan Gate neighbourhood. Their childhood friendship is assumed but never dramatised before this chapter.
+- Chapter 8's Sogdian visitor seeds the Rayy journey; this chapter introduces the companion (Musa) who will accompany it.
+- Musa's leatherworker apprenticeship is being abandoned — his father's disappointment foreshadows the Ali-Yusuf argument of Chapter 34 ("Paper is real").
+- Ibrahim al-Mosuli's patronage management plants a skill Yusuf will deploy with the Barmakids in Book 2. He learns here that art and power are adjacent systems.
+- The oud ambush — music breaking through Yusuf's defences — recurs at key emotional moments throughout the series. This is the origin scene.
 
 ### Voice Reminders
-- Sensory lead: The workshop smells dominate the first half (lime, wet rags, steam, the THUMP of pulping hammers). The caravansary hiring ground shifts to dust, camel dung, shouts of handlers, jangle of harness.
-- Prose rhythm: Medium pace. Preparation scenes should have the tension of competence — the reader should feel the weight of each decision (which paper, how packed, which caravan). Not rushed, not reflective. Businesslike, with the detail itself carrying the drama.
-- Dialogue: Abu Said is sparse, authoritative — questions rather than lectures. Omar al-Dimashqi is dry, practical. Musa is enthusiastic. The chapter weaves three distinct voices.
+- Sensory lead: SOUND dominates this chapter. The oud's gut strings, wood resonance, the silence between notes. The ney from a rooftop. Voices murmuring approval. The clink of cups. Smell runs second: rosewater, lamp oil, grilled meat, cumin, date wine.
+- Prose rhythm: The performance scene should use longer, accretive sentences that mirror music's accumulation. The moment the oud ambushes Yusuf — short, blunt, a single sentence landing after the build.
+- The neighbourhood-at-night scene should be sensory-rich, layered, a walk through sound and smell. Yusuf is experiencing familiar streets as unfamiliar because Musa has opened a different channel of perception.
+- Dialogue: Musa is warm, spontaneous, speaks in half-thoughts and musical metaphors. Yusuf is precise, guarded, asks questions. The contrast in their speech patterns is the chapter's texture.
 
 ### Deep Research (if needed)
-- `research/journeys/j3-paper-road-to-rayy.md` — caravan logistics, cargo preparation, route planning
-- `research/journeys/j3-baghdad-zagros-research.md` — caravan assembly, departure procedure, hiring
-- `research/digests/bulliet--camel-and-wheel.md` — caravan structure, animal logistics
-- `research/world-building/baghdads-paper-trade.md` — paper grades, packing, commercial distribution
-- `research/digests/hunter--papermaking.md` — paper types, sizing for travel conditions
+- `research/world-building/a-tour-of-baghdad.md` — Khorasan Gate neighbourhood, nightlife, social texture
+- `research/world-building/round-city-neighborhood.md` — neighbourhood social strata, craftsmen, evening rhythms
+- `research/digests/rodinson--medieval-arab-cookery.md` — street food, late-night vendors, date wine
+- `research/world-building/society-in-yusufs-baghdad.md` — patronage economy, musical culture
+- `research/digests/frye--golden-age-of-persia.md` — Khorasani cultural identity, music at court

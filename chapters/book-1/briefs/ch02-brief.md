@@ -1,49 +1,63 @@
-**Status:** Drafted | Ledger entry exists
+# Chapter 2 Brief — The Caliph's Road
 
-## BRIEF: Chapter 2 — The Caliph's Road
+> **Status:** Drafted (`chapters/book-1/ch02-the-caliphs-road.md`)
 
-**When/Where:** The imperial road from Baghdad to Kufa, days 1-5 of travel. Spring 787 CE. Yusuf is 17.
+---
+
+## When / Where
+
+**Year:** 787 CE. Yusuf is 17.
+**Days 1–3** of the Kufa journey. The imperial road from Baghdad to Kufa.
 **Arriving from:** Chapter 1 ended with Yusuf departing Baghdad on the caravan, the Green Dome vanishing behind him. He has eaten Sikbaj, tried locusts, watched the *khuwwa* negotiation. His body is untested; his mind is absorbing everything.
 
-### Characters Present
-- **Yusuf:** Suffering physically (locked legs, saddle pain) but growing mentally. Eavesdrops on merchant conversation about indigo and ink margins. Begins drawing commercial conclusions. By chapter's end, he does not want the road to end.
-- **Ustad Umar:** Opens up for the first time over morning tea on day 3. Reveals his father was a Kufan scholar reduced to a merchant's clerk. Warns Yusuf that Kufa remembers its wounds. The closest the teacher comes to vulnerability in the road chapters.
-- **Sa'dan:** Steady, reliable. Teaches water discipline, explains the *khabir's* strategy, interprets the Banu Asad scouts. His farewell speech at the campfire is the emotional climax. "The road is not so big. The same men walk it, season after season."
-- **Sayeed:** Offers the locust again (now familiar). Reveals his dream of owning his own caravan — "All I need is capital." Pale-faced during the tribal standoff. His farewell is rougher, quicker: "Follow the smell of the camels."
+## Characters Present
 
-### What This Chapter Must Accomplish
-- Render the physical misery and monotony of caravan travel so the reader feels the distance in their body
-- Introduce the khan system: two khans, each with distinct character
-- Dramatise the merchant conversation at the first khan (indigo prices, ink margins) — Yusuf's first lesson that information is a commodity
-- Umar's backstory: his father, the Kufan scholar turned clerk, the revolution's broken promise. Sets up Kufa's wounded pride before arrival.
-- The Banu Asad standoff: riders on the ridge, the route diversion, time-as-money lesson. "Trade is time, boy. And time is the one thing you cannot buy back."
-- The farewell campfire scene with Sa'dan and Sayeed — first real human connection outside Baghdad
-- Stealth thesis: the gap between three dirhams and eight (information as value), and "the city they were approaching was not an empty market waiting to be filled. It was a wound."
+- **Yusuf:** Suffering physically (locked legs, saddle pain) but growing mentally. Eavesdrops on merchant conversation about indigo and ink margins. On Day 3, takes initiative: reports the ink merchant intelligence to Umar, reframing it as market analysis. This triggers Umar's backstory. By chapter's end, understands Kufa is "a wound."
+- **Ustad Umar:** Opens up for the first time over morning tea on Day 3, but only because Yusuf earns it through his report. Reveals his father was a Kufan scholar reduced to a merchant's clerk. Warns that Kufa is "a wound."
+- **Sa'dan:** Steady, reliable. Explains the khan system. Stops mid-task when Banu Asad scouts pass (only time Yusuf has seen this). Orders water boiled twice at the second khan.
+- **Sayeed:** Offers the locust again (now familiar). Reveals his dream of owning his own caravan — "All I need is capital." Rides a small donkey.
 
-### Continuity
-- Yusuf's legs lock after day 1 (physical continuity — the ache is "still there" by day 2, "familiar" by day 5)
-- The iron-bound chest of paper samples carried to each khan. Still sealed.
-- Dried locusts now eaten "without hesitation" — marks Yusuf's adaptation to road life
-- Umar's mention of his dead father and the Abbasid revolution plants the political context that explodes in Ch 3 (Abu Yaqub's speech, Tariq's grandfather)
-- Sa'dan's farewell — "The road is not so big" — plants a possible future reunion (later books)
-- Sayeed's capital ambition ("All I need is capital") foreshadows Yusuf's later understanding of *mudaraba* partnerships
-- The *khabir's* route diversion and time-cost calculation foreshadow Yusuf's own commercial thinking in Ch 5
-- The merchant's ink margin (3 dirhams bought, 8 sold) becomes Yusuf's first concrete lesson in price arbitrage
+## What This Chapter Accomplishes
 
-### Voice Reminders
-- Sensory lead: TOUCH dominates (saddle pain, locked legs, heat as "physical weight," the camel's warm coarse hair). Smell for the khans (stale straw, animal dung, cooking fires, weak tea).
-- Prose rhythm: The monotony of the road demands long, metronome-like sentences that mirror the camel's gait. Short, punchy lines for the Banu Asad standoff ("Riders on the eastern ridge. Eight, maybe ten.") and the farewell.
-- Dialogue: Umar speaks in longer, loaded passages during the morning tea scene — his most sustained speech in the first five chapters. Sa'dan remains terse and practical. Sayeed is the only character who laughs freely.
-- The chapter covers five days. Each section break advances time; each scene is grounded in a specific moment. No "three days later" preambles — the reader is dropped into the new scene.
+1. **Physical misery and adaptation** — legs locked (Day 1), loosened but aching (Day 2), mounting without help as pride
+2. **Two khans, two sides of the system** — first khan solid and imperial (Caliph's banner, guards, functioning cistern); second khan crumbling, patched, greenish water. "The difference was not distance but attention."
+3. **The intelligence lesson** — merchant conversation at the first khan (ink: 3 dirhams → 8 dirhams, 40 jars in 2 days). The quiet merchant who drops knowledge "like a stone into a pond." Yusuf's first lesson that listening is worth more than goods.
+4. **Yusuf's act of agency** — on Day 3, he reports the ink intelligence to Umar, reframing it as market analysis ("The price told him the shape of the market"). This earns Umar's attention and triggers his backstory.
+5. **Umar's backstory** — father was a Kufan scholar turned clerk for a silk trader, fired after 20 years, died 2 years later. Earned through Yusuf's initiative, not volunteered.
+6. **Banu Asad scouts** — five riders pass the second khan, indigo robes, long lances. Sa'dan watches the southern road until dark. Seeds the standoff in Ch 3.
 
-### Enhancement Priorities
-- Differentiate the two khans by sensory detail: distinct food, smell, social composition. The second khan's crumbling walls and greenish water could carry more texture.
-- The route diversion terrain: when the *khabir* takes the caravan off-road, render the ground as harder, or crossed by dry wadis. The camels respond differently. The *khabir* navigates by landmarks Yusuf cannot read.
-- The farewell: consider adding a small physical gift or exchange from Sa'dan (a waterskin plug, a specific knot, a practical object) to anchor the goodbye and provide a recurring memory trigger
+## Chapter Spine
 
-### Deep Research (if needed)
-- `research/craft/journey-to-kufa-research.md` — terrain between Baghdad and Kufa, khan descriptions
-- `research/journeys/j2-journey-to-kufa.md` — day-by-day itinerary, landscape transitions
-- `research/world-building/abbasid-revolution.md` — historical context for Umar's backstory
-- `research/digests/hillenbrand--islamic-architecture.md` — caravansarai layout details (vaulted vestibule, iron tethering rings, cells behind arcades)
-- `research/digests/kennedy--prophet-age-caliphates.md` — Kufa's role in the Abbasid revolution
+"Learning to see beneath the surface."
+
+## Continuity Notes
+
+- **Legs:** Lock after Day 1 (can't dismount); loosened Day 2 (mounts without help); ache continuing but familiar.
+- **Iron chest:** Carried to storeroom corner at first khan (near stables, screened by mud-brick partition).
+- **Locusts:** Eaten "without hesitation" — marks adaptation.
+- **Umar's backstory trigger:** Yusuf's report on Day 3 — NOT volunteered over tea. Structural improvement over old draft.
+- **Banu Asad scouts at second khan** → returns as standoff in Ch 3.
+- **"The distance between three dirhams and eight"** — Yusuf's first arbitrage lesson. Recurs series-long.
+- **Leads into Ch 3:** Umar's warning about Kufa as "a wound" and the Banu Asad scouts set up both the standoff and the emotional core of Ch 3.
+
+## Voice Reminders
+
+- **Sensory lead:** TOUCH dominates (saddle pain, locked legs, heat, camel's warm coarse hair). SMELL for the khans (stale straw, animal sweat, cooking fires, greenish water).
+- **Prose rhythm:** The monotony of the road demands long, metronome-like sentences that mirror the camel's gait. Short, punchy lines for the khan arrival and Banu Asad scouts.
+- **Dialogue:** Umar's Day 3 speech is his most sustained in the road chapters. Sa'dan remains terse. Sayeed laughs freely.
+- **Three days compressed:** Each section break advances time; each scene grounded in a specific moment.
+
+## Sensory Palette
+
+- **Day 1:** Legs locked, plaster-set muscles, prickling blood return, camel's theatrical groan
+- **First khan:** Squat fortress, tawny walls, Caliph's black banner, guards on stools, courtyard chaos, oil lamps, cook fires, silver dirhams catching lamplight
+- **Day 2:** Dry tawny plain, featureless, monotony "bigger than you think," camel metronome (rock, sway)
+- **Second khan:** Crumbling walls, patched brick, greenish cistern, sour vegetal smell, damp storerooms, rotting straw, lizard on wall
+- **Day 3 dawn:** Cistern rim, weak tea with cardamom, eastern sky brightening, pale gold horizon
+
+## Deep Research
+
+- Journey: `research/journeys/j2-journey-to-kufa.md`
+- Craft: `research/craft/kufa-journey-worldbuilding-map.md`, `research/craft/journey-to-kufa-research.md`
+- Digest: `research/digests/bulliet--camel-and-wheel.md`, `research/digests/silverstein--postal-systems.md`
+- World: `research/world-building/abbasid-revolution.md` (for Umar's backstory context)

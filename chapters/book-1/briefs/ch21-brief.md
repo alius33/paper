@@ -1,37 +1,36 @@
 **Status:** Prospective | No ledger entry
 
-## BRIEF: Chapter 21 — The City of Jasmine
+## BRIEF: Chapter 20 — The Singing Sands
 
-**When/Where:** Damascus. Early 789 CE, late winter/early spring. Yusuf is 18-19.
-**Arriving from:** Chapter 20 — the desert crossing. Yusuf arrives parched, sand-scoured, and hungry. Damascus is a sensory explosion after the desert's deprivation.
+**When/Where:** The Syrian steppe, deep desert between Baghdad and Damascus. Late 788 CE, late autumn. Yusuf is 18.
+**Arriving from:** Chapter 19 — the landscape has stripped down to emptiness. The caravan is now deep in the desert, past the point of easy return.
 
 ### Characters Present
-- **Yusuf:** Arriving in a city that is both grander and more wounded than he expected. He is a Baghdadi — worse, a Khorasani Baghdadi — in a city that resents everything that name represents.
-- **Umar (Ustad):** Quieter in Damascus. He knows the political currents here and lets Yusuf feel them rather than explaining them.
-- **Musa:** Alive to the city's beauty — the water, the music, the jasmine. Provides the emotional contrast to Yusuf's commercial assessment.
+- **Yusuf:** Physically tested by the desert — cracked lips, sand in everything, thirst as a constant companion. His rational, analytical mind encounters something it cannot price or categorise.
+- **Umar (Ustad):** The desert is familiar to him. He teaches water discipline with iron grip. His private faith surfaces — desert prayer has a different quality from city prayer.
+- **Musa:** Plays old Bedouin songs at night that unlock memories of Layla. His music is the bridge between Yusuf's mother's world and the present.
+- **Camel drivers (Sa'dan and others):** Their superstitious rituals (salt, iron, Quranic verses mixed with pre-Islamic incantations) reveal the desert's psychological power over even hardened men.
 
 ### What This Chapter Must Accomplish
-- **The two-beat arrival.** Distant promise: the shock of green after brown, the sound of water, the Barada's channels, the oasis wrapping the city. Close-up correction: a humiliated former capital, its walls torn down, its caliphal palace converted to a prison. Beauty and wound coexist.
-- **Damascus as palimpsest.** Roman columns supporting market awnings on the Straight Street. Churches converted to mosques. The Umayyad Great Mosque — forty tonnes of gold-and-green mosaic depicting an idealised Ghouta paradise. A city that has been something else first, always. This layered quality should feel richer and sadder than Baghdad's clean geometry.
-- **Sound and smell of Damascus.** The dominant sound is water — the Barada channels, fountains in courtyard houses. Smell: jasmine (the defining scent), wet stone, roasting nuts, the mineral tang of the river, lingering incense smoke from Christian churches. Lusher and more melancholic than Baghdad.
-- **The military administration pitch.** Yusuf presents Abu Said's paper to the Damascus military buyers. Papyrus suppliers have deep, entrenched relationships. Yusuf is an outsider from the rival capital selling a product named after the caliph's court. The reception is polite but cold — political hostility disguised as commercial indifference.
-- **Plant the political subtext.** Yusuf arrives as a representative (however unwittingly) of the power that destroyed this city's dynasty. The merchants' politeness carries an edge. He senses hostility without fully understanding it.
+- **The sandstorm set piece.** The storm is not weather but erasure — bruised brown-orange sky, wind as a physical wall, two days of suffocating immobility behind kneeling camels. When it passes, the landscape has been reorganised. The storm is a metaphor for political upheaval (Damascus experienced this when the Abbasids arrived) but the metaphor must remain subterranean.
+- **The singing sands.** The natural acoustic phenomenon experienced as jinn voices. Camel drivers' salt-and-iron rituals. The pull of the void — Yusuf hears (or thinks he hears) his name whispered from the dark. His rational mind (Ali's inheritance) wrestles with the instinctive fear his mother planted. Layla's desert stories were not superstition but survival lore.
+- **Activate Yusuf's Bedouin heritage.** Layla was Banu Asad. A brief encounter with a Bedouin group — a shared meal, a watering hole, the recognition of Yusuf's features or his mother's tribal name. Identity as choice, not inheritance.
+- **Physical endurance as character revelation.** Water discipline. Class divides (the wealthy merchant under silk awning vs. Yusuf's cracked lips). The desert teaches Yusuf to notice smaller distinctions.
 
 ### Continuity
-- The Kufa lesson (Ch 3) echoes: quality is not enough when resentment runs deeper than commerce. But Damascus is a different kind of failure — not passive rejection but active political hostility.
-- The Sogdian blueprint from Rayy (Chs 15-16) is in Yusuf's head. He is starting to see systems — but Damascus's system is one he has not yet learned to read.
-- The Beit al-Mal (treasury pavilion) was built in 788 by governor al-Fadl ibn Salih — Yusuf could witness its construction, new Abbasid authority marking itself on the only Umayyad building left standing.
-- The Christian quarter plants a seed for Ishaq bar Yohannan's world and the Nestorian networks that will deepen at Mosul (Ch 25).
+- Layla's death (782 CE, age 12) — the pouch of desert sand, the fox-and-lion story. The desert makes her memory vivid. Musa's Bedouin songs trigger specific recollections.
+- The Bedouin encounter activates Yusuf's dual identity — Khorasani father, Bedouin mother. He is drawn to this world and aware he has already chosen a different path.
+- The sandstorm reconfigures the landscape — a visual foreshadowing of political impermanence that will land in Damascus (Ch 23).
+- The singing sands plant the motif of the void — things that cannot be bought, controlled, or analysed. This checks Yusuf's growing commercial confidence.
 
 ### Voice Reminders
-- Sensory lead: water is everything. After the desert, every fountain, channel, and garden is almost painfully vivid. Smell-first: jasmine, wet stone, roasting pistachios, then the mineral tang of the Barada.
-- Prose rhythm: the arrival should be expansive — longer sentences, accretive sensory detail. Let the reader feel the relief after the desert's deprivation. Then tighten when the commercial pitch begins.
-- Cultural contrast technique: Damascus retroactively reveals things about Baghdad. Its organic labyrinth reveals Baghdad's geometric plan as a choice, not a universal norm. Its layered history reveals Baghdad's newness as both strength and limitation.
+- Sensory lead: touch dominates — dry heat, cracked lips, sand in every fold, the camel's gait under him. Smell is contracted: mineral air, vast emptiness, the occasional sharp green of crushed wormwood.
+- Prose rhythm: oppressive at first (long sentences, few line breaks), then meditative as Yusuf adjusts. The singing sands sequence should shift to shorter, more urgent sentences — fear changes the rhythm.
+- The desert must feel like a character, not a backdrop. It has moods, intentions, patience.
 
 ### Deep Research
-- `research/digests/burns--damascus.md` — the approach from the desert, the Great Mosque, Abbasid degradation, the Straight Street, Christian communities
-- `research/craft/long-journeys-worldbuilding-plan.md` — Section A.2 (how Damascus should feel different from Baghdad)
-- `research/world-building/abbasid-revolution.md` — political context for Umayyad-Abbasid tension
-- `research/craft/MASTER-PLAN-journey-worldbuilding.md` — Commandment VI (arrive in two beats), Commandment VIII (cultural contrast as double mirror)
-- `research/digests/hillenbrand--islamic-architecture.md` — Umayyad Mosque architecture
-- `research/digests/kennedy--early-abbasid-caliphate.md` — Damascus under Abbasid governance
+- `research/plot/chapter-outline-road-of-ghosts.md` — Scenes 2-5 (the halt, the campfire, the singing sands)
+- `research/craft/long-journeys-worldbuilding-plan.md` — Section A.1 (desert as character: sensory narrowing, sandstorm, singing sands, Bedouin encounters)
+- `research/digests/bulliet--camel-and-wheel.md` — camel behaviour in sandstorms (old camels snarl and bury mouths)
+- `research/digests/vaissiere--sogdian-traders.md` — caravan sizes and composition for dangerous crossings
+- `research/craft/MASTER-PLAN-journey-worldbuilding.md` — Commandments II (smell first) and X (thin senses in action)

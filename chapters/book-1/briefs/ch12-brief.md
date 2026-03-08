@@ -1,42 +1,40 @@
 **Status:** Prospective | No ledger entry
 
-## BRIEF: Chapter 12 — The World Turns Upward
+## BRIEF: Chapter 11 — The Land of Canals
 
-**When/Where:** The Zagros foothills. Hulwan (staging town) and the beginning of the mountain ascent. Spring 788 CE. Yusuf is 18.
-**Arriving from:** Chapter 11 crossed the Mesopotamian plain at night. The Zagros appeared as a dark jagged line at dawn. Now the terrain changes completely — flat earth gives way to hard stone. The animal economy shifts. The world turns vertical.
+**When/Where:** The Great Khorasan Road east of Baghdad. Mesopotamian plain, irrigated farmland. Night travel to avoid heat. Spring 788 CE. Yusuf is 18.
+**Arriving from:** Chapter 10 prepared the journey — cargo packed, caravan hired, Musa invited. Now the journey begins. Yusuf passes through the Khorasan Gate for the second time (the first was the Kufa journey south; this time he goes east, toward ancestry and the Silk Road).
 
 ### Characters Present
-- **Yusuf:** Physically tested for the first time on this journey. The mountains are not a market to be read — they are a force that does not care about ambition. His hand injury (saving the paper bale) is both heroic and humbling. The mountains correct his growing confidence.
-- **Umar (Ustad Umar):** Becomes essential. He has crossed the Zagros before. His knowledge of the terrain is survival knowledge — where to camp, which paths are stable, how to read weather from cloud patterns on the peaks. Gruff but his competence is its own eloquence.
-- **Musa ibn Tariq:** Physically struggling. The thin air, the cold, the vertiginous paths — he is a city boy from flat Baghdad streets. But he does not complain. Instead, he observes: birdsong he has never heard, flowers he cannot name. His curiosity is artistic, not strategic, and it humanises the landscape that Yusuf is reading for threat and opportunity.
-- **Caravan master (*ra'is al-qafila*):** A whirlwind of activity at Hulwan — repacking cargo, hiring a local Kurdish guide, sharpening weapons. His competence in the transition reveals the logistics of terrain adaptation.
-- **Kurdish scouts:** Lean men with curved daggers, watching from the ridges above. Not threatening — yet. They are assessing. In the mountains, the Caliph's authority is a rumour.
+- **Yusuf:** More experienced than on the Kufa journey but still young. The direction matters: east, not south. Toward Khorasan, Merv, the family's origins. He processes the landscape commercially (the *barid* as information infrastructure) and begins to notice Musa's social gift with discomfort.
+- **Umar (Ustad Umar):** Reads the road like a text. Knows where the current shifts in a canal, which caravansary has clean water, where bandits have been active. Teaches Yusuf to observe the road itself: hoof marks, the age of dung, how many days since another caravan passed. His knowledge is practical and military-adjacent.
+- **Musa ibn Tariq:** On his first journey of any kind. His reactions are raw, unfiltered. He plays softly during the night march and the handlers respond — someone hums along, someone shouts a request. His social ease opens doors Yusuf's watchfulness does not. He notices birdsong, stars, the beauty of canal water glinting at night.
+- **Caravan personnel:** The caravan master (*ra'is al-qafila*), animal handlers, guards, pilgrims. Background presence but the social hierarchy of the road is visible in movement and camp.
 
 ### What This Chapter Must Accomplish
-- Show Hulwan as frontier town where the animal economy changes completely. Dromedary camels sold, replaced with Bactrian camels (shaggy, two-humped, cold-adapted) and sure-footed mules. The reader sees the logistics of terrain adaptation.
-- Dramatise the physical reality of mountain travel. Narrow ledges, loose scree, sheer drops. A mule slips and nearly takes a bale of paper into a valley. Yusuf saves the cargo but injures his hand — the hand he uses for the finest paper work. Umar splints it without comment on bravery.
-- Register the air itself changing. Thin, crisp, carrying the scent of wild thyme, sage, and oak scrub. Temperature drops dramatically at night. Fires are essential. Men huddle close. Danger compresses community — on the plain, men spread out; in the mountains, they press together.
-- Show Kurdish scouts on the ridges — the power structure made visible. In the mountains, the Caliph's authority is a rumour, and these men are the true sovereigns of the terrain. This anticipates the *badraqa* negotiation in Ch 13.
-- Physical danger as teacher. The mountains do not care about ambition. Every step must be earned. This is the "too competent" corrective — Yusuf's growing confidence is checked by terrain that cannot be charmed, negotiated with, or analysed.
-- Stealth thesis: the world turns upward, and with it every assumption about power, value, and safety. The rules of the plain do not apply in the mountains.
+- Establish the Khorasan Gate as threshold. Yusuf passes through the gate his father's tiles adorn. East, toward ancestry. The emotional weight is different from the Kufa departure — this is a journey into the unknown, toward origin.
+- Show night travel on the Mesopotamian plain: stars dense as powder, soft rhythmic padding of camel feet, creak of leather harness, lead donkey's bell. The irrigated landscape at night — canals glinting silver, croaking of frogs, smell of damp earth and dung. A world experienced through sound and smell more than sight.
+- Introduce the *barid* system. A postal rider thunders past at speed. The empire's nervous system — couriers carrying state intelligence. Yusuf registers the system as infrastructure: information moves faster than goods, and whoever controls information controls commerce. This is the first seed of his future intelligence network.
+- Show the Nahrawan canal crossing — the last outpost of Baghdad's direct influence. Beyond this, the landscape empties. Sasanian ruins appear (Daskara of the King), a reminder that empires precede and outlast the current one.
+- Plant Yusuf's recognition of Musa as an intelligence asset. A handler tells Musa, casually over a shared meal, that the caravan master has a dispute with a certain merchant family in Hulwan. Musa does not register the information's value. Yusuf does, and the recognition shames him. This is the first seed of using people he loves as instruments.
+- Stealth thesis: the road between destinations is not empty — it is a text to be read, and the empire's true structure (canals, postal riders, ruins of older empires) is visible to those trained to see it.
 
 ### Continuity
-- Paper packing for mountain conditions was prepared in Ch 10. The mule slip tests that preparation — the oilcloth saves the paper but the bale's binding tears.
-- Yusuf's hand injury is a real setback — he cannot do fine paper work for weeks. This is a consequence that lingers into the Rayy chapters.
-- Kurdish scouts plant the *badraqa* negotiation of Ch 13. The power shift from caliphal authority to tribal sovereignty begins here.
-- Hulwan's animal transition echoes the logistical detail of Ch 10's preparation — the caravan master's foresight paying off in practice.
-- The physical compression of community in the mountains shifts the caravan's social dynamics — intimacy forced by danger. This affects the Musa-Yusuf friendship (closer quarters, deeper conversations to come in Ch 15).
-- Musa's physical struggle but artistic curiosity plants his character arc: he grows harder through the journey (Ch 16: "Musa is physically harder now").
+- The Khorasan Gate tiles are Ali's masterpiece, referenced in Ch 7. Yusuf passes through them here — the motif of departure through the father's work.
+- The *barid* system, observed here, becomes critically important in Books 2-3 (Yusuf builds a private intelligence network modelled on it).
+- Musa-as-intelligence-asset is planted here, pays off across the series. The shame Yusuf feels is the first tremor of his fatal flaw — reading people as systems rather than as human beings.
+- Sasanian ruins (Daskara) plant the theme of deep time and imperial impermanence. Echoed in Rayy (Ch 14), where Sasanian foundations are visible beneath Islamic additions.
+- Night travel contrasts with the Kufa journey (which was daytime, southward, on the Tigris route). The sensory world is entirely different.
 
 ### Voice Reminders
-- Sensory lead: TOUCH and SOUND dominate. Hard stony ground underfoot, the clatter of mule hooves on rock, thin cold air, the sudden silence of high altitude (no city noise, no market sounds, only wind and animal breath). Smell runs third: wild thyme, sage, oak scrub, damp wool, wood smoke.
-- Prose rhythm: The mountain scenes should feel physical. Shorter paragraphs. Sentences that register effort — the strain of climbing, the vertigo of narrow ledges. The mule-slip scene should be fast, compressed, tactile. The camp scene at night can breathe — longer sentences, the relief of stillness after exertion.
-- Belgariad technique: Landscape as mood. The mountains signal ordeal, transformation. The terrain type determines the prose's emotional register — plains were exposure and openness; mountains are compression and danger.
-- The two-beat arrival at Hulwan: the distant relief of seeing green foothills and the pomegranate-scented air, then the close-up reality of a tense staging post preparing for danger.
+- Sensory lead: This is a NIGHT chapter. Sound and smell dominate over sight. The lead donkey's bell. Canal water glinting. Frogs. Damp earth. The Zagros mountains appearing as a dark jagged line on the eastern horizon at dawn — the first visual punch after a chapter of darkness.
+- Prose rhythm: The night-march sections should use longer, hypnotic sentences — the monotony of movement rendered in rhythmic prose. Short sentences for moments of disruption: the *barid* rider, the Musa-intelligence moment, the first sight of the Zagros at dawn.
+- Musa's presence lightens the chapter. His unfiltered reactions (delight at stars, fascination with handlers' songs) provide emotional contrast to Yusuf's analytical observation.
+- Belgariad technique: MOVE/PAUSE rhythm. The night march is MOVE; the Nahrawan stop and the shared-meal scene are PAUSE. World-building happens in the pauses.
 
 ### Deep Research (if needed)
-- `research/journeys/j3-paper-road-to-rayy.md` — Day 8-17, Hulwan, animal transition, Zagros ascent
-- `research/journeys/j3-mountain-passage-zagros-year6.md` — terrain, Kurdish scouts, mountain hazards
-- `research/journeys/j3-baghdad-zagros-research.md` — Hulwan description, Zagros geography, flora/fauna
-- `research/digests/bulliet--camel-and-wheel.md` — Bactrian vs. dromedary camels, mountain logistics
-- `research/digests/hillenbrand--islamic-architecture.md` — caravansarai description for Hulwan
+- `research/journeys/j3-paper-road-to-rayy.md` — Day 1-7 itinerary, terrain, canal crossings
+- `research/journeys/j3-baghdad-zagros-research.md` — Mesopotamian plain, Nahrawan, Daskara
+- `research/digests/silverstein--postal-systems.md` — the *barid* system, postal riders, intelligence function
+- `research/digests/bulliet--camel-and-wheel.md` — night travel logistics, road conditions
+- `research/world-building/baghdad-land-grant.md` — Khorasan Gate neighbourhood, canal geography

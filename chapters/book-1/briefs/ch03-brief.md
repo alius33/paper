@@ -1,53 +1,61 @@
-**Status:** Drafted | Ledger entry exists
+# Chapter 3 Brief — The Mother's Country
 
-## BRIEF: Chapter 3 — The Wounded Heart
+> **Status:** Drafted (`chapters/book-1/ch03-the-mothers-country.md`)
 
-**When/Where:** Kufa, the old capital. Three days in the city. Spring 787 CE. Yusuf is 17.
-**Arriving from:** Chapter 2 ended with Yusuf not wanting the road to end. He has bonded with Sa'dan and Sayeed. Umar has warned him that Kufa is a wound. Yusuf has learned that information is a commodity and time is money. His legs have adapted; his mind is wide open.
+---
 
-### Characters Present
-- **Yusuf:** Arrives expecting grandeur, finds a city that crouches. Blurts out the wrong thing at Khalid ibn Dawud's shop ("Because this paper is better"), then self-corrects by giving paper to Tariq and a student. His first commercial failure and his first improvised strategy. Leaves Kufa changed.
-- **Ustad Umar:** Emotionally cracked open at the Great Mosque (his uncle died on this road). Reports to Abu Said first, privately. Teaches the lesson of multiple stories: "You must learn to hold many stories at once, and know which one to tell in which room."
-- **Sa'dan and Sayeed:** Farewell at the city gate. Brief, caravan-style. Sa'dan's parting line is about Biter the camel. Sayeed clasps hands and grins. They vanish into the Hajj column heading south.
-- **Tariq:** The bread thief. Fourteen, barefoot, thin ("bones of his wrists stood out like knots in a reed"). Patches neater than the garment. Sits outside the study circle memorising grammar he cannot afford to write down. Gives Yusuf the line: "I need paper more than anyone you've spoken to, and I can't buy it."
-- **Khalid ibn Dawud:** First stationer. Large, neatly bearded, ink in his knuckle-creases. Twelve years of trusted suppliers. Rejects the paper not on quality but on relationships and resentment of Baghdad. His unfinished sentence is the chapter's sharpest moment.
-- **Abu Yaqub:** The grammarian. Small with enormous ink-stained hands. Examines the paper like Ali examines a tile. Takes 24 sheets on consignment. Delivers the chapter's political lesson: "Do not come here and tell us that Baghdad's way is better. We have heard that before, and it cost us everything."
-- **The *sarrafs*:** Two money-changers in the khan courtyard, sorting coins at inhuman speed. Not characters but a motif — Yusuf watches them and begins to sense "the shape of something in the dark."
+## When / Where
 
-### What This Chapter Must Accomplish
-- Dramatise Yusuf's first commercial failure: five stationers reject the paper. The lesson is not about quality but about trust, relationships, and political memory.
-- Establish Kufa as a city defined by its wound: the Abbasid revolution's broken promise, the capital's relocation to Baghdad.
-- Introduce Tariq — the bread thief who knows grammar better than the paying students. His existence reframes what paper means.
-- Show Yusuf learning in real time: the "Scholar's Cream" improvisation at Abu Yaqub's shop.
-- Plant the *sarraf* motif and the *mudaraba* argument at the khan — commercial concepts that pay off in Ch 5.
-- Achieve a small foothold: 24 sheets on consignment plus scattered sales to scribes. Not a triumph, but a beginning.
-- Stealth thesis: "The people who valued it could not afford it. The people who could afford it did not value it."
+**Year:** 787 CE. Yusuf is 17.
+**Days 4–5** of the Kufa journey. The caravan is south of Baghdad, approaching Kufa.
+**Terrain:** Flat plain, then off-road diversion through raw terrain (dry wadis, scrub thorn, crumbling banks). Open camp (no khan). Day 5: rejoin main road, irrigated fields, approach to Kufa.
 
-### Continuity
-- The iron chest is opened for the first time: twelve sheets of the Caliph's Cream in cotton wadding. Yusuf helped make some of these.
-- Yusuf carries two sheets inside his robe. Gives one to Tariq, one to the student. These are never recovered.
-- Sa'dan's farewell: "Keep your hands away from Biter's mouth." This is his last appearance in the drafted chapters.
-- Sayeed's farewell: "Al-Muin's men. Everyone knows us." Plants possible reunion.
-- Tariq's thin fingers folding the paper "with extraordinary care — precise, deliberate folds, the folds of a boy who understood that some things, once creased wrong, could not be uncreased" — this image recurs in Ch 4 as Yusuf reflects on the roof.
-- The *mudaraba* argument (rabb al-mal, mudarib, risk-sharing) overheard at the khan — first exposure to Islamic commercial law, paid off in Ch 5 through Omar's suftaja lesson.
-- Khalid ibn Dawud's unfinished sentence ("In a city that stole our future") and Abu Yaqub's speech about the revolution plant the political theme that runs through the series.
-- Abu Yaqub: 24 sheets on consignment, with a promise of future orders — creates a Kufa foothold referenced in Abu Said's debrief (Ch 4).
+## Characters Present
 
-### Voice Reminders
-- Sensory lead: SOUND for Kufa (softer noise, worn rhythms, "even the buildings had been rounded by wind and time"). Smell for the khan at night (grilled meat, cumin, date syrup, woodsmoke). The Great Mosque: silence and shadow.
-- Prose rhythm: The failed sales demand quick, compressive scenes — enter, pitch, refuse, leave. The Tariq scene slows down, becomes tender. The khan gallery scene at night is reflective, long-sentence, accretive.
-- Dialogue: Khalid ibn Dawud is flat and weary. Abu Yaqub is expressive and sharp. Tariq is precise beyond his years — his grammar summary is delivered "the way a craftsman displays his best work." Umar's political lesson is his second most sustained speech: "You cannot carry only one story in your head."
-- This is the longest chapter (~7,000 words). Maintain pacing through the five-scene structure: farewell, failed sales, Tariq, Abu Yaqub, khan gallery reflection.
+- **Yusuf** — experiencing the first deeply personal encounter of the journey
+- **Umar (Ustad Umar)** — delivers key lessons; rides his donkey during standoff
+- **Sa'dan** — calm, calculating; gives the hobble cord at farewell
+- **Sayeed** — frightened during standoff, recovers at campfire with humour
+- **Al-Muin (the *khabir*)** — navigates the diversion, refuses the Banu Asad's terms
+- **Banu Asad riders** — 8-10 on eastern ridge, Layla's tribe
 
-### Enhancement Priorities
-- The Great Mosque as physical space: add one or two specific architectural details (wear on stones, light falling differently through an older design) to make the Shi'a wound visible in the building itself
-- Study circles: differentiate the circles by subject (grammar, law, recitation) with brief physical details — a teacher drawing letter forms on slate, students arguing aloud, murmuring in unison
-- The *sarraf* scene: have Umar or a stranger explain one specific transaction (a coin's provenance, why it is suspect) to create a cleaner through-line to Ch 5's trust synthesis
+## What This Chapter Accomplishes
 
-### Deep Research (if needed)
-- `research/journeys/j2-journey-to-kufa.md` — Kufa city layout, Great Mosque description
-- `research/world-building/abbasid-revolution.md` — the revolution's promise to Kufa, the Shi'a wound
-- `research/digests/halm--shia-islam.md` — Kufa as Shi'a birthplace, collective guilt theology
-- `research/digests/hillenbrand--islamic-architecture.md` — Kufa Great Mosque (qibla wall, hypostyle plan, dar al-imara adjacency)
-- `research/digests/pedersen--the-arabic-book.md` — Suq al-Warraqin market structure, warraq system
-- `research/finance/partnership-finance-empire.md` — mudaraba partnership structure for the khan argument
+1. **The Banu Asad/Layla identity fracture** — Yusuf consciously recognises that the threatening riders are his mother's people. Extended interior passage: "My people are the Banu Asad, Yusuf." He feels the crack in his simple picture of the world — merchants on one side, tribes on the other, and he is half of each.
+2. **"Trade is time"** — Umar's lesson during the diversion. Not abstract but concrete: half a day for 300 men, 1,000 animals, every hour a cost.
+3. **The farewell** — Sa'dan's hobble cord with drover's hitch. "The road is not so big." A parting that registers emotionally without sentimentality.
+4. **Kufa on the horizon** — a low brown line, no dome, no minaret. Yusuf watches it the way Sa'dan watches: measuring, not judging.
+
+## Chapter Spine
+
+"The first time the system touches something personal."
+
+## Continuity Notes
+
+- **Follows from Ch 2:** Umar's warning that Kufa is "a wound." The Banu Asad scouts seen at the second khan (Ch 2, Day 2) now return as the main standoff.
+- **Leads into Ch 4 (Wounded Heart):** Yusuf enters Kufa already primed — he has seen beneath the surface (Ch 2), felt the system's personal dimension (Ch 3), and now faces the wound itself.
+- **Farewell:** Sa'dan and Sayeed depart south with the Hajj pilgrims. They do not appear again until a possible re-encounter later in the series. Sa'dan's philosophy: "The road is not so big."
+- **Hobble cord:** Carried as personal object. Track forward.
+- **Layla/Banu Asad thread:** Enriches Ch 8 (Tilemaker's Son — when Layla is discussed at Ali's home), Ch 21 (Singing Sands — Bedouin songs and desert landscape), and the series-long identity question.
+- **Umar's donkey:** Confirmed in this chapter (rides it during the standoff scene).
+
+## Voice Reminders
+
+- The interior Layla passage must be Yusuf's voice, not the narrator's thesis. He feels the fracture; he does not yet have words for it. The naming comes through sensation and image, not analysis.
+- Sa'dan's farewell is understated. The giving of the cord says what his voice will not. Do not over-explain.
+- Kufa's appearance should NOT disappoint Yusuf (he has been warned). He watches — measuring, not judging.
+
+## Sensory Palette
+
+- **Open desert:** pale sky pressing down, flat earth, heat haze, copper taste of fear in the mouth
+- **Banu Asad riders:** dark shapes against pale sky, stillness of men who belong to the land, lances catching sun
+- **Diversion terrain:** raw earth, stones crunching, scrub thorn, crumbling banks, dry wadis
+- **Campfire at night:** stars "thicker than he had ever seen them," fire sparks rising, camel groaning in sleep, dried bread in broth, weak tea
+- **Dawn approach to Kufa:** irrigated fields (green, startling after brown), canal glinting, farmer watching without expression, mud-brick walls low against the earth
+
+## Deep Research
+
+- Journey: `research/journeys/j2-journey-to-kufa.md`
+- Craft: `research/craft/kufa-journey-worldbuilding-map.md`, `research/craft/journey-to-kufa-research.md`
+- Character: `research/characters/family-tree-of-yusuf.md` (confirms Banu Asad maternal heritage)
+- Digest: `research/digests/bulliet--camel-and-wheel.md`, `research/digests/silverstein--postal-systems.md`

@@ -1,38 +1,38 @@
 **Status:** Prospective | No ledger entry
 
-## BRIEF: Chapter 26 — The Return and the Restlessness
+## BRIEF: Chapter 25 — The Monk's Question
 
-**When/Where:** Baghdad, summer 789 CE. Yusuf is 19.
-**Arriving from:** Chapter 25 — the Mosul journey. Yusuf carries Isho's lesson (trust runs along confessional lines), the monk's question (paper's permanence), and Omar's blunt soldier's perspective. He returns to the workshop changed.
+**When/Where:** Mosul and the Monastery of Saint Matthew (carved into a mountainside northeast of Mosul). Spring 789 CE. Yusuf is 19.
+**Arriving from:** Chapter 24 — Yusuf has arrived in Mosul and absorbed its frontier character, its multilingual markets, its military presence. Now he enters two worlds completely alien to him: Nestorian commerce and military life.
 
 ### Characters Present
-- **Yusuf:** Restless. The workshop feels too small now. He has seen Damascus, Mosul, the empire's fractures and frontiers. His commercial vision is expanding faster than his world allows.
-- **Abu Said:** Notices Yusuf's restlessness. He is both proud and wary — the apprentice is becoming something he did not intend. Abu Said raises the Merv opportunity strategically, testing whether Yusuf is ready.
-- **Omar al-Dimashqi:** Running the workshop smoothly — perhaps too smoothly. His quiet competence is a foil for Yusuf's hunger. He is content where Yusuf is restless.
-- **Ali ibn Suleiman (father):** Learns of the Merv plan and is deeply moved. Khorasan is his homeland. He gives Yusuf a list of family names — distant relatives, the old neighbourhood, the kiln his father Suleiman built. This is tender and rare.
+- **Yusuf:** Navigating religious difference for the first time as a commercial reality. He is not a bigot, but he is an outsider — his instinct to read people as systems meets a community whose internal codes he cannot easily decipher.
+- **Isho (Nestorian merchant):** The gatekeeper. His house is not ostentatious, but the quality of his carpets and glassware speaks of quiet, sustained wealth. Serves wine casually — a marker of cultural difference, not overdramatised. His network of co-religionists extends into Byzantine Anatolia. The critical commercial insight: "Your paper is excellent, but the Greeks trust my word, not your master's."
+- **The monk at Saint Matthew's:** A man who cares about permanence, not profit. His question — "Will your paper hold the word of God for five hundred years?" — is the chapter's philosophical centre.
+- **Omar ibn Ali (half-brother):** The reunion. Brief, charged, warm but uncomfortable. Omar's world of soldiers and fortifications is alien to Yusuf, and Yusuf's commercial world is incomprehensible to Omar.
 
 ### What This Chapter Must Accomplish
-- **Baghdad as return-journey displacement.** Familiar things feel different because the traveller has changed. The workshop's rhythms, once all-encompassing, now feel like one small corner of a larger world. Baghdad's sounds and smells are the same — but Yusuf hears them differently, as one city's particular signature among many.
-- **The Merv opportunity.** Abu Said has a large paper order from the governor's court at Merv. He proposes the journey with hesitation — Khorasan is restive, the distance is enormous, the risks are real. The *suftaja* he gives Yusuf represents Abu Said's trust, and its limits. This is the instrument Yusuf will later betray.
-- **Ali and the list of names.** Ali's reaction to the Merv plan is the chapter's emotional centre. This is not commercial — it is personal. Ali left Merv decades ago, carrying his craft and his grief. Giving Yusuf the list of family names is an act of love and of proxy pilgrimage. The scene should be tender without sentimentality.
-- **Plant the suftaja as trust.** The physical document — Abu Said's letter of credit — should be rendered with material specificity. Its weight, its seal, the quality of paper it is written on. This object will become the instrument of betrayal in Ch 30. The reader should feel its significance now.
-- **Transition to the eastern journey.** The chapter ends with departure or the preparation for departure. The Khorasan Road — east, toward origin, possibility, and danger.
+- **Isho and the Nestorian network.** Yusuf's first sustained encounter with a non-Muslim commercial world that operates on its own terms. Isho is not hostile but is clear about limits: trust runs along confessional lines, and a Muslim merchant from Baghdad cannot simply walk into a network that has been operating for centuries. Yusuf does not close a major deal here — he builds a relationship whose value will only become apparent in Constantinople (Book 1, Part Five).
+- **The Monastery of Saint Matthew.** A set piece of atmosphere: carved into a mountainside, the scriptorium smelling of old parchment and beeswax. The monk's question — "Will your paper hold the word of God for five hundred years?" — cuts to the heart of paper vs. permanence. Parchment has already endured centuries; paper is a newcomer. Yusuf must answer with craft conviction, not salesmanship. This scene plants a seed that blooms in Constantinople (Brother Michael at the Stoudios Monastery).
+- **The Omar reunion.** Love and mutual incomprehension. Omar's world: rigid hierarchy, physical discipline, scarred bodies, pragmatic materialism. A shared meal with specific food, the garrison's plain quarters, Omar's scarred hands. Omar speaks plainly about the cost of imperial service. The key dynamic: "You sit in the Caliph's palace and move gold with a pen. I marched for months and bled for miles to protect the roads your gold travels on." Neither man is wrong. Neither can yield.
+- **The empire from the soldier's perspective.** Through Omar, the reader sees the military side of the caliphate: endless marches, seasonal raids, fortified border towns, pay delays. Where Yusuf sees trade routes, Omar sees supply lines. Where Yusuf sees markets, Omar sees strategic positions.
 
 ### Continuity
-- The *suftaja* given here is the one Yusuf will misuse in Ch 30. It must be clearly established as a document of specific trust — authorised for a specific purpose (the paper sale at Merv), with clear limits.
-- Ali's list of family names will pay off in Ch 27 (the family's kiln, the weeping cousin).
-- Abu Said's hesitation about Khorasan foreshadows his parting speech in Ch 32 — he already senses the risk in Yusuf's hunger.
-- Omar al-Dimashqi's quiet contentment sets up the contrast that will define their partnership: Yusuf hungers, Omar crafts. The partnership works because of this difference — and eventually strains because of it.
-- The workshop "running smoothly" connects to Abu Said's teaching — the system works without crisis, but Yusuf sees stasis where Abu Said sees sufficiency.
+- Isho's network plants the seed for the Constantinople venture (Chs 38-42). Yusuf will need Nestorian connections to cross into the Byzantine world.
+- The monk's question about paper's permanence plants a thread that resolves at the Stoudios Monastery (Ch 40) and in the founding of the House of Paper itself.
+- The Omar reunion is the emotional backbone of the series. After Mosul, Yusuf carries Omar's perspective like a second voice in his head — the soldier's blunt critique of the merchant's abstracted world. This will surface at every moral crisis.
+- Omar's mention of pay delays and supply-chain problems echoes his earlier comment about "moving money without moving coin" (784 CE backstory). The suftaja system is being foreshadowed from the military side.
 
 ### Voice Reminders
-- Sensory lead: Baghdad in summer. Familiar smells — the workshop's wet-rag and lime tang, Ali's tile-glaze chemicals, the Khorasan Gate neighbourhood's particular blend of dust and cooking fires. But now filtered through a traveller's ear — Yusuf notices the specificity of these smells for the first time.
-- Prose rhythm: reflective and domestic. This is a pause between journeys. The rhythm should be medium — not the road's monotony or the desert's intensity, but the quieter tension of a person who has outgrown his container.
-- The Ali scene should use silence and physical gesture — the list of names written carefully, the father's hands, the things not said. Ali's voice is slow and deliberate.
+- Sensory lead for the monastery: old parchment, beeswax, cool mountain stone, the faint echo of liturgical chanting in Syriac. Dark interior lit by oil lamps and narrow windows. The scriptorium's silence.
+- Sensory lead for the garrison: plain quarters, the smell of horse leather and oiled metal, soldiers' boots on stone, the basic food of men far from home.
+- Prose rhythm: three distinct registers within one chapter. The Isho scenes are medium-paced, conversational, careful. The monastery scene is slow, contemplative, weighted. The Omar reunion is warm but blunt — shorter sentences, direct speech, physical detail.
+- Dialogue: Isho speaks fluent but accented Arabic — precise, commercial, courteous. The monk speaks through his question — silence is louder than explanation. Omar is blunt and plain. Three distinct voices in one chapter.
 
 ### Deep Research
-- `research/craft/long-journeys-worldbuilding-plan.md` — Section C.1 (the homecoming paradox, setup for Merv)
-- `research/world-building/baghdads-paper-trade.md` — the workshop world Yusuf is leaving behind
-- `research/world-building/paper-mill-apprenticeship.md` — the master-apprentice relationship at this late stage
-- `research/craft/MASTER-PLAN-journey-worldbuilding.md` — Commandment I (every place must change Yusuf) applied to the return
-- `research/digests/frye--golden-age-of-persia.md` — Khorasan as homeland, the Khorasani identity
+- `research/craft/long-journeys-worldbuilding-plan.md` — Section B.2 (Nestorian networks), B.3 (the Omar reunion)
+- `research/journeys/j5-northern-artery-mosul-year7.md` — Isho, the monastery, the Nestorian world
+- `research/digests/vaissiere--sogdian-traders.md` — cross-confessional trade networks
+- `research/digests/kennedy--armies-of-caliphs.md` — military life on the northern frontier, garrison conditions
+- `research/craft/MASTER-PLAN-journey-worldbuilding.md` — Commandment IV (each companion unlocks a different door)
+- `research/digests/morony--jews-in-iraq.md` — inter-confessional commerce in Abbasid society

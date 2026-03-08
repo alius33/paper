@@ -385,33 +385,34 @@ Ink, old parchment, the faintly sweet grassy scent of papyrus, the clean chemica
 ### Overall Structure
 
 **Book 1: The House of Paper (770–794 CE, story begins 787 CE)**
-Five parts, 42 chapters: The Road (Kufa journey, Chs 1–8) → The Mountain and the Market (Zagros/Rayy, Chs 9–18) → The Desert, the North, and the Ghost (Damascus, Mosul, Merv, Chs 19–32) → The Choice (founding the House, Chs 33–37) → The Byzantine Education (Constantinople, Chs 38–42).
+Five parts, 43 chapters: The Road (Kufa journey, Chs 1–9) → The Mountain and the Market (Zagros/Rayy, Chs 10–19) → The Desert, the North, and the Ghost (Damascus, Mosul, Merv, Chs 20–33) → The Choice (founding the House, Chs 34–38) → The Byzantine Education (Constantinople, Chs 39–43).
 
-The novel opens in media res with Yusuf already on his first overland trade journey at age 17. Childhood, apprenticeship, Layla's death, and the Wasit river journey are all backstory, revealed organically through memory and conversation. The series overview (`series-overview.md`) and Book 1 plot (`book-1-plot.md`) outline 42 chapters across five parts, of which the first five are drafted. Constantinople has been moved from Book 2 into Book 1.
+The novel opens in media res with Yusuf already on his first overland trade journey at age 17. Childhood, apprenticeship, Layla's death, and the Wasit river journey are all backstory, revealed organically through memory and conversation. The series overview (`series-overview.md`) and Book 1 plot (`book-1-plot.md`) outline 43 chapters across five parts, of which the first three are drafted. Constantinople has been moved from Book 2 into Book 1.
 
 ### Current Chapter Status — Book 1
 
-> **NOTE:** Chapters 1–5 form the opening of the book. They cover the Kufa journey and its immediate aftermath. Chapters 6–42 cover the remaining journeys, the founding of the House, and the Constantinople venture.
+> **NOTE:** Chapters 1–3 are drafted. Chapters 4–6 have archived drafts that need rewriting (old Chs 3–5 archived to `archive/book-1-drafts/`). Chapters 7–43 cover the remaining journeys, the founding of the House, and the Constantinople venture.
 
 | Draft # | File | Content | Approx Words | Status |
 |---------|------|---------|-------------|--------|
 | Ch 1 | `chapters/book-1/ch01-the-journey-to-kufa.md` | Caravan departure from Baghdad; Yusuf's first night on the road; meeting Sa'dan and Sayeed; sensory world of the camp | ~3,600 | Revised draft |
-| Ch 2 | `chapters/book-1/ch02-the-caliphs-road.md` | First days on the road; khan accommodation; tribal riders; Umar's backstory | ~5,200 | Current draft |
-| Ch 3 | `chapters/book-1/ch03-the-wounded-heart.md` | Arrival in Kufa; Umar at the Great Mosque; the bread thief (Tariq); the failed paper sales; the *khan* at night; Yusuf's commercial education | ~7,000 | Current draft |
-| Ch 4 | `chapters/book-1/ch04-the-poisoned-vat.md` | Return to workshop; Abu Said's assessment of the Kufa trip; introduction of the *siyaq* accounting script; the poisoned sizing vat incident; Jabir's sabotage and expulsion | ~6,000 | Current draft |
-| Ch 5 | `chapters/book-1/ch05-the-suq-al-warraqin.md` | Yusuf's first solo selling mission in Baghdad's paper market; the donkey; learning to sell in a known market; gradual confidence | ~6,000 | Final draft |
+| Ch 2 | `chapters/book-1/ch02-the-caliphs-road.md` | Days 1–3: first khan, ink merchant intelligence, Umar's backstory triggered by Yusuf's report; "learning to see beneath the surface" | ~4,100 | Current draft |
+| Ch 3 | `chapters/book-1/ch03-the-mothers-country.md` | Days 4–5: Banu Asad standoff, Layla/Banu Asad identity fracture, farewell campfire, Sa'dan's hobble cord, approach to Kufa | ~3,900 | Current draft |
+| Ch 4 | `archive/book-1-drafts/ch03-the-wounded-heart-old.md` | Arrival in Kufa; Umar at the Great Mosque; the bread thief (Tariq); the failed paper sales; the *khan* at night; Yusuf's commercial education | ~7,000 | Archived; rewrite pending |
+| Ch 5 | `archive/book-1-drafts/ch04-the-poisoned-vat-old.md` | Return to workshop; Abu Said's assessment of the Kufa trip; introduction of the *siyaq* accounting script; the poisoned sizing vat incident; Jabir's sabotage and expulsion | ~6,000 | Archived; rewrite pending |
+| Ch 6 | `archive/book-1-drafts/ch05-the-suq-al-warraqin-old.md` | Yusuf's first solo selling mission in Baghdad's paper market; the donkey; learning to sell in a known market; gradual confidence | ~6,000 | Archived; rewrite pending |
 
 ### Series Plot Outline — Key Beats Per Book
 
 Refer to `series-overview.md` for the series arc and `book-1-plot.md` for the chapter-by-chapter Book 1 outline. Below is a compressed summary of the major beats:
 
-**Book 1 — The House of Paper (42 chapters, 5 parts):**
+**Book 1 — The House of Paper (43 chapters, 5 parts):**
 *Story begins 787 CE, age 17. Childhood and apprenticeship are backstory, revealed organically.*
-1. **Part One — The Road (Chs 1–8):** The Kufa journey. The failed sale. Commercial education on the road. Return to workshop. Baghdad selling missions. Workshop deepening, home life, bureaucratic navigation. (Chapters 1–5 drafted.)
-2. **Part Two — The Mountain and the Market (Chs 9–18):** Musa's return. The Zagros/Rayy journey — physical danger, the Sogdian blueprint, Musa opens the emotional register. Baghdad interlude: Abu Said's debrief, Omar al-Dimashqi's new paper grade, letter from half-brother Omar.
-3. **Part Three — The Desert, the North, and the Ghost (Chs 19–32):** Damascus (desert crossing, papyrus market, active sabotage). Mosul (Nestorian networks, the military frontier, reunion with Omar). Merv — homecoming, Dastan destroyed by proximity to power (foundational motif), the silk gamble, the break with Abu Said.
-4. **Part Four — The Choice (Chs 33–37):** The family trust revealed. The central argument ("Paper is real"). The partnership with Omar al-Dimashqi and Ishaq. The founding of the House of Paper.
-5. **Part Five — The Byzantine Education (Chs 38–42):** Constantinople venture. Near-ruin by bureaucratic sabotage. Brother Michael and the Stoudios Monastery. Demetrios of Chios — the three pillars: Capital, Information, Influence.
+1. **Part One — The Road (Chs 1–9):** The Kufa journey. The failed sale. Commercial education on the road. The Banu Asad/Layla identity fracture. Return to workshop. Baghdad selling missions. Workshop deepening, home life, bureaucratic navigation. (Chapters 1–3 drafted.)
+2. **Part Two — The Mountain and the Market (Chs 10–19):** Musa's return. The Zagros/Rayy journey — physical danger, the Sogdian blueprint, Musa opens the emotional register. Baghdad interlude: Abu Said's debrief, Omar al-Dimashqi's new paper grade, letter from half-brother Omar.
+3. **Part Three — The Desert, the North, and the Ghost (Chs 20–33):** Damascus (desert crossing, papyrus market, active sabotage). Mosul (Nestorian networks, the military frontier, reunion with Omar). Merv — homecoming, Dastan destroyed by proximity to power (foundational motif), the silk gamble, the break with Abu Said.
+4. **Part Four — The Choice (Chs 34–38):** The family trust revealed. The central argument ("Paper is real"). The partnership with Omar al-Dimashqi and Ishaq. The founding of the House of Paper.
+5. **Part Five — The Byzantine Education (Chs 39–43):** Constantinople venture. Near-ruin by bureaucratic sabotage. Brother Michael and the Stoudios Monastery. Demetrios of Chios — the three pillars: Capital, Information, Influence.
 
 **Book 2 — The House of Silver:**
 1. The watermark innovation. Marriage to Zahra. Destruction of rival Hamid.
@@ -432,7 +433,7 @@ Refer to `series-overview.md` for the series arc and `book-1-plot.md` for the ch
 
 ### Recurring Motifs and Foreshadowing
 
-- **The Sogdian in Merv (Dastan)** — appears first when Yusuf witnesses him destroyed at the governor's asset auction (age 19, Ch 29). Recurs at every moral crisis, each time meaning something different: motivation (I must never be that vulnerable) → justification (I built my fortress) → accusation (in the Barmakid Gamble, Yusuf becomes the system that destroyed Dastan) → reconciliation (Yusuf honours all commitments, refusing to let power destroy those who trusted him).
+- **The Sogdian in Merv (Dastan)** — appears first when Yusuf witnesses him destroyed at the governor's asset auction (age 19, Ch 30). Recurs at every moral crisis, each time meaning something different: motivation (I must never be that vulnerable) → justification (I built my fortress) → accusation (in the Barmakid Gamble, Yusuf becomes the system that destroyed Dastan) → reconciliation (Yusuf honours all commitments, refusing to let power destroy those who trusted him).
 - **The pouch of desert sand** — Layla's gift. Carried unopened for decades. Opened for the first time at the crisis of Book 3.
 - **"Paper is real"** — Ali's argument against abstract finance. Echoes throughout as Yusuf's empire becomes increasingly abstract.
 - **The Khorasan Gate tiles** — Ali's masterpiece. Visible from the family rooftop. Survive the siege in Book 4. The endurance of physical craft vs. the fragility of financial systems.
@@ -482,15 +483,15 @@ Refer to `series-overview.md` for the series arc and `book-1-plot.md` for the ch
 | 774 | 4 | Omar (half-brother) leaves for the army |
 | 779 | 9 | Apprenticeship begins at Abu Said's workshop |
 | 782 | 12 | **Layla's death** |
-| 784 | 14 | Omar visits for his wedding. Barmakid-commissioned tile project (details TBD — not to be confused with Jabir's sizing vat sabotage, which occurs in Ch 4, ~788 CE). |
+| 784 | 14 | Omar visits for his wedding. Barmakid-commissioned tile project (details TBD — not to be confused with Jabir's sizing vat sabotage, which occurs in Ch 5, ~788 CE). |
 | 786 | 16 | Harun al-Rashid becomes Caliph |
-| 787 | 17 | *[STORY BEGINS]* Journey to Wasit (river, backstory). Journey to Kufa (overland, Chs 1–5). Workshop deepening, home life (Chs 6–8). |
-| 788 | 18 | Musa reconnection (Ch 9). Journey to Rayy (Zagros crossing, with Musa, Chs 10–16). Abu Said debrief (Ch 17). Journey to Damascus (Chs 19–23). |
-| 789 | 19 | Journey to Mosul (Chs 24–25). Journey to Merv (Chs 27–30). **The Sogdian (Dastan). The silk gamble.** |
-| 789–790 | 19–20 | Return to Baghdad (Ch 31). Reckoning with Abu Said (Ch 32). |
-| 790 | 20 | The family trust revealed (Ch 33). The central argument (Ch 34). |
-| 791 | 21 | **The House of Paper founded** (Chs 35–37). Omar al-Dimashqi and Ishaq join. |
-| 793–794 | 23–24 | **Constantinople venture** (Chs 38–42). Near-ruin, Brother Michael, Demetrios of Chios. The three pillars: Capital, Information, Influence. *End of Book 1.* |
+| 787 | 17 | *[STORY BEGINS]* Journey to Wasit (river, backstory). Journey to Kufa (overland, Chs 1–6). Workshop deepening, home life (Chs 7–9). |
+| 788 | 18 | Musa reconnection (Ch 10). Journey to Rayy (Zagros crossing, with Musa, Chs 11–17). Abu Said debrief (Ch 18). Journey to Damascus (Chs 20–24). |
+| 789 | 19 | Journey to Mosul (Chs 25–26). Journey to Merv (Chs 28–31). **The Sogdian (Dastan). The silk gamble.** |
+| 789–790 | 19–20 | Return to Baghdad (Ch 32). Reckoning with Abu Said (Ch 33). |
+| 790 | 20 | The family trust revealed (Ch 34). The central argument (Ch 35). |
+| 791 | 21 | **The House of Paper founded** (Chs 36–38). Omar al-Dimashqi and Ishaq join. |
+| 793–794 | 23–24 | **Constantinople venture** (Chs 39–43). Near-ruin, Brother Michael, Demetrios of Chios. The three pillars: Capital, Information, Influence. *End of Book 1.* |
 | 795 | 25 | Destruction of Hamid al-Qurtubi. Marriage to Zahra. |
 | 796 | 26 | Frankincense discovery with Alexios. |
 | 797 | 27 | **Barmakid connection established.** Becomes junior *jahbadh*. |
@@ -525,11 +526,13 @@ When writing, maintain awareness of planted elements that must pay off:
 
 | Thread | Planted | Must Resolve By |
 |--------|---------|----------------|
-| The Sogdian's ghost (Dastan) | Ch 29 — Merv auction (age 19) | Series-long — motivation → justification → accusation → reconciliation |
+| The Sogdian's ghost (Dastan) | Ch 30 — Merv auction (age 19) | Series-long — motivation → justification → accusation → reconciliation |
 | The desert sand pouch | Layla's death (782) | Book 3 — opened for first time |
 | Abu Said's parting warning | End of apprenticeship | Series-long — the tension between endurance and profit |
 | Omar's comment about moving money without coin | Omar's wedding (784) | Book 2 — the suftaja system |
-| The bread thief Tariq (Kufa) | Ch 3 rewrite | TBD — possible recurring character? Clarify with author |
+| The bread thief Tariq (Kufa) | Ch 4 | TBD — possible recurring character? Clarify with author |
+| Banu Asad identity / Layla's people | Ch 3 — The Mother's Country | Series-long — identity fracture, enriches Ch 8 (Tilemaker's Son), Ch 21 (Singing Sands) |
+| Sa'dan's hobble cord (drover's hitch) | Ch 3 — farewell campfire | TBD — possible recurring motif |
 | The Banu al-Saffar clause | Book 2 | Book 3 — violated by Farid in Samarkand |
 | Zahra's independent preparations | Book 2 | Book 4 — save the family during the siege |
 | Khalid's question ("Who is right before the war is over?") | Book 3 | Book 4 — series-ending answer |

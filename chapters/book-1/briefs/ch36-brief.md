@@ -1,39 +1,37 @@
 **Status:** Prospective | No ledger entry
 
-## BRIEF: Chapter 36 — The House of Paper
+## BRIEF: Chapter 35 — The Partnership
 
-**When/Where:** Karkh district, Baghdad. Summer 791 CE. Yusuf is 21.
-**Arriving from:** Ch 35 — the partnership assembled. Omar, Ishaq, and Yusuf are committed. Now they must build.
+**When/Where:** Baghdad — Abu Said's old workshop (for Omar al-Dimashqi), then various locations in the city as Yusuf recruits Ishaq. Spring-summer 791 CE. Yusuf is 21.
+**Arriving from:** Ch 34 — the uneasy settlement with Ali. Yusuf has the capital (~10,000 dinars). He has his father's permission, not his blessing. He needs partners.
 
 ### Characters Present
-- **Yusuf:** In his element — planning, organising, seeing the shape of something before it exists. But also exposed. His capital is committed. If this fails, he has nothing. The confidence is genuine; so is the fear underneath it.
-- **Omar al-Dimashqi:** Practical, focused on production. Setting up the workshop space — vats, drying racks, a pressing station. Transforming leased premises into a functioning paper operation. In his element, too, but differently: Omar's joy is in the making, not the planning.
-- **Ishaq bar Yohannan:** Organising the legal architecture — contracts, supplier agreements, the formal partnership structure. His precision is both a gift and a source of dry comedy. He insists on documenting everything. "If it is not written, it did not happen."
-- **Musa ibn Tariq:** Visits the empty premises on the first evening. Plays a tune. His presence blesses the founding with something Yusuf cannot provide: warmth without calculation.
-- **Ali ibn Suleiman (absent but present):** The naming decision wounds Ali. Yusuf names it The House of Paper — not the House of Ali, not the House of Suleiman. A declaration of independence that Ali registers as erasure. Ali does not attend the founding.
+- **Yusuf:** Purposeful, energetic, but navigating a new kind of challenge — persuading people to share his vision. He cannot do this alone and he knows it. He needs a craftsman and a legal mind. He approaches each with a different pitch, tailored to what they want, not what he wants. This is his perception in action — reading people as systems, finding the argument that unlocks them.
+- **Omar al-Dimashqi:** Still at Abu Said's workshop, now a senior paper-maker. Loyal, talented, steady. He does not want to be a financier — he wants to make great paper. His resistance is genuine: "I want to make paper, Yusuf. Great paper. I don't want to be a financier." The compromise must honour this: Omar runs production, Yusuf handles commerce. This is the only partnership in the series built on pure affection.
+- **Ishaq bar Yohannan:** A Nestorian Christian scribe working in the legal quarter. Sardonic, brilliant, legally precise, privately lonely. He has the sharpest mind Yusuf has ever encountered outside Abu Said. His marginality (a Christian in a Muslim city — indispensable but never fully belonging) makes him both guarded and hungry. He sees in Yusuf's offer something no one else has given him: a seat at the table, not just a chair in the anteroom.
 
 ### What This Chapter Must Accomplish
-- The founding as a physical, tactile event. Show the premises: a leased compound in Karkh (the commercial district where Abu Said's workshop is also located). The space is empty, then slowly fills — Omar's production equipment, Ishaq's writing desk, Yusuf's small counting table.
-- The naming scene: "The House of Paper." Not a family name — a commodity name. This says everything about Yusuf's philosophy: the enterprise is defined by what it does, not who owns it. But it also wounds Ali, who expected his family name to anchor the venture. Handle this with subtlety — the wound should be implied, not dramatised in confrontation.
-- The watermark concept should be introduced or seeded here. Yusuf, examining their first production sheets, notices that the screen leaves a faint impression. The idea that paper could carry a mark of origin — proof of who made it — begins to form. This seeds the Book 2 watermark innovation.
-- The first *suftaja* — even if only discussed, not yet issued. Yusuf explaining to Ishaq how a letter of credit works, using his knowledge from the Sogdian merchants in Rayy. Ishaq immediately seeing both the legal implications and the risks.
-- The evening scene: the three founders sitting in the premises after the first day. The shop smells of fresh plaster, new wood, and ink. "What are we building?" "Something that will outlast all of us." Then Musa arrives, plays a tune, and the chapter ends on a note of warmth before the harder chapters to come.
+- Show partnership formation as drama — not logistics. Each recruitment is a negotiation scene with emotional stakes.
+- Omar's scene: warmth, history, the old workshop as backdrop. The smell of sizing and pulp. Two friends making a pact. The handshake matters more than any contract.
+- Ishaq's scene: cooler, sharper. Yusuf finds Ishaq through inquiry (the Nestorian scribal community). Their first meeting should crackle — two analytical minds sizing each other up. Ishaq's sardonic deflections masking genuine interest. Yusuf's pitch to Ishaq must be different from his pitch to Omar: to Omar he offers craft autonomy; to Ishaq he offers belonging and scope.
+- Establish the three-person dynamic that will drive the House for the next twenty years: Omar (production), Ishaq (legal/administration), Yusuf (commerce/strategy).
+- Show the *mudaraba* structure taking shape: Yusuf as *mudarib* (working partner with capital), others as partners with defined roles. Ishaq would insist on proper legal structure.
+- Plant the seeds of future tension: Omar's eventual discomfort with Yusuf's ruthlessness (Book 2 — "You didn't just beat him. You erased him"), Ishaq's eventual moral crisis over the Barmakid Gamble ("the most dishonourable thing I have ever been party to").
 
 ### Continuity
-- The Karkh location connects to the broader Baghdad geography established in earlier chapters. The Suq al-Warraqin (Ch 5) is nearby — Yusuf is setting up in the market he learned to sell in.
-- The watermark seed here pays off massively in Book 2, where it becomes the House's signature innovation and a physical embodiment of the "Paper is real" argument — trust made visible.
-- The first *suftaja* discussion connects to: the Sogdian merchants in Rayy (Chs 14-16), Omar (brother)'s comment about moving money without coin (Ch 18), and the Byzantine banking system Yusuf will encounter in Constantinople (Chs 41-42).
-- Musa's visit provides an emotional touchstone that will be echoed in Book 4, when Musa plays in the same premises during the siege — the same tune, decades later, in a different world.
-- Ali's absence at the founding is a quiet wound that will deepen. The relationship is not broken — but something has shifted.
+- Omar al-Dimashqi was introduced in Ch 4 (the poisoned vat). His new paper grade succeeded in Ch 17-18. His relationship with Yusuf is the oldest professional friendship in the series.
+- Ishaq's Nestorian identity connects to the Nestorian networks Yusuf encountered in Mosul (Ch 24-25) and foreshadows Brother Michael in Constantinople (Ch 40-41).
+- The partnership structure here will be contrasted with the Barmakid connection in Book 2, where Yusuf enters a relationship built on patronage and power rather than affection and trust.
+- Abu Said's workshop as the setting for Omar's scene is deliberate: Yusuf is pulling Omar away from the master's world. The guilt should be present, even if unspoken.
 
 ### Voice Reminders
-- Sensory lead: smell — fresh plaster, wood shavings, the first sheets of paper drying, ink, the canal behind the premises. The smell of a beginning.
-- Prose rhythm: purposeful, forward-moving. Short scenes showing different aspects of the setup, connected by Yusuf's interiority. The evening scene slows down — longer sentences, more reflective. Musa's oud provides the chapter's closing rhythm.
-- Dialogue: practical exchanges between the three founders, punctuated by Ishaq's dry observations. The "What are we building?" exchange should feel spontaneous, not rehearsed — a moment of genuine wonder from men who have been working too hard to think about meaning.
+- Sensory lead: smell — the workshop's familiar tang of lime and wet pulp for Omar's scene; the sharper smells of ink and parchment in the scribal quarter for Ishaq's scene. Two worlds, two recruitment pitches, two sensory environments.
+- Prose rhythm: Omar's scene is warm, unhurried, conversational. Ishaq's scene is faster, sharper, more verbal. The shift in rhythm mirrors the difference between the two partnerships.
+- Dialogue: Omar speaks dry and practical. Ishaq speaks in precise, sardonic sentences — the sharpest dialogue voice in the series. Their first exchange should establish that Ishaq is Yusuf's intellectual equal and that their friendship will be built on mutual respect, not on one man deferring to another.
 
 ### Deep Research (if needed)
-- `research/world-building/baghdads-paper-trade.md` — paper workshop setup, production equipment, Karkh geography
-- `research/finance/partnership-finance-empire.md` — legal structure, formal partnership documentation
-- `research/world-building/a-tour-of-baghdad.md` — Karkh district, commercial premises
-- `research/digests/pedersen--the-arabic-book.md` — paper production methods, watermarking techniques
-- `research/digests/hunter--papermaking.md` — physical details of setting up a paper workshop
+- `research/finance/partnership-finance-empire.md` — mudaraba, inan, partnership legal structures
+- `research/world-building/the-people-of-yusufs-baghdad.md` — Nestorian Christians in Baghdad, the scribal community
+- `research/world-building/baghdads-paper-trade.md` — paper workshop operations, the commercial landscape
+- `research/characters/abu-said-master-of-karkh.md` — the workshop setting, Abu Said's legacy
+- `research/digests/morony--jews-in-iraq.md` — context for non-Muslim commercial communities

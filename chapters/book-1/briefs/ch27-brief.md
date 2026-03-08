@@ -1,38 +1,38 @@
 **Status:** Prospective | No ledger entry
 
-## BRIEF: Chapter 27 — The Family's Kiln
+## BRIEF: Chapter 26 — The Return and the Restlessness
 
-**When/Where:** Merv, the oasis city of Khorasan. Autumn 789 CE. Yusuf is 19.
-**Arriving from:** Chapter 26 — Baghdad departure. Yusuf has crossed the Iranian plateau, the language shifting from Arabic to Persian as he moves east. He carries Abu Said's suftaja, Ali's list of family names, and the restlessness of a man who has outgrown his world.
+**When/Where:** Baghdad, summer 789 CE. Yusuf is 19.
+**Arriving from:** Chapter 25 — the Mosul journey. Yusuf carries Isho's lesson (trust runs along confessional lines), the monk's question (paper's permanence), and Omar's blunt soldier's perspective. He returns to the workshop changed.
 
 ### Characters Present
-- **Yusuf:** Arriving in his ancestral homeland — a place that is both "home" (his father's stories, the family name, the Khorasani identity that shapes his social standing) and utterly foreign (the Silk Road world he has never experienced). The paradox of homecoming without home.
-- **Umar (Ustad):** Present but receding. By Merv, his role is observational — Yusuf is making his own decisions, and Umar is watching to see what kind of man emerges.
-- **Musa:** Present for the Merv journey. His function will shift from emotional warmth to moral witness as the sequence progresses. Here, he is still the warm companion.
-- **The distant cousin (old potter):** Weeps at the family name. He knows the lineage but not the person — recognition without relationship.
+- **Yusuf:** Restless. The workshop feels too small now. He has seen Damascus, Mosul, the empire's fractures and frontiers. His commercial vision is expanding faster than his world allows.
+- **Abu Said:** Notices Yusuf's restlessness. He is both proud and wary — the apprentice is becoming something he did not intend. Abu Said raises the Merv opportunity strategically, testing whether Yusuf is ready.
+- **Omar al-Dimashqi:** Running the workshop smoothly — perhaps too smoothly. His quiet competence is a foil for Yusuf's hunger. He is content where Yusuf is restless.
+- **Ali ibn Suleiman (father):** Learns of the Merv plan and is deeply moved. Khorasan is his homeland. He gives Yusuf a list of family names — distant relatives, the old neighbourhood, the kiln his father Suleiman built. This is tender and rare.
 
 ### What This Chapter Must Accomplish
-- **The homecoming paradox.** Three techniques serve this: (1) *Linguistic familiarity* — Yusuf hears words his father uses at home, spoken by strangers. Uncanny rather than comforting. (2) *Physical recognition* — the kiln grandfather Suleiman built, the house where Ali was born. Yusuf places Ali's tile fragment on the kiln wall and then takes it back. This gesture — placing and retrieving — is the emotional core. He cannot leave a part of himself here because this is not, finally, his home. It is his father's. (3) *The cousin who weeps* — a distant relative, an old potter, cries at the al-Khorasani name. Recognition without relationship. The emotional weight is the gap between what the name means to the cousin and what it means to Yusuf.
-- **Merv as Silk Road world.** The sensory palette must expand dramatically: Sogdian merchants with distinctive peaked felt caps, turbaned Persians, Turkic faces, the occasional Chinese trader. The oasis itself — green against desert, sustained by ancient irrigation — is dispersed, a collection of settlements held together by water and trade rather than walls.
-- **The Silk Road economy.** Silk in quantities Yusuf has never seen, musk, lapis lazuli, amber, goods that have travelled from China. The scale dwarfs the Iraqi commercial world he knows. Baghdad is not the centre of everything but one node in a network that stretches far beyond the caliphate's borders.
-- **Tenderness — a rare emotion.** Yusuf understands what Ali sacrificed by leaving Merv and why he clings to his craft. The tile fragment is not just an object — it is his father's exile made tangible. Allow this tenderness without sentimentality.
+- **Baghdad as return-journey displacement.** Familiar things feel different because the traveller has changed. The workshop's rhythms, once all-encompassing, now feel like one small corner of a larger world. Baghdad's sounds and smells are the same — but Yusuf hears them differently, as one city's particular signature among many.
+- **The Merv opportunity.** Abu Said has a large paper order from the governor's court at Merv. He proposes the journey with hesitation — Khorasan is restive, the distance is enormous, the risks are real. The *suftaja* he gives Yusuf represents Abu Said's trust, and its limits. This is the instrument Yusuf will later betray.
+- **Ali and the list of names.** Ali's reaction to the Merv plan is the chapter's emotional centre. This is not commercial — it is personal. Ali left Merv decades ago, carrying his craft and his grief. Giving Yusuf the list of family names is an act of love and of proxy pilgrimage. The scene should be tender without sentimentality.
+- **Plant the suftaja as trust.** The physical document — Abu Said's letter of credit — should be rendered with material specificity. Its weight, its seal, the quality of paper it is written on. This object will become the instrument of betrayal in Ch 30. The reader should feel its significance now.
+- **Transition to the eastern journey.** The chapter ends with departure or the preparation for departure. The Khorasan Road — east, toward origin, possibility, and danger.
 
 ### Continuity
-- Ali's list of family names (Ch 26) pays off here. The cousin, the kiln, the old house.
-- The tile fragment from the Khorasan Gate — carried across the empire — is Ali's craft distilled to a portable object. Yusuf places it on the kiln wall (connection) and takes it back (he is not his father). This motif recurs during the siege of Baghdad in Book 4, when a tile falls from the Khorasan Gate.
-- The Silk Road economy's scale foreshadows the Constantinople discovery — the world is even larger than Merv suggests. Each journey widens Yusuf's map.
-- Abu Said's Sogdian heritage comes alive here. Abu Said left a world like this — Sogdian merchants, the Silk Road, Central Asian craft traditions. Understanding Merv deepens Yusuf's understanding of his master.
-- The linguistic shift to Persian echoes the "sensory shift as border crossing" principle — the ear registers the border before the eye.
+- The *suftaja* given here is the one Yusuf will misuse in Ch 30. It must be clearly established as a document of specific trust — authorised for a specific purpose (the paper sale at Merv), with clear limits.
+- Ali's list of family names will pay off in Ch 27 (the family's kiln, the weeping cousin).
+- Abu Said's hesitation about Khorasan foreshadows his parting speech in Ch 32 — he already senses the risk in Yusuf's hunger.
+- Omar al-Dimashqi's quiet contentment sets up the contrast that will define their partnership: Yusuf hungers, Omar crafts. The partnership works because of this difference — and eventually strains because of it.
+- The workshop "running smoothly" connects to Abu Said's teaching — the system works without crisis, but Yusuf sees stasis where Abu Said sees sufficiency.
 
 ### Voice Reminders
-- Sensory lead: the oasis — green against desert, irrigation channels, mulberry trees. Smell: silk (faint animal warmth), mulberry, sharp cumin varieties unfamiliar from Baghdad, cold steppe air still clinging. Sound: a dozen languages, market chatter in Persian, the call to prayer in a slightly different melodic mode.
-- Prose rhythm: the homecoming demands emotional weight — longer sentences for the kiln scene, the cousin scene. Let the prose slow down for tenderness. But keep the Silk Road market scenes at medium pace, driven by Yusuf's commercial curiosity.
-- The tile fragment moment must land without explanation. Show the gesture — placing and retrieving. The reader will feel it.
+- Sensory lead: Baghdad in summer. Familiar smells — the workshop's wet-rag and lime tang, Ali's tile-glaze chemicals, the Khorasan Gate neighbourhood's particular blend of dust and cooking fires. But now filtered through a traveller's ear — Yusuf notices the specificity of these smells for the first time.
+- Prose rhythm: reflective and domestic. This is a pause between journeys. The rhythm should be medium — not the road's monotony or the desert's intensity, but the quieter tension of a person who has outgrown his container.
+- The Ali scene should use silence and physical gesture — the list of names written carefully, the father's hands, the things not said. Ali's voice is slow and deliberate.
 
 ### Deep Research
-- `research/craft/long-journeys-worldbuilding-plan.md` — Section C.1 (the homecoming paradox), C.2 (the Silk Road world)
-- `research/journeys/j6-journey-home-merv-year7.md` — Merv's physical character, the family pilgrimage
-- `research/digests/vaissiere--sogdian-traders.md` — Sogdian merchant class, the Merv commercial world, peaked felt caps
-- `research/digests/frye--golden-age-of-persia.md` — Khorasan, Merv as oasis city, Persian culture
-- `research/digests/hansen--silk-road.md` — Silk Road commerce, goods, scale
-- `research/craft/MASTER-PLAN-journey-worldbuilding.md` — Commandment VI (arrive in two beats), Commandment VIII (cultural contrast as double mirror)
+- `research/craft/long-journeys-worldbuilding-plan.md` — Section C.1 (the homecoming paradox, setup for Merv)
+- `research/world-building/baghdads-paper-trade.md` — the workshop world Yusuf is leaving behind
+- `research/world-building/paper-mill-apprenticeship.md` — the master-apprentice relationship at this late stage
+- `research/craft/MASTER-PLAN-journey-worldbuilding.md` — Commandment I (every place must change Yusuf) applied to the return
+- `research/digests/frye--golden-age-of-persia.md` — Khorasan as homeland, the Khorasani identity

@@ -1,40 +1,40 @@
 **Status:** Prospective | No ledger entry
 
-## BRIEF: Chapter 11 — The Land of Canals
+## BRIEF: Chapter 10 — The Proposition
 
-**When/Where:** The Great Khorasan Road east of Baghdad. Mesopotamian plain, irrigated farmland. Night travel to avoid heat. Spring 788 CE. Yusuf is 18.
-**Arriving from:** Chapter 10 prepared the journey — cargo packed, caravan hired, Musa invited. Now the journey begins. Yusuf passes through the Khorasan Gate for the second time (the first was the Kufa journey south; this time he goes east, toward ancestry and the Silk Road).
+**When/Where:** Baghdad. Abu Said's workshop, the Karkh district, and the caravansaries outside the Khorasan Gate. Spring 788 CE. Yusuf is 18.
+**Arriving from:** Chapter 9 reconnected Yusuf and Musa. Musa opened the emotional register — music ambushed Yusuf. The Sogdian visitor from Chapter 8 has planted the idea of an eastern trade route. Abu Said is now ready to propose the Rayy venture.
 
 ### Characters Present
-- **Yusuf:** More experienced than on the Kufa journey but still young. The direction matters: east, not south. Toward Khorasan, Merv, the family's origins. He processes the landscape commercially (the *barid* as information infrastructure) and begins to notice Musa's social gift with discomfort.
-- **Umar (Ustad Umar):** Reads the road like a text. Knows where the current shifts in a canal, which caravansary has clean water, where bandits have been active. Teaches Yusuf to observe the road itself: hoof marks, the age of dung, how many days since another caravan passed. His knowledge is practical and military-adjacent.
-- **Musa ibn Tariq:** On his first journey of any kind. His reactions are raw, unfiltered. He plays softly during the night march and the handlers respond — someone hums along, someone shouts a request. His social ease opens doors Yusuf's watchfulness does not. He notices birdsong, stars, the beauty of canal water glinting at night.
-- **Caravan personnel:** The caravan master (*ra'is al-qafila*), animal handlers, guards, pilgrims. Background presence but the social hierarchy of the road is visible in movement and camp.
+- **Yusuf:** Energised by the Musa reconnection but focused again on work. Eager for the next challenge after proving himself in the Suq al-Warraqin. Sees the Rayy proposition as his chance to move beyond Baghdad's commercial orbit.
+- **Abu Said:** Proposes the Rayy venture — luxury paper for the provincial administration. His Sogdian connection (seeded in Ch 8) makes this route personally meaningful, though he does not explain why. His precision in preparation reveals the craft of commerce: paper must be packed differently for a mountain crossing than for a river journey.
+- **Umar (Ustad Umar):** Will accompany the journey as Abu Said's representative, as on the Kufa trip. Helps plan logistics. His knowledge of the eastern road is practical and military-adjacent.
+- **Omar al-Dimashqi:** Helps pack cargo and reveals his own ambition — a finer paper grade he is developing. His ambition is artisanal, not commercial. The distinction between the two men deepens: Omar makes, Yusuf sells.
+- **Musa ibn Tariq:** Yusuf invites Musa as entertainment for the caravan. Musicians on caravans served a real function — morale, social lubrication, and information gathering. This invitation is the beginning of their adult friendship.
 
 ### What This Chapter Must Accomplish
-- Establish the Khorasan Gate as threshold. Yusuf passes through the gate his father's tiles adorn. East, toward ancestry. The emotional weight is different from the Kufa departure — this is a journey into the unknown, toward origin.
-- Show night travel on the Mesopotamian plain: stars dense as powder, soft rhythmic padding of camel feet, creak of leather harness, lead donkey's bell. The irrigated landscape at night — canals glinting silver, croaking of frogs, smell of damp earth and dung. A world experienced through sound and smell more than sight.
-- Introduce the *barid* system. A postal rider thunders past at speed. The empire's nervous system — couriers carrying state intelligence. Yusuf registers the system as infrastructure: information moves faster than goods, and whoever controls information controls commerce. This is the first seed of his future intelligence network.
-- Show the Nahrawan canal crossing — the last outpost of Baghdad's direct influence. Beyond this, the landscape empties. Sasanian ruins appear (Daskara of the King), a reminder that empires precede and outlast the current one.
-- Plant Yusuf's recognition of Musa as an intelligence asset. A handler tells Musa, casually over a shared meal, that the caravan master has a dispute with a certain merchant family in Hulwan. Musa does not register the information's value. Yusuf does, and the recognition shames him. This is the first seed of using people he loves as instruments.
-- Stealth thesis: the road between destinations is not empty — it is a text to be read, and the empire's true structure (canals, postal riders, ruins of older empires) is visible to those trained to see it.
+- Launch the Rayy journey as a narrative proposition. Abu Said's challenge: sell luxury paper to the provincial administration in Rayy, a Persian city on the Silk Road. The stakes are higher than Kufa — farther, more dangerous, and into a culturally different world.
+- Show caravan economics in detail: selecting paper stock (which grades for which markets), wrapping in oilcloth against mountain damp, calculating weight-to-value ratios. Abu Said's precision reveals that preparation is itself a craft.
+- Show the caravan hiring process at the caravansaries outside the Khorasan Gate: the social hierarchy of the road (*ra'is al-qafila*, *badraqa*, animal handlers, cook, guides). Hiring into a caravan is itself a negotiation — share of costs, position in the column, liability for lost cargo.
+- Deepen Omar al-Dimashqi's character through his paper project. Paper is not a monolith but a spectrum of qualities. Omar's new grade — finer, more expensive — is an artisan's bet. Yusuf recognises its commercial potential before Omar does.
+- Plant Musa's intelligence function. Yusuf's invitation is partly genuine friendship, partly commercial instinct. People tell things to a musician they would never tell a merchant. Yusuf does not consciously frame it this way yet, but the seed is planted.
+- Stealth thesis: every journey begins before the first step — in the selection of cargo, the choice of companions, and the calculation of risk.
 
 ### Continuity
-- The Khorasan Gate tiles are Ali's masterpiece, referenced in Ch 7. Yusuf passes through them here — the motif of departure through the father's work.
-- The *barid* system, observed here, becomes critically important in Books 2-3 (Yusuf builds a private intelligence network modelled on it).
-- Musa-as-intelligence-asset is planted here, pays off across the series. The shame Yusuf feels is the first tremor of his fatal flaw — reading people as systems rather than as human beings.
-- Sasanian ruins (Daskara) plant the theme of deep time and imperial impermanence. Echoed in Rayy (Ch 14), where Sasanian foundations are visible beneath Islamic additions.
-- Night travel contrasts with the Kufa journey (which was daytime, southward, on the Tigris route). The sensory world is entirely different.
+- Abu Said's Sogdian visitor from Ch 8 is the proximate cause of this journey. The connection to Rayy is through Sogdian merchant networks — a thread that will pay off in Ch 14.
+- Omar al-Dimashqi's new paper grade is planted here and pays off in Ch 17 (Abu Said examines it and smiles) and Ch 35 (the partnership).
+- Musa's invitation establishes the pattern of musician-as-companion that recurs in the Damascus journey (Ch 19+).
+- The Khorasan Gate departure (Ch 11) is prepared here — Yusuf will pass through the gate his father's tiles adorn.
+- Paper packing for mountain conditions is a practical detail that pays off in Ch 12 when a mule slips and nearly loses a bale.
 
 ### Voice Reminders
-- Sensory lead: This is a NIGHT chapter. Sound and smell dominate over sight. The lead donkey's bell. Canal water glinting. Frogs. Damp earth. The Zagros mountains appearing as a dark jagged line on the eastern horizon at dawn — the first visual punch after a chapter of darkness.
-- Prose rhythm: The night-march sections should use longer, hypnotic sentences — the monotony of movement rendered in rhythmic prose. Short sentences for moments of disruption: the *barid* rider, the Musa-intelligence moment, the first sight of the Zagros at dawn.
-- Musa's presence lightens the chapter. His unfiltered reactions (delight at stars, fascination with handlers' songs) provide emotional contrast to Yusuf's analytical observation.
-- Belgariad technique: MOVE/PAUSE rhythm. The night march is MOVE; the Nahrawan stop and the shared-meal scene are PAUSE. World-building happens in the pauses.
+- Sensory lead: The workshop smells dominate the first half (lime, wet rags, steam, the THUMP of pulping hammers). The caravansary hiring ground shifts to dust, camel dung, shouts of handlers, jangle of harness.
+- Prose rhythm: Medium pace. Preparation scenes should have the tension of competence — the reader should feel the weight of each decision (which paper, how packed, which caravan). Not rushed, not reflective. Businesslike, with the detail itself carrying the drama.
+- Dialogue: Abu Said is sparse, authoritative — questions rather than lectures. Omar al-Dimashqi is dry, practical. Musa is enthusiastic. The chapter weaves three distinct voices.
 
 ### Deep Research (if needed)
-- `research/journeys/j3-paper-road-to-rayy.md` — Day 1-7 itinerary, terrain, canal crossings
-- `research/journeys/j3-baghdad-zagros-research.md` — Mesopotamian plain, Nahrawan, Daskara
-- `research/digests/silverstein--postal-systems.md` — the *barid* system, postal riders, intelligence function
-- `research/digests/bulliet--camel-and-wheel.md` — night travel logistics, road conditions
-- `research/world-building/baghdad-land-grant.md` — Khorasan Gate neighbourhood, canal geography
+- `research/journeys/j3-paper-road-to-rayy.md` — caravan logistics, cargo preparation, route planning
+- `research/journeys/j3-baghdad-zagros-research.md` — caravan assembly, departure procedure, hiring
+- `research/digests/bulliet--camel-and-wheel.md` — caravan structure, animal logistics
+- `research/world-building/baghdads-paper-trade.md` — paper grades, packing, commercial distribution
+- `research/digests/hunter--papermaking.md` — paper types, sizing for travel conditions

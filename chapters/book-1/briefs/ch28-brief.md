@@ -1,37 +1,38 @@
 **Status:** Prospective | No ledger entry
 
-## BRIEF: Chapter 28 — The Chess Player
+## BRIEF: Chapter 27 — The Family's Kiln
 
-**When/Where:** The governor's court at Merv, a rose-scented garden. Autumn 789 CE. Yusuf is 19.
-**Arriving from:** Chapter 27 — the homecoming. Yusuf has touched his family's past and felt its weight. Now he must execute the commercial mission that justified this journey: selling Abu Said's paper to the governor's court.
+**When/Where:** Merv, the oasis city of Khorasan. Autumn 789 CE. Yusuf is 19.
+**Arriving from:** Chapter 26 — Baghdad departure. Yusuf has crossed the Iranian plateau, the language shifting from Arabic to Persian as he moves east. He carries Abu Said's suftaja, Ali's list of family names, and the restlessness of a man who has outgrown his world.
 
 ### Characters Present
-- **Yusuf:** Deploying everything he has learned across four journeys. This is the most sophisticated commercial encounter of his life — not a market transaction but a cultural performance. He draws on his Khorasani heritage (the family's Persian roots) to hold his own in a world of poetry and philosophy.
-- **Bahram (chief scribe):** A poet, chess player, and cultural gatekeeper. He does not discuss commerce until the cultural conversation has been satisfied. Bahram is not hostile — he is discriminating. He wants to know if Yusuf is worth his time before he is worth his money.
-- **Umar (Ustad):** Peripheral. This is Yusuf's negotiation, not his.
-- **Musa:** Possibly present at the margins. His music would be valued at a Persian court gathering.
+- **Yusuf:** Arriving in his ancestral homeland — a place that is both "home" (his father's stories, the family name, the Khorasani identity that shapes his social standing) and utterly foreign (the Silk Road world he has never experienced). The paradox of homecoming without home.
+- **Umar (Ustad):** Present but receding. By Merv, his role is observational — Yusuf is making his own decisions, and Umar is watching to see what kind of man emerges.
+- **Musa:** Present for the Merv journey. His function will shift from emotional warmth to moral witness as the sequence progresses. Here, he is still the warm companion.
+- **The distant cousin (old potter):** Weeps at the family name. He knows the lineage but not the person — recognition without relationship.
 
 ### What This Chapter Must Accomplish
-- **Commerce as culture.** The paper sale happens only after an afternoon of chess, poetry, and philosophical conversation. Bahram discusses the superiority of the Persian epic over the Arab ode. They debate a chess opening. Yusuf, drawing on his Khorasani family's culture, achieves a respectable draw. Only then does Bahram say the equivalent of: "A man who understands the game and the poem will understand the paper. Let us discuss your prices." This is the final commercial lesson of the journey sequence: at the highest echelons, commerce is art.
-- **The chess game as set piece.** The game should be rendered with the same narrative intensity as a negotiation — each move carries subtext. Yusuf's strategy (defensive? patient? aggressive?) should reflect his character. A draw — not a victory — is the right outcome. He earns respect without overreaching.
-- **The rose garden as Persian court world.** Water channels, rose fragrance, the unhurried pace of a culture that values conversation as an art form. This is a different world from the suq or the road — commerce conducted in beauty, where patience is a sign of power.
-- **The casual mention of the auction.** Bahram mentions, almost in passing, that a governor has been executed and his assets are being auctioned. This is delivered as court gossip, not as a dramatic revelation. But it is the fuse for everything that follows.
-- **The paper sale succeeds.** Yusuf closes the deal. This is a genuine commercial triumph — his first major success through cultural intelligence rather than product quality alone.
+- **The homecoming paradox.** Three techniques serve this: (1) *Linguistic familiarity* — Yusuf hears words his father uses at home, spoken by strangers. Uncanny rather than comforting. (2) *Physical recognition* — the kiln grandfather Suleiman built, the house where Ali was born. Yusuf places Ali's tile fragment on the kiln wall and then takes it back. This gesture — placing and retrieving — is the emotional core. He cannot leave a part of himself here because this is not, finally, his home. It is his father's. (3) *The cousin who weeps* — a distant relative, an old potter, cries at the al-Khorasani name. Recognition without relationship. The emotional weight is the gap between what the name means to the cousin and what it means to Yusuf.
+- **Merv as Silk Road world.** The sensory palette must expand dramatically: Sogdian merchants with distinctive peaked felt caps, turbaned Persians, Turkic faces, the occasional Chinese trader. The oasis itself — green against desert, sustained by ancient irrigation — is dispersed, a collection of settlements held together by water and trade rather than walls.
+- **The Silk Road economy.** Silk in quantities Yusuf has never seen, musk, lapis lazuli, amber, goods that have travelled from China. The scale dwarfs the Iraqi commercial world he knows. Baghdad is not the centre of everything but one node in a network that stretches far beyond the caliphate's borders.
+- **Tenderness — a rare emotion.** Yusuf understands what Ali sacrificed by leaving Merv and why he clings to his craft. The tile fragment is not just an object — it is his father's exile made tangible. Allow this tenderness without sentimentality.
 
 ### Continuity
-- The chess-game negotiation represents everything Yusuf has learned across four journeys: reading people (Kufa), the Sogdian system (Rayy), the side door (Damascus), cross-confessional respect (Mosul). All of it converges here.
-- Bahram's casual mention of the governor's execution and the auction is the setup for Ch 29 (Dastan). It must feel incidental, not portentous — the way real catastrophe enters one's awareness.
-- The success here makes the silk gamble in Ch 30 possible — Yusuf has legitimately completed Abu Said's mission before he betrays his trust.
-- The Persian literary culture connects to Abu Said's Sogdian heritage and to Ali's family roots. Yusuf's Khorasani identity, usually a social marker in Baghdad, becomes a real cultural resource here.
+- Ali's list of family names (Ch 26) pays off here. The cousin, the kiln, the old house.
+- The tile fragment from the Khorasan Gate — carried across the empire — is Ali's craft distilled to a portable object. Yusuf places it on the kiln wall (connection) and takes it back (he is not his father). This motif recurs during the siege of Baghdad in Book 4, when a tile falls from the Khorasan Gate.
+- The Silk Road economy's scale foreshadows the Constantinople discovery — the world is even larger than Merv suggests. Each journey widens Yusuf's map.
+- Abu Said's Sogdian heritage comes alive here. Abu Said left a world like this — Sogdian merchants, the Silk Road, Central Asian craft traditions. Understanding Merv deepens Yusuf's understanding of his master.
+- The linguistic shift to Persian echoes the "sensory shift as border crossing" principle — the ear registers the border before the eye.
 
 ### Voice Reminders
-- Sensory lead: the rose garden. Smell: roses, water on warm stone, the faint musk of formal Persian perfume. Sound: water channels, the click of chess pieces on an inlaid board of ebony and ivory, the measured cadence of Persian-inflected Arabic.
-- Prose rhythm: slow and deliberate. The chess game is a formal dance — render it with patience. Short paragraphs for individual moves or exchanges. Let the silences between moves do work.
-- Dialogue: Bahram speaks with literary precision. He is not a bureaucrat; he is a cultivated man who happens to control procurement. His speech should feel like poetry applied to commerce.
+- Sensory lead: the oasis — green against desert, irrigation channels, mulberry trees. Smell: silk (faint animal warmth), mulberry, sharp cumin varieties unfamiliar from Baghdad, cold steppe air still clinging. Sound: a dozen languages, market chatter in Persian, the call to prayer in a slightly different melodic mode.
+- Prose rhythm: the homecoming demands emotional weight — longer sentences for the kiln scene, the cousin scene. Let the prose slow down for tenderness. But keep the Silk Road market scenes at medium pace, driven by Yusuf's commercial curiosity.
+- The tile fragment moment must land without explanation. Show the gesture — placing and retrieving. The reader will feel it.
 
 ### Deep Research
-- `research/journeys/j6-journey-home-merv-year7.md` — the chess negotiation, Bahram's character
-- `research/craft/long-journeys-worldbuilding-plan.md` — Section C.3 (the Sogdian encounter), setup for the auction
-- `research/digests/frye--golden-age-of-persia.md` — Persian literary culture, court etiquette, chess in the Islamic world
-- `research/craft/MASTER-PLAN-journey-worldbuilding.md` — commerce-as-foreground (Eddings' Silk elevated to art form)
-- `research/digests/vaissiere--sogdian-traders.md` — Sogdian presence at Merv, commercial culture
+- `research/craft/long-journeys-worldbuilding-plan.md` — Section C.1 (the homecoming paradox), C.2 (the Silk Road world)
+- `research/journeys/j6-journey-home-merv-year7.md` — Merv's physical character, the family pilgrimage
+- `research/digests/vaissiere--sogdian-traders.md` — Sogdian merchant class, the Merv commercial world, peaked felt caps
+- `research/digests/frye--golden-age-of-persia.md` — Khorasan, Merv as oasis city, Persian culture
+- `research/digests/hansen--silk-road.md` — Silk Road commerce, goods, scale
+- `research/craft/MASTER-PLAN-journey-worldbuilding.md` — Commandment VI (arrive in two beats), Commandment VIII (cultural contrast as double mirror)

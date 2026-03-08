@@ -1,41 +1,42 @@
 **Status:** Prospective | No ledger entry
 
-## BRIEF: Chapter 13 — The Chieftain's Tent
+## BRIEF: Chapter 12 — The World Turns Upward
 
-**When/Where:** Deep in the Zagros passes. Kurdish territory. Spring 788 CE. Yusuf is 18.
-**Arriving from:** Chapter 12 established the mountain ascent, the physical ordeal, Yusuf's hand injury, and the Kurdish scouts watching from the ridges. The power structure has shifted — the Caliph's authority does not reach here. Now the caravan must negotiate for passage.
+**When/Where:** The Zagros foothills. Hulwan (staging town) and the beginning of the mountain ascent. Spring 788 CE. Yusuf is 18.
+**Arriving from:** Chapter 11 crossed the Mesopotamian plain at night. The Zagros appeared as a dark jagged line at dawn. Now the terrain changes completely — flat earth gives way to hard stone. The animal economy shifts. The world turns vertical.
 
 ### Characters Present
-- **Yusuf:** Watching, learning, heart pounding. He is invisible in this negotiation — a junior member of the caravan, permitted to observe but not to speak. He learns that the contract systems he knows (written, witnessed, legally enforceable) are one system among many. In the mountains, enforcement is personal. This lesson transforms his understanding of trust.
-- **Umar (Ustad Umar):** Handles the negotiation or advises the caravan master. He speaks through a translator but reads the chieftain's body language. His military experience has taught him how men with weapons think. Counsels patience during the snowstorm when Yusuf wants to push through.
-- **Musa ibn Tariq:** Fascinated by Kurdish music — shepherds' songs, a type of flute he has never heard. He tries to learn a melody. The Kurdish musicians are initially suspicious, then amused, then generous. Music crosses the language barrier. Musa's social function on this journey becomes visible: he creates connection where Yusuf cannot.
-- **The Kurdish chieftain:** A man whose authority is etched into the lines of his face. Lean, hard, deliberate. His wealth is in flocks, not coin. His word, backed by the dagger at his belt, is the only contract that matters. He dismisses silver dirhams and demands Damascus steel blades — he understands value in purely practical terms.
-- **Caravan master:** The negotiator. Must perform a critical act of "code-switching" — leaving the monetised, contract-based logic of the city for a world governed by personal honour and the tangible value of goods.
+- **Yusuf:** Physically tested for the first time on this journey. The mountains are not a market to be read — they are a force that does not care about ambition. His hand injury (saving the paper bale) is both heroic and humbling. The mountains correct his growing confidence.
+- **Umar (Ustad Umar):** Becomes essential. He has crossed the Zagros before. His knowledge of the terrain is survival knowledge — where to camp, which paths are stable, how to read weather from cloud patterns on the peaks. Gruff but his competence is its own eloquence.
+- **Musa ibn Tariq:** Physically struggling. The thin air, the cold, the vertiginous paths — he is a city boy from flat Baghdad streets. But he does not complain. Instead, he observes: birdsong he has never heard, flowers he cannot name. His curiosity is artistic, not strategic, and it humanises the landscape that Yusuf is reading for threat and opportunity.
+- **Caravan master (*ra'is al-qafila*):** A whirlwind of activity at Hulwan — repacking cargo, hiring a local Kurdish guide, sharpening weapons. His competence in the transition reveals the logistics of terrain adaptation.
+- **Kurdish scouts:** Lean men with curved daggers, watching from the ridges above. Not threatening — yet. They are assessing. In the mountains, the Caliph's authority is a rumour.
 
 ### What This Chapter Must Accomplish
-- Dramatise the *badraqa* negotiation as high-stakes political theatre. The chieftain's tent: smoky, smelling of roasting meat and damp wool. Intensely sweet mint tea in tiny glasses. Pleasantries before business. The dance of offers — cloth and silver offered, coin dismissed (useless in mountains where trade is barter), Damascus steel demanded. The deal sealed by a shared cup of tea and the chieftain's honour. This is not the haggling of the suq; it is a ritual with its own grammar.
-- Reveal Kurdish mountain society through the negotiation. Pastoral economy — flocks of sheep and goats. Wealth in animals, not coin. Authority from terrain and martial reputation, not caliphal appointment. A society where a man's word, backed by the blade, is the only contract.
-- Show the late snowstorm as a test of judgment. The weather blocks the pass. Yusuf argues for pressing on; he pays for emergency supplies from a Kurdish village. Two pack animals lost. The cost is real — dead animals, lost supplies. Courage and cost are inseparable. Umar counsels patience; Yusuf's impatience costs him. This is a genuine failure with lasting consequences.
-- Political world-building through absence. The Caliph's name is never mentioned in the chieftain's tent. The *barid* does not reach here. Imperial law is irrelevant. Yusuf is seeing the empire's limits for the first time — not its borders, but the places within its nominal territory where it simply does not function.
-- Musa's music crossing the language barrier. Where Yusuf observes and analyses, Musa connects. The contrast in their methods of engaging with the unfamiliar is the chapter's emotional engine.
-- Stealth thesis: there are systems of trust older and more immediate than paper — systems backed by honour, blade, and terrain — and a man who understands only one system understands nothing.
+- Show Hulwan as frontier town where the animal economy changes completely. Dromedary camels sold, replaced with Bactrian camels (shaggy, two-humped, cold-adapted) and sure-footed mules. The reader sees the logistics of terrain adaptation.
+- Dramatise the physical reality of mountain travel. Narrow ledges, loose scree, sheer drops. A mule slips and nearly takes a bale of paper into a valley. Yusuf saves the cargo but injures his hand — the hand he uses for the finest paper work. Umar splints it without comment on bravery.
+- Register the air itself changing. Thin, crisp, carrying the scent of wild thyme, sage, and oak scrub. Temperature drops dramatically at night. Fires are essential. Men huddle close. Danger compresses community — on the plain, men spread out; in the mountains, they press together.
+- Show Kurdish scouts on the ridges — the power structure made visible. In the mountains, the Caliph's authority is a rumour, and these men are the true sovereigns of the terrain. This anticipates the *badraqa* negotiation in Ch 13.
+- Physical danger as teacher. The mountains do not care about ambition. Every step must be earned. This is the "too competent" corrective — Yusuf's growing confidence is checked by terrain that cannot be charmed, negotiated with, or analysed.
+- Stealth thesis: the world turns upward, and with it every assumption about power, value, and safety. The rules of the plain do not apply in the mountains.
 
 ### Continuity
-- The *badraqa* system was foreshadowed by the *khuwwa* (Bedouin protection payment) in Ch 1. Same principle, different terrain, different stakes.
-- Yusuf's impatience during the snowstorm is a character-consistent flaw — he pushes forward when patience would serve better. This pattern recurs (the silk gamble in Merv, Ch 30).
-- Two lost pack animals are a real financial cost that affects the Rayy chapters — fewer goods to sell, tighter margins.
-- The trust-by-blade principle (sealed by tea and honour, not by paper) reverberates into Ch 14 (trust-by-paper, the Sogdian suftaja) and Ch 17 (Abu Said: "trust can be weaponised"). The trust theme graduates: blade, paper, craft.
-- Musa's musical bridge across the language barrier plants his function as cultural ambassador — a role he will serve again on the Damascus caravan.
+- Paper packing for mountain conditions was prepared in Ch 10. The mule slip tests that preparation — the oilcloth saves the paper but the bale's binding tears.
+- Yusuf's hand injury is a real setback — he cannot do fine paper work for weeks. This is a consequence that lingers into the Rayy chapters.
+- Kurdish scouts plant the *badraqa* negotiation of Ch 13. The power shift from caliphal authority to tribal sovereignty begins here.
+- Hulwan's animal transition echoes the logistical detail of Ch 10's preparation — the caravan master's foresight paying off in practice.
+- The physical compression of community in the mountains shifts the caravan's social dynamics — intimacy forced by danger. This affects the Musa-Yusuf friendship (closer quarters, deeper conversations to come in Ch 15).
+- Musa's physical struggle but artistic curiosity plants his character arc: he grows harder through the journey (Ch 16: "Musa is physically harder now").
 
 ### Voice Reminders
-- Sensory lead: SMELL dominates the tent scene — smoke, roasting meat, damp wool, the metallic smell of weaponry, the sweetness of mint tea. Outside — snow on dark rock, bleating of goats, wind in the pass, creak of tent ropes. Touch: cold that penetrates layers of clothing.
-- Prose rhythm: The negotiation scene should be slow, deliberate, weighted. Each exchange (tea, cloth, coin, steel) is a beat. Long silences between offers — render these as physical pauses, described through sensory detail. The snowstorm scene should be fast, compressed, physical — the cost of Yusuf's decision felt in the body.
-- Dialogue: The chieftain speaks through a translator. His words should arrive with weight and delay. Umar's counsel is spare and blunt. Yusuf's internal argument (push vs. wait) should be rendered through thought, not dialogue.
-- Belgariad technique: Commerce as foreground drama. The *badraqa* negotiation carries the dramatic weight of a battle scene. Treat it with the same intensity, pacing, and stakes.
+- Sensory lead: TOUCH and SOUND dominate. Hard stony ground underfoot, the clatter of mule hooves on rock, thin cold air, the sudden silence of high altitude (no city noise, no market sounds, only wind and animal breath). Smell runs third: wild thyme, sage, oak scrub, damp wool, wood smoke.
+- Prose rhythm: The mountain scenes should feel physical. Shorter paragraphs. Sentences that register effort — the strain of climbing, the vertigo of narrow ledges. The mule-slip scene should be fast, compressed, tactile. The camp scene at night can breathe — longer sentences, the relief of stillness after exertion.
+- Belgariad technique: Landscape as mood. The mountains signal ordeal, transformation. The terrain type determines the prose's emotional register — plains were exposure and openness; mountains are compression and danger.
+- The two-beat arrival at Hulwan: the distant relief of seeing green foothills and the pomegranate-scented air, then the close-up reality of a tense staging post preparing for danger.
 
 ### Deep Research (if needed)
-- `research/journeys/j3-paper-road-to-rayy.md` — Day 18-26, Kurdish encounter, snowstorm, escort
-- `research/journeys/j3-mountain-passage-zagros-year6.md` — Kurdish tribal customs, *badraqa* ritual
-- `research/journeys/j3-baghdad-zagros-research.md` — Kurdish society, mountain weather, spring storms
-- `research/digests/kennedy--armies-of-caliphs.md` — frontier tribal relations, military-adjacent knowledge
-- `research/digests/lapidus--muslim-cities.md` — contrast between urban and tribal social organisation
+- `research/journeys/j3-paper-road-to-rayy.md` — Day 8-17, Hulwan, animal transition, Zagros ascent
+- `research/journeys/j3-mountain-passage-zagros-year6.md` — terrain, Kurdish scouts, mountain hazards
+- `research/journeys/j3-baghdad-zagros-research.md` — Hulwan description, Zagros geography, flora/fauna
+- `research/digests/bulliet--camel-and-wheel.md` — Bactrian vs. dromedary camels, mountain logistics
+- `research/digests/hillenbrand--islamic-architecture.md` — caravansarai description for Hulwan
