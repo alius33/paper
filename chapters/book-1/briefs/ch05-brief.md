@@ -1,9 +1,9 @@
 **Status:** Drafted | Ledger entry exists
 
-## BRIEF: Chapter 4 — The Poisoned Vat
+## BRIEF: Chapter 5 — The Poisoned Vat
 
 **When/Where:** Abu Said's paper workshop, Baghdad. Late spring/early summer 787 CE, spanning several weeks. Yusuf is 17.
-**Arriving from:** Chapter 3 ended with Yusuf leaving Kufa, carrying lessons about trust, political memory, and the gap between value and price. He has sold 37 sheets (24 on consignment, the rest to individual scribes). A modest result. He returns to a workshop that has continued without him.
+**Arriving from:** Chapter 4 ended with Yusuf leaving Kufa, carrying lessons about trust, political memory, and the gap between value and price. He has sold ~37 standard-grade sheets (24 on consignment to Abu Yaqub, the rest to individual scribes) and given away 2 Caliph's Cream sheets (to Tariq and a student). He carries Sa'dan's hobble cord on his wrist and the knowledge that "the system had two sides." A modest commercial result. He returns to a workshop that has continued without him.
 
 ### Characters Present
 - **Yusuf:** Disoriented by return — the workshop seems smaller, the courtyard bounded. Absorbing *siyaq* accounting in Abu Said's office each morning. Aware of Jabir's resentment but does nothing. On the roof after Jabir's dismissal, he draws the moral distinction between Tariq's theft and Jabir's sabotage: "Need is a wound... Want is a poison."

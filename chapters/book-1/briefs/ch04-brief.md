@@ -1,9 +1,9 @@
-**Status:** Drafted | Ledger entry exists
+**Status:** Revised draft (2026-03-08) | Ledger entry updated
 
-## BRIEF: Chapter 3 — The Wounded Heart
+## BRIEF: Chapter 4 — The Wounded Heart
 
 **When/Where:** Kufa, the old capital. Three days in the city. Spring 787 CE. Yusuf is 17.
-**Arriving from:** Chapter 2 ended with Yusuf not wanting the road to end. He has bonded with Sa'dan and Sayeed. Umar has warned him that Kufa is a wound. Yusuf has learned that information is a commodity and time is money. His legs have adapted; his mind is wide open.
+**Arriving from:** Chapter 3 ended with Yusuf seeing Kufa on the horizon ("a low, brown line... pressing itself flat against the ground"), hobble cord on his wrist from Sa'dan's farewell, the Banu Asad identity fracture fresh ("the system had two sides"), and the understanding that Kufa is "a wound." Umar's father story (Ch 2) has already cracked him open once.
 
 ### Characters Present
 - **Yusuf:** Arrives expecting grandeur, finds a city that crouches. Blurts out the wrong thing at Khalid ibn Dawud's shop ("Because this paper is better"), then self-corrects by giving paper to Tariq and a student. His first commercial failure and his first improvised strategy. Leaves Kufa changed.
@@ -23,15 +23,19 @@
 - Achieve a small foothold: 24 sheets on consignment plus scattered sales to scribes. Not a triumph, but a beginning.
 - Stealth thesis: "The people who valued it could not afford it. The people who could afford it did not value it."
 
-### Continuity
-- The iron chest is opened for the first time: twelve sheets of the Caliph's Cream in cotton wadding. Yusuf helped make some of these.
-- Yusuf carries two sheets inside his robe. Gives one to Tariq, one to the student. These are never recovered.
-- Sa'dan's farewell: "Keep your hands away from Biter's mouth." This is his last appearance in the drafted chapters.
+### Continuity (updated 2026-03-08)
+- The iron chest contains two tiers: 12 Caliph's Cream in cotton wadding (top) + 40 standard-grade sheets (below). Resolves the sheet count arithmetic.
+- Yusuf carries two CC sheets inside his robe. Gives one to Tariq, one to the student. These are never recovered.
+- Sa'dan notices the hobble cord on Yusuf's wrist (from Ch 3) and says "Keep it tight. It loosens in the heat." Sa'dan's farewell: "Keep your hands away from Biter's mouth." This is his last appearance in the drafted chapters.
 - Sayeed's farewell: "Al-Muin's men. Everyone knows us." Plants possible reunion.
-- Tariq's thin fingers folding the paper "with extraordinary care — precise, deliberate folds, the folds of a boy who understood that some things, once creased wrong, could not be uncreased" — this image recurs in Ch 4 as Yusuf reflects on the roof.
-- The *mudaraba* argument (rabb al-mal, mudarib, risk-sharing) overheard at the khan — first exposure to Islamic commercial law, paid off in Ch 5 through Omar's suftaja lesson.
-- Khalid ibn Dawud's unfinished sentence ("In a city that stole our future") and Abu Yaqub's speech about the revolution plant the political theme that runs through the series.
-- Abu Yaqub: 24 sheets on consignment, with a promise of future orders — creates a Kufa foothold referenced in Abu Said's debrief (Ch 4).
+- Umar's uncle story is explicitly the SECOND personal revelation (first was father in Ch 2). Yusuf recognises "certain places had the power to open him in ways that no conversation ever could."
+- Great Mosque described with architectural specifics: qibla wall with darker ancient stone at base and lighter repairs above, *dar al-imara* adjacent (closed, empty), columns with patched plaster.
+- Study circles differentiated: grammar (slate, letter forms), law (arguing, gesturing), Quran recitation (murmuring in unison).
+- Sarraf scene enhanced: coin-biting, scale comparison, Umar explains clipping — "The most valuable thing at that table is not the silver. It is the man's judgment."
+- Tariq scene connects to Ch 3 Banu Asad identity fracture: "every family in the empire seemed to carry a different scar from the same blade."
+- Abu Yaqub: 24 sheets of STANDARD GRADE (not CC) on consignment — creates a Kufa foothold referenced in Abu Said's debrief (Ch 5).
+- Final reflection adds identity thread: "The system had two sides" — echoing Ch 3.
+- Departure: hobble cord touched, "warm from his skin."
 
 ### Voice Reminders
 - Sensory lead: SOUND for Kufa (softer noise, worn rhythms, "even the buildings had been rounded by wind and time"). Smell for the khan at night (grilled meat, cumin, date syrup, woodsmoke). The Great Mosque: silence and shadow.

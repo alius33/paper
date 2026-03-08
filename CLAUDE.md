@@ -391,14 +391,14 @@ The novel opens in media res with Yusuf already on his first overland trade jour
 
 ### Current Chapter Status — Book 1
 
-> **NOTE:** Chapters 1–3 are drafted. Chapters 4–6 have archived drafts that need rewriting (old Chs 3–5 archived to `archive/book-1-drafts/`). Chapters 7–43 cover the remaining journeys, the founding of the House, and the Constantinople venture.
+> **NOTE:** Chapters 1–4 are drafted. Chapters 5–6 have archived drafts that need rewriting (old Chs 4–5 archived to `archive/book-1-drafts/`). Chapters 7–43 cover the remaining journeys, the founding of the House, and the Constantinople venture.
 
 | Draft # | File | Content | Approx Words | Status |
 |---------|------|---------|-------------|--------|
 | Ch 1 | `chapters/book-1/ch01-the-journey-to-kufa.md` | Caravan departure from Baghdad; Yusuf's first night on the road; meeting Sa'dan and Sayeed; sensory world of the camp | ~3,600 | Revised draft |
 | Ch 2 | `chapters/book-1/ch02-the-caliphs-road.md` | Days 1–3: first khan, ink merchant intelligence, Umar's backstory triggered by Yusuf's report; "learning to see beneath the surface" | ~4,100 | Current draft |
 | Ch 3 | `chapters/book-1/ch03-the-mothers-country.md` | Days 4–5: Banu Asad standoff, Layla/Banu Asad identity fracture, farewell campfire, Sa'dan's hobble cord, approach to Kufa | ~3,900 | Current draft |
-| Ch 4 | `archive/book-1-drafts/ch03-the-wounded-heart-old.md` | Arrival in Kufa; Umar at the Great Mosque; the bread thief (Tariq); the failed paper sales; the *khan* at night; Yusuf's commercial education | ~7,000 | Archived; rewrite pending |
+| Ch 4 | `chapters/book-1/ch04-the-wounded-heart.md` | Arrival in Kufa; Sa'dan/Sayeed farewell; Umar at the Great Mosque; the bread thief (Tariq); five failed paper sales; the *khan* at night (sarrafs, mudaraba); Abu Yaqub consignment; Yusuf's commercial education | ~7,300 | Revised draft |
 | Ch 5 | `archive/book-1-drafts/ch04-the-poisoned-vat-old.md` | Return to workshop; Abu Said's assessment of the Kufa trip; introduction of the *siyaq* accounting script; the poisoned sizing vat incident; Jabir's sabotage and expulsion | ~6,000 | Archived; rewrite pending |
 | Ch 6 | `archive/book-1-drafts/ch05-the-suq-al-warraqin-old.md` | Yusuf's first solo selling mission in Baghdad's paper market; the donkey; learning to sell in a known market; gradual confidence | ~6,000 | Archived; rewrite pending |
 
@@ -408,7 +408,7 @@ Refer to `series-overview.md` for the series arc and `book-1-plot.md` for the ch
 
 **Book 1 — The House of Paper (43 chapters, 5 parts):**
 *Story begins 787 CE, age 17. Childhood and apprenticeship are backstory, revealed organically.*
-1. **Part One — The Road (Chs 1–9):** The Kufa journey. The failed sale. Commercial education on the road. The Banu Asad/Layla identity fracture. Return to workshop. Baghdad selling missions. Workshop deepening, home life, bureaucratic navigation. (Chapters 1–3 drafted.)
+1. **Part One — The Road (Chs 1–9):** The Kufa journey. The failed sale. Commercial education on the road. The Banu Asad/Layla identity fracture. Return to workshop. Baghdad selling missions. Workshop deepening, home life, bureaucratic navigation. (Chapters 1–4 drafted.)
 2. **Part Two — The Mountain and the Market (Chs 10–19):** Musa's return. The Zagros/Rayy journey — physical danger, the Sogdian blueprint, Musa opens the emotional register. Baghdad interlude: Abu Said's debrief, Omar al-Dimashqi's new paper grade, letter from half-brother Omar.
 3. **Part Three — The Desert, the North, and the Ghost (Chs 20–33):** Damascus (desert crossing, papyrus market, active sabotage). Mosul (Nestorian networks, the military frontier, reunion with Omar). Merv — homecoming, Dastan destroyed by proximity to power (foundational motif), the silk gamble, the break with Abu Said.
 4. **Part Four — The Choice (Chs 34–38):** The family trust revealed. The central argument ("Paper is real"). The partnership with Omar al-Dimashqi and Ishaq. The founding of the House of Paper.
@@ -724,9 +724,10 @@ After writing or significantly revising a chapter:
 │   ├── book-1/
 │   │   ├── ch01-the-journey-to-kufa.md
 │   │   ├── ch02-the-caliphs-road.md
-│   │   ├── ch03-the-wounded-heart.md
-│   │   ├── ch04-the-poisoned-vat.md
-│   │   ├── ch05-the-suq-al-warraqin.md
+│   │   ├── ch03-the-mothers-country.md
+│   │   ├── ch04-the-wounded-heart.md
+│   │   ├── ch05-the-poisoned-vat.md
+│   │   ├── ch06-the-suq-al-warraqin.md
 │   │   ├── continuity-summary.md
 │   │   ├── continuity-part-1.md
 │   │   ├── continuity-part-2.md through part-5.md
@@ -839,9 +840,9 @@ If you need to orient yourself quickly in the project, read these files in this 
 1. This file (`CLAUDE.md`)
 2. `series-overview.md` — the series arc and cross-book structure
 3. `book-1-plot.md` — the Book 1 chapter-by-chapter outline (or whichever book is active)
-4. `chapters/book-1/ch05-the-suq-al-warraqin.md` — the most polished example of the voice
-5. `chapters/book-1/ch03-the-wounded-heart.md` — the longest and most textured chapter
-6. `chapters/book-1/ch04-the-poisoned-vat.md` — strong example of workshop/craft scenes
+4. `chapters/book-1/ch04-the-wounded-heart.md` — the longest and most textured chapter
+5. `chapters/book-1/ch05-the-poisoned-vat.md` — strong example of workshop/craft scenes (archived; rewrite pending)
+6. `chapters/book-1/ch06-the-suq-al-warraqin.md` — the most polished example of the voice (archived; rewrite pending)
 7. `chapters/book-1/continuity-summary.md` — compressed state at each Part boundary
 8. `context-manifest.md` — maps chapters to research files
 
