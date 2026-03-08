@@ -55,8 +55,6 @@ const CHAPTER_STATUS_MAP: Record<string, string> = {
   ch01: "Revised",
   ch02: "Draft",
   ch03: "Draft",
-  ch04: "Draft",
-  ch05: "Final",
 };
 
 function getChapterStatus(path: string): string {

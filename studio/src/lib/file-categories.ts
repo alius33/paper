@@ -19,7 +19,13 @@ export function categorizeFile(filePath: string): FileCategory {
   }
 
   if (normalized.startsWith('chapters/')) {
-    return 'chapter';
+    // Only actual chapter drafts (e.g. chapters/book-1/ch01-the-journey-to-kufa.md)
+    // not briefs, continuity files, or other tracking docs
+    const parts = normalized.split('/');
+    if (parts.length === 3 && /^ch\d+-/.test(parts[2])) {
+      return 'chapter';
+    }
+    return 'other';
   }
 
   if (normalized.startsWith('research/')) {
